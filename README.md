@@ -7,5 +7,3 @@ The version that can be found online is limited to product classes on 4 digits (
 You can retrieve directly in the /output folder the proximity data between classes and the json network associated to the Product Space represented in 2D.
 
 The project is still under development, all data are not yet available.
-
-Translated with www.DeepL.com/Translator (free version)
