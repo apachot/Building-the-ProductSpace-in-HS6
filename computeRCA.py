@@ -15,8 +15,14 @@ total_export = int(pd.DataFrame(data['export_value']).sum())
 total_import = pd.DataFrame(data['import_value']).sum()
 
 
-M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
-RCA = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+#M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+M = pd.DataFrame(pd.read_csv('output/M_cp.csv', header=0, index_col=0))
+
+#RCA = pd.DataFrame(pd.read_csv('output/RCA_cp.csv', header=0, index_col=0))
+
+#print("RCA.shape", RCA.shape)
+#RCA = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+#print("RCA.shape", RCA.shape)
 
 #print(M.head())
 
@@ -62,8 +68,9 @@ for i in range(0, len(location_id)):
 			RCA_cp = (X_cp / sum_c_X_cp) / (sum_p_X_cp / sum_cp_X_cp)
 		else:
 			RCA_cp = 0
+
 		#print("RCA_cp", RCA_cp)
-		RCA[i][j] = RCA_cp
+		#RCA[i,j] = RCA_cp
 
 		if (RCA_cp >= 1):
 			M_cp = 1
@@ -72,12 +79,13 @@ for i in range(0, len(location_id)):
 			print("location_id[i]", location_id[i], "product_id[j]", product_id[j])
 			print("RCA_cp", RCA_cp)
 			print("M_cp", M_cp)
-			M[i][j] = 1
+			M[i,j] = 1
 			
-			M.to_csv('output/M_cp.csv')
-			RCA.to_csv('output/RCA_cp.csv')
+			
+			#RCA.to_csv('output/RCA_cp.csv')
 		else:
 			M_cp = 0
+	M.to_csv('output/M_cp.csv')
 
 M.to_csv('output/M_cp.csv')
-RCA.to_csv('output/RCA_cp.csv')
+#RCA.to_csv('output/RCA_cp.csv')
