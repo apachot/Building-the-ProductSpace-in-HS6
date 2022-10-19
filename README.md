@@ -1,6 +1,6 @@
 # ProductSpace_HS6
 
-We propose a HS6 version of the famous Product Space developed by Harvard. If you want to know more about the Product Space, and the work on Economic Complexity, I invite you to visit the website of ...
+We propose a HS6 version of the famous Product Space developed by Harvard. If you want to know more about the Product Space, and the work on Economic Complexity, I invite you to visit https://atlas.cid.harvard.edu.
 
 The version that can be found online is limited to product classes on 4 digits (about 1600 classes). Here we propose an enriched version with more than 5000 classes.
 
