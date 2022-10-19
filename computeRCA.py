@@ -4,6 +4,8 @@ import pandas as pd
 data = pd.read_csv('input/country_hsproduct6digit_2019.csv')
 
 hs_product_code = pd.unique(data['hs_product_code'])
+pd.DataFrame(hs_product_code).to_csv('output/hs_product_code.csv')
+
 product_id = pd.unique(data['product_id'])
 location_code = pd.unique(data['location_code'])
 location_id = pd.unique(data['location_id'])
