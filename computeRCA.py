@@ -15,8 +15,8 @@ total_export = int(pd.DataFrame(data['export_value']).sum())
 total_import = pd.DataFrame(data['import_value']).sum()
 
 
-#M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
-M = pd.DataFrame(pd.read_csv('output/M_cp.csv', header=0, index_col=0))
+M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+#M = pd.DataFrame(pd.read_csv('output/M_cp.csv', header=0, index_col=0))
 
 #RCA = pd.DataFrame(pd.read_csv('output/RCA_cp.csv', header=0, index_col=0))
 
@@ -79,7 +79,7 @@ for i in range(0, len(location_id)):
 			print("location_id[i]", location_id[i], "product_id[j]", product_id[j])
 			print("RCA_cp", RCA_cp)
 			print("M_cp", M_cp)
-			M[i,j] = 1
+			M[i][j] = 1
 			
 			
 			#RCA.to_csv('output/RCA_cp.csv')
