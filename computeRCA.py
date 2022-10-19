@@ -56,7 +56,7 @@ for i in range(0, len(location_id)):
 		sum_cp_X_cp = total_export
 		#print("sum_cp_X_cp")
 
-		if (sum_c_X_cp>0 and sum_cp_X_cp>0):
+		if (sum_c_X_cp>0 and sum_cp_X_cp>0 and sum_p_X_cp>0):
 			RCA_cp = (X_cp / sum_c_X_cp) / (sum_p_X_cp / sum_cp_X_cp)
 		else:
 			RCA_cp = 0
@@ -77,4 +77,5 @@ for i in range(0, len(location_id)):
 		else:
 			M_cp = 0
 
-
+M.to_csv('output/M_cp.csv')
+RCA.to_csv('output/RCA_cp.csv')
