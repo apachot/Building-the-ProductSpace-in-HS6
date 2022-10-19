@@ -39,7 +39,7 @@ for i in range(0, len(location_id)):
 		#X_cp = pd.DataFrame(data['export_value']).sum()
 		# https://www.openstudio.fr/2020/11/26/autour-des-concepts-de-complexite-economique/
 
-		X_cp = data[(data['location_id'] == location_id[i]) & (data['product_id'] == product_id[j])]['export_value']
+		X_cp = int(pd.DataFrame(data[(data['location_id'] == location_id[i]) & (data['product_id'] == product_id[j])]['export_value']).sum())
 		if math.isnan(X_cp):
 			X_cp = 0
 		else:
