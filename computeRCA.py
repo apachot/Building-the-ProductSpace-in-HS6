@@ -6,13 +6,14 @@ data = pd.read_csv('input/country_hsproduct6digit_2019.csv')
 hs_product_code = pd.unique(data['hs_product_code'])
 location_code = pd.unique(data['location_code'])
 location_id = pd.unique(data['location_id'])
-print(data.head(30))
-print(hs_product_code)
+#print(data.head(30))
+#print(hs_product_code)
 total_export = int(pd.DataFrame(data['export_value']).sum())
 total_import = pd.DataFrame(data['import_value']).sum()
 
 
 M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+RCA = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
 
 #print(M.head())
 
@@ -48,7 +49,7 @@ for i in range(0, len(location_id)):
 		else:
 			RCA_cp = 0
 		#print("RCA_cp", RCA_cp)
-
+		RCA[i][j] = RCA_cp
 
 		if (RCA_cp >= 1):
 			M_cp = 1
@@ -58,7 +59,9 @@ for i in range(0, len(location_id)):
 			print("RCA_cp", RCA_cp)
 			print("M_cp", M_cp)
 			M[i][j] = 1
+			
 			M.to_csv('output/M_cp.csv')
+			RCA.to_csv('output/RCA_cp.csv')
 		else:
 			M_cp = 0
 
