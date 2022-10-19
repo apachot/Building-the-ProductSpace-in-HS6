@@ -1,4 +1,4 @@
-# ProductSpace_HS6
+# Building the ProductSpace in HS6
 
 We propose a HS6 version of the famous Product Space developed by Harvard. If you want to know more about the Product Space, and the work on Economic Complexity, I invite you to visit https://atlas.cid.harvard.edu.
 
