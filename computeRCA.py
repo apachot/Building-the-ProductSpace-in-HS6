@@ -14,7 +14,7 @@ total_import = pd.DataFrame(data['import_value']).sum()
 
 M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
 
-print(M.head())
+#print(M.head())
 
 for i in range(0, len(location_id)):
 	for j in range(0, len(hs_product_code)):
@@ -58,13 +58,8 @@ for i in range(0, len(location_id)):
 			print("RCA_cp", RCA_cp)
 			print("M_cp", M_cp)
 			M[i][j] = 1
+			M.to_csv('output/M_cp.csv')
 		else:
 			M_cp = 0
 
 
-
-print("total_export", total_export)
-print("total_import", total_import)
-for i in range(0, len(hs_product_code)):
-	#print("Processing", hs_product_code[i], "...")
-	test=1
