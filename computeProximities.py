@@ -1,4 +1,5 @@
 import math 
+import numpy as np
 import pandas as pd
 data = pd.read_csv('input/country_hsproduct6digit_2019.csv')
 
@@ -10,6 +11,10 @@ print(hs_product_code)
 total_export = int(pd.DataFrame(data['export_value']).sum())
 total_import = pd.DataFrame(data['import_value']).sum()
 
+
+M = pd.DataFrame(np.zeros((len(location_id), len(hs_product_code))))
+
+print(M.head())
 
 for i in range(0, len(location_id)):
 	for j in range(0, len(hs_product_code)):
@@ -44,11 +49,15 @@ for i in range(0, len(location_id)):
 			RCA_cp = 0
 		#print("RCA_cp", RCA_cp)
 
+
 		if (RCA_cp >= 1):
 			M_cp = 1
-			print("i", location_id[i], "j", hs_product_code[j])
+
+			print("i", i, "j", j)
+			print("location_id[i]", location_id[i], "hs_product_code[j]", hs_product_code[j])
 			print("RCA_cp", RCA_cp)
 			print("M_cp", M_cp)
+			M[i][j] = 1
 		else:
 			M_cp = 0
 
