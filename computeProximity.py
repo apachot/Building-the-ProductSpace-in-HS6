@@ -51,8 +51,8 @@ for i in range(0, len(hs_product_code)):
 
 		if ((sum_c_Mcp1 > 0) and (sum_c_Mcp2 > 0) and (sum_c_Mcp1Mcp2 > 0)):
 			P = np.minimum((sum_c_Mcp1Mcp2/sum_c_Mcp1) , (sum_c_Mcp1Mcp2/sum_c_Mcp2))
-			hs1 = hs_product_code[i]
-			hs2 = hs_product_code[j]
+			hs1 = hs_product_code[i][0]
+			hs2 = hs_product_code[j][0]
 			
 			Proximity.append([hs1, hs2, P])
 			print(i)
