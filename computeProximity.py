@@ -13,11 +13,11 @@ print("hs_product_code", hs_product_code)
 
 #print(data)
 
-Proximity = []
+Proximity = ['source', 'target', 'weight']
 
 print("len(hs_product_code)", len(hs_product_code))
 for i in range(0, len(hs_product_code)):
-	for j in range (0, len(hs_product_code)):
+	for j in range (i, len(hs_product_code)):
 
 		#Proximity_p1p2 = 	min(
 		#						(\sum_c Mcp1Mcp2) / (\sum_c Mcp1)
@@ -55,13 +55,12 @@ for i in range(0, len(hs_product_code)):
 			hs2 = hs_product_code[j][0]
 			
 			Proximity.append([hs1, hs2, P])
-			print(i)
+			#print(i)
 			
 		else:
 			P = 0
-	pd.DataFrame(Proximity).to_csv('output/HS6_Proximities.csv')
-
-
-pd.DataFrame(Proximity).to_csv('output/HS6_Proximities.csv')
+		
+pd.DataFrame(Proximity).to_csv('output/HS6_Proximities.csv', header=False, index=False)
+Print("Fin")
 
 		
