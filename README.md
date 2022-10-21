@@ -37,7 +37,9 @@ You can find the datasets concerning the proximity measures between products and
 
 ## Extension of the available data sets in HS1992 on 6 digits
 
-Here we propose an enriched version of the Product Space with more than 5000 classes.
+We have built a full version of Product Space (on 6 digits) from the work of Haussman and Hidalgo on Economic Complexity presented above. It is an enriched version with more than 5000 product classes. 
+
+For our research work and in particular the Atlas of Productive Synergies (https://atlas.productive-synergies.com), the switch to HS6 is important because we need precision to make recommendations to companies. All the credit obviously goes to Harvard, I only declined their equations on the complete data of foreign trade (https://dataverse.harvard.edu/file.xhtml?fileId=6402163&version=5.0). 
 
 ![Product Space in HS6](https://raw.githubusercontent.com/apachot/Building-the-ProductSpace-in-HS6/e857ca237197f384a9a41668321a61fdbbbe72da/gephi/HS6_proximities.svg)
 
