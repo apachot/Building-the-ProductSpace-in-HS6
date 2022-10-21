@@ -41,7 +41,5 @@ Here we propose an enriched version of the Product Space with more than 5000 cla
 
 ![Product Space in HS6](https://raw.githubusercontent.com/apachot/Building-the-ProductSpace-in-HS6/e857ca237197f384a9a41668321a61fdbbbe72da/gephi/HS6_proximities.svg)
 
-![Legend associated with Product Space in HS6](https://github.com/apachot/Building-the-ProductSpace-in-HS6/blob/main/gephi/HS6_ProductSpace_legend.png?raw=true)
-
 You can retrieve directly in the /output folder the proximity data between classes and the json network associated to the Product Space represented in 2D.
 
