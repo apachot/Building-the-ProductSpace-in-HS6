@@ -2,6 +2,8 @@
 
 We propose a HS6 version of the famous Product Space developed by Harvard. If you want to know more about the Product Space, and the work on Economic Complexity, I invite you to visit https://atlas.cid.harvard.edu.
 
+![Product Space in HS6](https://raw.githubusercontent.com/apachot/Building-the-ProductSpace-in-HS6/e857ca237197f384a9a41668321a61fdbbbe72da/gephi/HS6_proximities.svg)
+
 The version that can be found online is limited to product classes on 4 digits (about 1600 classes). Here we propose an enriched version with more than 5000 classes.
 
 You can retrieve directly in the /output folder the proximity data between classes and the json network associated to the Product Space represented in 2D.
