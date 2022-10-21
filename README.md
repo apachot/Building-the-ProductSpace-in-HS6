@@ -12,7 +12,7 @@ If ![equation](https://latex.codecogs.com/gif.latex?X_{cp}) represents the expor
 
 Note that a country *c* is considered to export a product *p* if and only if ![equation](https://latex.codecogs.com/gif.latex?RCA_{cp}) is greater than 1.
 
-![equation]https://latex.codecogs.com/gif.latex?M_%7Bcp%7D%20%3D%20%5Cleft%20%5C%7B%20%5Cbegin%7Barray%7D%7Br%20c%20l%7D%201%20%26%20si%20%5C%3A%20%5Cmathit%7BRCA_%7Bcp%7D%7D%5Cgeq%201%3B%20%5C%5C%200%20%26%20else%20%5Cend%7Barray%7D%20%5Cright%20.)
+![equation](https://latex.codecogs.com/gif.latex?M_%7Bcp%7D%20%3D%20%5Cleft%20%5C%7B%20%5Cbegin%7Barray%7D%7Br%20c%20l%7D%201%20%26%20si%20%5C%3A%20%5Cmathit%7BRCA_%7Bcp%7D%7D%5Cgeq%201%3B%20%5C%5C%200%20%26%20else%20%5Cend%7Barray%7D%20%5Cright%20.)
 
 For example, in 2019, wine accounted for *0.136%* of world trade (*$33.8* billion) with total world exports of *24795* billion.
 
