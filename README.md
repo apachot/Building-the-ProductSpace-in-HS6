@@ -27,7 +27,7 @@ The analysis of the products exported by a country implicitly informs us about t
 
 ![Product Space in HS4 (hausmann_atlas_2011)](https://www.openstudio.fr/app/uploads/2020/11/Screenshot-2020-11-25-at-17.31.09.png)
 
-The calculation of the productive proximity between each product is done by searching for each pair of products {p<sub>1</sub>;p<sub>2</sub>} the smallest percentage of times that p<sub>1</sub> is co-exported with p<sub>2</sub> :
+The calculation of the productive proximity between each product is done by searching for each pair of products {*p<sub>1</sub>*;*p<sub>2</sub>*} the smallest percentage of times that *p<sub>1</sub>* is co-exported with *p<sub>2</sub>* :
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cphi_%7Bp_1%2Cp_2%7D%20%3D%20min%20%5Cleft%20%5C%7B%20%5Cfrac%7B%5Csum_cM_%7Bcp_1%7DM_%7Bcp_2%7D%7D%7B%5Csum_cM_%7Bcp_1%7D%7D%20%7E%5Cmiddle%7C%7E%20%5Cfrac%7B%5Csum_cM_%7Bcp_1%7DM_%7Bcp_2%7D%7D%7B%5Csum_cM_%7Bcp2%7D%7D%20%5Cright%20%5C%7D)
 
