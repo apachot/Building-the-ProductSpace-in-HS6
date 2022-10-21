@@ -60,3 +60,18 @@ doi = {10.7910/DVN/T9W75F},
 url = {https://doi.org/10.7910/DVN/T9W75F}
 }
 ```
+
+## References
+
+Hidalgo, C. A., Klinger, B., Barabasi, A.-L., & Hausmann, R. (2007). The Product Space Conditions the Development of Nations. Science, 317(5837), 482‑487. https://doi.org/10.1126/science.1144581
+
+Bahar, D., Hausmann, R., & Hidalgo, C. A. (2014). Neighbors and the evolution of the comparative advantage of nations : Evidence of international knowledge diffusion? Journal of International Economics, 92(1), 111‑123. https://doi.org/10.1016/j.jinteco.2013.11.001
+
+Hausmann, R., Hidalgo, C. A., Bustos, S., Coscia, M., Simoes, A., & Yildirim, M. A. (2013). The Atlas of Economic Complexity : Mapping Paths to Prosperity (2nd éd.). MIT Press. https://mitpress.mit.edu/index.php?q=books/atlas-economic-complexity
+
+Hausmann, R., Rodrik, D., & Velasco, A. (2005). Growth Diagnostics.
+
+Balassa, B. (1965). Trade Liberalisation and « Revealed » Comparative Advantage. The Manchester School, 33(2), 99‑123. https://doi.org/10.1111/j.1467-9957.1965.tb00050.x
+
+
+
