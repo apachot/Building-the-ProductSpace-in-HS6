@@ -1,0 +1,5046 @@
+﻿id;label;category
+10111;Horses, pure-bred;1
+10119;Horses, not pure-bred;1
+10120;Other equine;1
+10210;Bovine, pure-bred;1
+10290;Bovine, not pure-bred;1
+10310;Swine, pure-bred;1
+10391;Swine < 50 kg, not pure-bred;1
+10392;Swine > 50 kg, not pure-bred;1
+10410;Sheep;1
+10420;Goats;1
+10511;Domestic fowls < 185 g;1
+10519;Other poultry < 185 g;1
+10591;Domestic fowls > 185 g;1
+10599;Other poultry > 185 g;1
+10600;Non-farm animals;1
+20110;Bovine carcasses;1
+20120;Bone-in beef;1
+20130;Boneless beef;1
+20210;Bovine carcasses, frozen;1
+20220;Bone-in beef, frozen;1
+20230;Boneless beef, frozen;1
+20311;Swine carcasses;1
+20312;Ham and pork shoulder;1
+20319;Other pork;1
+20321;Swine carcasses, frozen;1
+20322;Ham and pork shoulder, frozen;1
+20329;Other pork, frozen;1
+20410;Lamb carcasses;1
+20421;Sheep carcasses;1
+20422;Mutton, bone-in;1
+20423;Mutton, boneless;1
+20430;Lamb carcasses, frozen;1
+20441;Sheep carcasses, frozen;1
+20442;Mutton, bone-in, frozen;1
+20443;Mutton, boneless, frozen;1
+20450;Goat meat;1
+20500;Horse meat;1
+20610;Bovine offal;1
+20621;Bovine tongue, frozen;1
+20622;Bovine livers, frozen;1
+20629;Bovine offal, frozen;1
+20630;Swine offal;1
+20641;Swine livers, frozen;1
+20649;Swine offal, frozen;1
+20680;Sheep and equine offal;1
+20690;Sheep & equine offal, frozen;1
+20710;Whole poultry;1
+20721;Whole domestic fowls, frozen;1
+20722;Whole turkey, frozen;1
+20723;Whole duck, frozen;1
+20731;Fatty livers of geese, ducks;1
+20739;Other poultry meat;1
+20741;Domestic fowl meat, frozen;1
+20742;Turkey meat, frozen;1
+20743;Duck meat, frozen;1
+20750;Poultry livers, frozen;1
+20810;Rabbit meat and offal;1
+20820;Frog legs;1
+20890;Meat and offal, nes;1
+20900;Pig and poultry fat;1
+21011;Cured pork shoulders and ham;1
+21012;Cured swine bellies;1
+21019;Cured pork;1
+21020;Cured beef;1
+21090;Cured meat and offal;1
+30110;Live ornamental fish;1
+30191;Live trout;1
+30192;Live eels;1
+30193;Live carp;1
+30199;Other live fish;1
+30211;Trout;1
+30212;Salmon;1
+30219;Salmonids, nes;1
+30221;Halibut;1
+30222;Pollock;1
+30223;Sole;1
+30229;Flatfish;1
+30231;Albacore;1
+30232;Yellowfin tuna;1
+30233;Bonito;1
+30239;Tuna, nes;1
+30240;Herring;1
+30250;Cod;1
+30261;Sardines;1
+30262;Haddock;1
+30263;Coalfish;1
+30264;Mackerel;1
+30265;Shark;1
+30266;Eels;1
+30269;Whole fish, nes;1
+30270;Fish roes and livers;1
+30310;Pacific salmon, frozen;1
+30321;Trout, frozen;1
+30322;Atlantic salmon, frozen;1
+30329;Salmonids, frozen, nes;1
+30331;Halibut, frozen;1
+30332;Plaice, frozen;1
+30333;Sole, frozen;1
+30339;Flatfish, frozen;1
+30341;Albacore, frozen;1
+30342;Yellowfin tuna, frozen;1
+30343;Bonito, frozen;1
+30349;Tuna, frozen, nes;1
+30350;Herring, frozen;1
+30360;Cod, frozen;1
+30371;Sardines, frozen;1
+30372;Haddock, frozen;1
+30373;Pollock, frozen;1
+30374;Mackerel, frozen;1
+30375;Sharks, frozen;1
+30376;Eels, frozen;1
+30377;Sea bass, frozen;1
+30378;Hake, frozen;1
+30379;Whole fish, frozen, nes;1
+30380;Fish roes & livers, frozen;1
+30410;Fish meat, not liver or roe;1
+30420;Fish fillets, frozen;1
+30490;Other fish meat, frozen;1
+30510;Fish flours, meals, and pellets;1
+30520;Dried/smoked/salted livers and roes;1
+30530;Dried/salted fish fillets;1
+30541;Smoked salmon;1
+30542;Smoked herrings;1
+30549;Other smoked fish;1
+30551;Dried cod;1
+30559;Dried fish, not cod;1
+30561;Salted herrings;1
+30562;Salted cod;1
+30563;Salted anchovies;1
+30569;Salted fish, nes;1
+30611;Crawfish, frozen;1
+30612;Lobsters, frozen;1
+30613;Shrimps, frozen;1
+30614;Crabs, frozen;1
+30619;Crustaceans, frozen, nes;1
+30621;Crawfish;1
+30622;Lobsters;1
+30623;Shrimps;1
+30624;Crabs;1
+30629;Crustaceans, nes;1
+30710;Oysters;1
+30721;Live scallops;1
+30729;Scallops, not live;1
+30731;Mussels;1
+30739;Mussels (frozen/salted/dried);1
+30741;Squid;1
+30749;Squid (frozen/salted/dried);1
+30751;Octopus;1
+30759;Octopus (frozen/salted/dried);1
+30760;Snails;1
+30791;Aquatic invertebrates, nes;1
+30799;Aquatic invertebrates, nes (frozen/preserved);1
+40110;Milk, <1% fat;1
+40120;Milk, 1-6% fat;1
+40130;Milk and cream, >6% fat;1
+40210;Milk powder, <1.5% fat;1
+40221;Unsweetened milk powder, >1.5% fat;1
+40229;Sweetened milk powder, >1.5% fat;1
+40291;Concentrated unsweetened milk;1
+40299;Other milk and cream;1
+40310;Yogurt;1
+40390;Buttermilk, cream;1
+40410;Whey;1
+40490;Natural milk products;1
+40500;Butter, milk fats & oils;1
+40610;Fresh cheese, curd;1
+40620;Cheese, grated or powdered;1
+40630;Cheese processed;1
+40640;Cheese, blue-veined;1
+40690;Cheese not fresh or processed;1
+40700;Eggs, in shell;1
+40811;Egg yolks, dried;1
+40819;Egg yolks, not dried;1
+40891;Eggs, dried;1
+40899;Eggs, not in shell not dried;1
+40900;Honey;1
+41000;Other edible animal products;1
+50100;Human hair;1
+50210;Bristles, hair & waste of pigs;1
+50290;Hair & waste of badger;1
+50300;Horsehair, waste;1
+50400;Animal guts and stomachs;1
+50510;Feathers for stuffing;1
+50590;Feathers, not for stuffing;1
+50610;Ossein & bones treated with acid;1
+50690;Bones, simply or unworked nes;1
+50710;Ivory;1
+50790;Whalebone & horns;1
+50800;Seashells, coral, etc.;1
+50900;Natural sponges;1
+51000;Ambergris, civet, pharmaceutic use;1
+51110;Bovine semen;1
+51191;Non-food fish and crustaceans;1
+51199;Non-food animal products;1
+60110;Bulbs and others, dormant;1
+60120;Bulbs and others, in growth;1
+60210;Plant cuttings;1
+60220;Fruit or nut trees, shrubs;1
+60230;Rhododendrons and azaleas;1
+60240;Roses;1
+60291;Mushroom spawn;1
+60299;Live plants, nes;1
+60310;Flowers for bouquets (fresh);1
+60390;Flowers for bouquets (dried);1
+60410;Ornamental mosses;1
+60491;Foliage for bouquets (fresh);1
+60499;Foliage for bouquets (not fresh);1
+70110;Potato seeds;1
+70190;Potatoes;1
+70200;Tomatoes;1
+70310;Onions and shallots;1
+70320;Garlic;1
+70390;Leeks;1
+70410;Cauliflowers and broccoli;1
+70420;Brussle sprouts;1
+70490;Cabbages, nes;1
+70511;Cabbage lettuce;1
+70519;Lettuce;1
+70521;Witloof chicory;1
+70529;Chicory;1
+70610;Carrots and turnips;1
+70690;Beetroot, radishes, etc.;1
+70700;Cucumbers;1
+70810;Peas;1
+70820;Beans;1
+70890;Other legumes;1
+70910;Artichokes;1
+70920;Asparagus;1
+70930;Eggplants;1
+70940;Celery;1
+70951;Mushrooms;1
+70952;Truffles;1
+70960;Peppers;1
+70970;Spinach;1
+70990;Vegetables, nes;1
+71010;Potatoes, frozen;1
+71021;Peas, frozen;1
+71022;Beans, frozen;1
+71029;Other legumes, frozen;1
+71030;Spinach, frozen;1
+71040;Sweet corn, frozen;1
+71080;Vegetables nes, frozen;1
+71090;Vegetable mixtures, frozen;1
+71110;Preserved onions;1
+71120;Preserved olives;1
+71130;Preserved capers;1
+71140;Preserved cucumbers;1
+71190;Preserved vegetables, nes;1
+71210;Potatoes, dried;1
+71220;Onions, dried;1
+71230;Mushrooms and truffles, dried;1
+71290;Vegetables, nes, dried;1
+71310;Peas, dried;1
+71320;Chickpeas, dried;1
+71331;Black or green gram beans, dried;1
+71332;Adzuki beans, dried;1
+71333;Kidney beans, dried;1
+71339;Beans nes, dried;1
+71340;Lentils, dried;1
+71350;Broad beans, dried;1
+71390;Leguminous vegetables, dried;1
+71410;Manioc (cassava);1
+71420;Sweet potatoes;1
+71490;Arrowroot, salep;1
+80110;Coconuts;1
+80120;Brazil nuts;1
+80130;Cashew nuts;1
+80211;Almonds, in shell;1
+80212;Almonds, shelled;1
+80221;Hazelnuts & filberts, in shell;1
+80222;Hazelnuts & filberts, shelled;1
+80231;Walnuts, in shell;1
+80232;Walnuts, shelled;1
+80240;Chestnuts;1
+80250;Pistachios;1
+80290;Nuts, edible, nes;1
+80300;Bananas & plantains;1
+80410;Dates;1
+80420;Figs;1
+80430;Pineapples;1
+80440;Avocados;1
+80450;Guavas & mangoes;1
+80510;Oranges;1
+80520;Mandarin & clementine;1
+80530;Lemons & limes;1
+80540;Grapefruit;1
+80590;Citrus fruits, nes;1
+80610;Grapes, fresh;1
+80620;Grapes, dried;1
+80710;Melons;1
+80720;Papaws (papayas);1
+80810;Apples;1
+80820;Pears;1
+80910;Apricots, fresh;1
+80920;Cherries, fresh;1
+80930;Peaches, nectarines;1
+80940;Plums;1
+81010;Strawberries, fresh;1
+81020;Raspberry, blackberry, fresh;1
+81030;Currants and gooseberries;1
+81040;Cranberries;1
+81090;Fruits, fresh nes;1
+81110;Strawberries, frozen;1
+81120;Frozen rasp-, mul-berries, etc;1
+81190;Frozen fruits and nuts;1
+81210;Cherries, preserved;1
+81220;Strawberries, preserved;1
+81290;Preserved fruits and nuts;1
+81310;Apricots, dried;1
+81320;Prunes, dried;1
+81330;Apples, dried;1
+81340;Fruits, dried nes;1
+81350;Mixtures of edible nuts & fruits;1
+81400;Peel of citrus, fruit;1
+90111;Coffee, not roasted;1
+90112;Decaffeinated coffee, not roasted,;1
+90121;Coffee, roasted;1
+90122;Decaffeinated coffee, roasted,;1
+90130;Coffee husks and skins;1
+90140;Coffee substitutes;1
+90210;Tea, green, in packages <3kg;1
+90220;Tea, green, in packages >3kg;1
+90230;Tea, black, in <3kg packages;1
+90240;Tea, black, in >3kg packages;1
+90300;Mate;1
+90411;Pepper, whole;1
+90412;Pepper, crushed or ground;1
+90420;Capsicum or Pimenta;1
+90500;Vanilla beans;1
+90610;Cinnamon, whole;1
+90620;Cinnamon, crushed or ground;1
+90700;Cloves;1
+90810;Nutmeg;1
+90820;Mace;1
+90830;Cardamoms;1
+90910;Anise or badian seeds;1
+90920;Coriander seeds;1
+90930;Cumin seeds;1
+90940;Caraway seeds;1
+90950;Fennel seeds, juniper berries;1
+91010;Ginger;1
+91020;Saffron;1
+91030;Turmeric;1
+91040;Thyme, bay leaves;1
+91050;Curry;1
+91091;Mixtures of spices;1
+91099;Spices nes;1
+100110;Durum wheat;1
+100190;Wheat & meslin;1
+100200;Rye;1
+100300;Barley;1
+100400;Oats;1
+100510;Maize (corn) seed;1
+100590;Maize except seed corn;1
+100610;Rice, in the husk;1
+100620;Rice, husked (brown);1
+100630;Rice, semi- or wholly-milled;1
+100640;Rice, broken;1
+100700;Grain sorghum;1
+100810;Buckwheat;1
+100820;Millet;1
+100830;Canary seed;1
+100890;Cereals, unmilled nes;1
+110100;Wheat or meslin flour;1
+110210;Rye flour;1
+110220;Maize (corn) flour;1
+110230;Rice flour;1
+110290;Cereal flour, nes;1
+110311;Wheat meal;1
+110312;Oat meal;1
+110313;Maize (corn) meal;1
+110314;Rice meal;1
+110319;Cereal meal, nes;1
+110321;Wheat pellets;1
+110329;Cereal pellets;1
+110411;Barley, rolled or flaked grains;1
+110412;Oats, rolled or flaked grains;1
+110419;Cereals, rolled/flaked grains, nes;1
+110421;Barley, hulled, pearled;1
+110422;Oats, hulled, pearled;1
+110423;Maize (corn), hulled, pearled,;1
+110429;Cereals, hulled, pearled;1
+110430;Germ of cereals;1
+110510;Potato flour or meal;1
+110520;Potato flakes, granules and pellets;1
+110610;Flour, meal of dried legumes;1
+110620;Flour, meal of starchy roots;1
+110630;Flour, meal, powder of fruit/nut;1
+110710;Malt, not roasted;1
+110720;Malt, roasted;1
+110811;Wheat starch;1
+110812;Maize (corn) starch;1
+110813;Potato starch;1
+110814;Manioc (cassava) starch;1
+110819;Other starches, nes;1
+110820;Inulin;1
+110900;Wheat gluten;1
+120100;Soya beans;1
+120210;Ground-nuts, in shell;1
+120220;Ground-nuts, shelled;1
+120300;Copra;1
+120400;Linseed;1
+120500;Rape or colza seeds;1
+120600;Sunflower seeds;1
+120710;Palm nuts & kernels;1
+120720;Cotton seeds;1
+120730;Castor oil seeds;1
+120740;Sesamum seeds;1
+120750;Mustard seeds;1
+120760;Safflower seeds;1
+120791;Poppy seeds;1
+120792;Shea (karite) nuts;1
+120799;Oil seeds & oleaginous fruits, nes;1
+120810;Soya bean flour or meal;1
+120890;Oil seed or fruit flour or meal;1
+120911;Seed, sugar beet;1
+120919;Seed, beet, except sugar;1
+120921;Seed, lucerne (alfalfa);1
+120922;Seed, clover;1
+120923;Seed, fescue;1
+120924;Seed, Kentucky blue grass;1
+120925;Seed, rye grass, for sowing;1
+120926;Seed, Timothy grass;1
+120929;Seed, forage plants, nes;1
+120930;Seed, flower;1
+120991;Seed, vegetable, nes;1
+120999;Seed, fruits and spores, nes;1
+121010;Hop cones, not ground;1
+121020;Hop cones, ground, & lupulin;1
+121110;Liquorice roots;1
+121120;Ginseng roots;1
+121190;Plants, for pharmacy, insecticide;1
+121210;Locust beans & seeds;1
+121220;Seaweeds & algae;1
+121230;Stone fruit stones & kernels;1
+121291;Sugar beet;1
+121292;Sugar cane;1
+121299;Vegetable products, edible;1
+121300;Cereal straw & husks;1
+121410;Lucerne (alfalfa) meal and pellets;1
+121490;Forage products, roots;1
+130110;Lac;1
+130120;Gum arabic;1
+130190;Natural gum, resin;1
+130211;Opium sap;1
+130212;Liquorice extract;1
+130213;Hop extract;1
+130214;Pyrethrum, rotenone roots;1
+130219;Vegetable saps & extracts;1
+130220;Pectic substances;1
+130231;Agar-agar;1
+130232;Mucilages of locust bean, guar seeds;1
+130239;Mucilages & thickeners nes;1
+140110;Bamboos for plaiting;1
+140120;Rattan for plaiting;1
+140190;Vegetable materials nes for plaiting;1
+140210;Kapok;1
+140291;Vegetable hair for stuffing or padding;1
+140299;Veg matter for stuffing;1
+140310;Broom corn;1
+140390;Veg matter for brooms, brushes;1
+140410;Raw vegetable materials for dyeing;1
+140420;Cotton linters;1
+140490;Vegetable products nes;1
+150100;Lard, pig & poultry fat;1
+150200;Bovine, sheep fats;1
+150300;Lard stearin, oleostearin;1
+150410;Fish-liver oils;1
+150420;Fish oils except liver;1
+150430;Marine mammal fats, oils;1
+150510;Wool grease, crude;1
+150590;Wool grease derivatives, lanolin;1
+150600;Animal fats, oils nes;1
+150710;Soya-bean oil, crude;1
+150790;Refined soya-bean oil;1
+150810;Ground-nut oil, crude;1
+150890;Refined ground-nut oil;1
+150910;Olive oil, virgin;1
+150990;Olive oil, refined;1
+151000;Olive oil, blends;1
+151110;Palm oil, crude;1
+151190;Palm oil, simply refined;1
+151211;Sunflower-seed or safflower oil, crude;1
+151219;Sunflower, safflower oil, simply refined;1
+151221;Cotton-seed oil, crude;1
+151229;Cotton-seed, simply refined;1
+151311;Coconut oil, crude;1
+151319;Coconut oil, simply refined;1
+151321;Palm kernel & babassu oil, crude;1
+151329;Palm kernel & babassu oil, simply refined;1
+151410;Canola, mustard oil, crude;1
+151490;Canola, mustard oil, refined;1
+151511;Linseed oil, crude;1
+151519;Linseed oil, refined;1
+151521;Maize oil, crude;1
+151529;Maize oil, refined;1
+151530;Castor oil;1
+151540;Tung oil;1
+151550;Sesame oil;1
+151560;Jojoba oil;1
+151590;Vegetable fats, oils nes;1
+151610;Animal fats, oils, hydrogenated;1
+151620;Vegetable fats, oils, hydrogenated;1
+151710;Margarine, not liquid;1
+151790;Edible mix, preps of animal & veg fat, oil;1
+151800;Processed animal, veg oils, industrial preps;1
+151911;Stearic acid;1
+151912;Oleic acid;1
+151913;Tall oil fatty acids;1
+151919;Industrial monocarboxylic fatty acids;1
+151920;Acid oils from refining;1
+151930;Industrial fatty alcohols;1
+152010;Glycerol (glycerine), crude;1
+152090;Glycerol (glycerine);1
+152110;Vegetable waxes, not triglycerides;1
+152190;Beeswax;1
+152200;Degras from treatment waxes;1
+160100;Sausages;1
+160210;Homogenized preparations of meat, preserved;1
+160220;Livers, of any animal, preserved;1
+160231;Turkey meat, preserved;1
+160239;Fowl, duck, goose, not live, preserved;1
+160241;Swine hams, preserved;1
+160242;Swine shoulders, preserved;1
+160249;Swine meat, nes, not live, preserved;1
+160250;Bovine meat, not livers, preserved;1
+160290;Other meat, offal & blood, preserved;1
+160300;Extracts, juices of meat, fish;1
+160411;Salmon, preserved;1
+160412;Herrings, preserved;1
+160413;Sardine, brisling, sprat, preserved;1
+160414;Tuna, preserved;1
+160415;Mackerel, preserved;1
+160416;Anchovies, preserved;1
+160419;Fish nes, preserved;1
+160420;Fish, in pieces, preserved;1
+160430;Caviar;1
+160510;Crab, preserved;1
+160520;Shrimps & prawns, preserved;1
+160530;Lobster, preserved;1
+160540;Crustaceans nes, preserved;1
+160590;Molluscs, shellfish nes, preserved;1
+170111;Raw sugar, cane;1
+170112;Raw sugar, beet;1
+170191;Refined sugar, flavoured;1
+170199;Refined sugar, pure sucrose;1
+170210;Lactose;1
+170220;Maple sugar & syrup;1
+170230;Glucose, syrup <20% fructose;1
+170240;Glucose, syrup of 20-50% fructose;1
+170250;Fructose, chemically pure;1
+170260;Fructose, syrup >50% fructose, not pure;1
+170290;Sugar nes, caramel, & artificial honey;1
+170310;Cane molasses;1
+170390;Molasses, not cane;1
+170410;Chewing gum;1
+170490;Sugar confectionery, not chewing gum;1
+180100;Cocoa beans;1
+180200;Cocoa shells, husks, skins;1
+180310;Cocoa paste;1
+180320;Cocoa paste, defatted;1
+180400;Cocoa butter, fat, oil;1
+180500;Cocoa powder, unsweetened;1
+180610;Cocoa powder, sweetened;1
+180620;Chocolate/cocoa prep > 2k;1
+180631;Chocolate, filled, >2k;1
+180632;Chocolate, not filled, >2k;1
+180690;Chocolate/cocoa prep, nes;1
+190110;Infant foods of cereals, milk;1
+190120;Mixes/doughs for bread, pastry;1
+190190;Malt extract;1
+190211;Uncooked egg pasta;1
+190219;Uncooked pasta;1
+190220;Stuffed pasta;1
+190230;Pasta, not uncooked/stuffed;1
+190240;Couscous;1
+190300;Tapioca;1
+190410;Cereal foods;1
+190490;Cereals, not prepared, nes;1
+190510;Crispbread;1
+190520;Gingerbread;1
+190530;Sweet biscuits, waffles;1
+190540;Rusks, toasted bread;1
+190590;Communion wafers, rice paper;1
+200110;Cucumbers, gherkins, in vinegar;1
+200120;Onions in vinegar;1
+200190;Veg, fruit, nuts nes, in vinegar;1
+200210;Tomatoes, preserved;1
+200290;Tomatoes nes, preserved;1
+200310;Mushrooms, preserved;1
+200320;Truffles, preserved;1
+200410;Potatoes, prepared, frozen;1
+200490;Vegetables nes & mixes, frozen;1
+200510;Homogenized vegetable preps;1
+200520;Potatoes, preserved;1
+200530;Sauerkraut, preserved;1
+200540;Peas, preserved;1
+200551;Beans, shelled;1
+200559;Beans nes;1
+200560;Asparagus, preserved;1
+200570;Olives;1
+200580;Sweet corn;1
+200590;Vegetables nes & mixes;1
+200600;Fruits, nuts, peels, in sugar;1
+200710;Homogenised jams, jellies;1
+200791;Citrus based jams jellies marmalade, etc.;1
+200799;Jams, jellies, pastes;1
+200811;Ground-nuts, otherwise preserved;1
+200819;Nuts & mixes, otherwise preserved;1
+200820;Pineapples, otherwise preserved;1
+200830;Citrus fruits, otherwise preserved;1
+200840;Pears, otherwise preserved;1
+200850;Apricots, otherwise preserved;1
+200860;Cherries, otherwise preserved;1
+200870;Peaches, otherwise preserved;1
+200880;Strawberries, otherwise preserved;1
+200891;Palm hearts, otherwise preserved;1
+200892;Fruit mixtures, otherwise preserved;1
+200899;Fruit, otherwise preserved;1
+200911;Orange juice, frozen;1
+200919;Orange juice;1
+200920;Grapefruit juice;1
+200930;Citrus juice nes (one fruit);1
+200940;Pineapple juice;1
+200950;Tomato juice;1
+200960;Grape juice;1
+200970;Apple juice;1
+200980;Single fruit, veg juice;1
+200990;Mixtures of juices;1
+210110;Coffee extracts, concentrates;1
+210120;Tea and mate extracts, concentrates;1
+210130;Chicory, coffee substitutes;1
+210210;Yeasts, active;1
+210220;Yeasts, inactive;1
+210230;Baking powders;1
+210310;Soya sauce;1
+210320;Ketchup, other tomato sauces;1
+210330;Mustard flour, meal, prepared;1
+210390;Mixed condiments, seasoning, sauces nes;1
+210410;Soups & broths;1
+210420;Homogenised food preparations;1
+210500;Ice cream;1
+210610;Protein concentrates;1
+210690;Food preparations nes;1
+220110;Mineral & aerated waters;1
+220190;Ice, potable water;1
+220210;Waters, sweetened or flavoured;1
+220290;Non-alcoholic beverages, not fruit/veg juices;1
+220300;Beer, malt;1
+220410;Grape wines, sparkling;1
+220421;Grape wines, < 2l pack;1
+220429;Grape wines, nes;1
+220430;Grape must, unfermented;1
+220510;Vermouth, < 2l pack;1
+220590;Vermouth, > 2l pack;1
+220600;Fermented ciders;1
+220710;Ethyl alcohol > 80%;1
+220720;Ethyl alcohol & spirits, denatured;1
+220810;Compound alcoholic preps;1
+220820;Spirits from distilling grape wine;1
+220830;Whisky;1
+220840;Rum;1
+220850;Gin;1
+220890;Alcoholic liqueurs nes;1
+220900;Vinegar;1
+230110;Flour, meal of meat, for animal feed;1
+230120;Flour, meal of fish, for animal feed;1
+230210;Maize bran;1
+230220;Rice bran;1
+230230;Wheat bran;1
+230240;Cereal bran;1
+230250;Bran nes;1
+230310;Residues of starch residues;1
+230320;Beet-pulp, sugar manuf residue;1
+230330;Brewing/distilling dregs;1
+230400;Soya-bean oil-cake;1
+230500;Ground-nut oil-cake;1
+230610;Cotton seed solid residues;1
+230620;Linseed solid residues;1
+230630;Sunflower seed solid residues;1
+230640;Rapeseed solid residues;1
+230650;Coconut solid residues;1
+230660;Palm nut solid residues;1
+230690;Vegetable solid residues, nes;1
+230700;Wine lees & argol;1
+230810;Acorns, horse-chestnuts for animal feed;1
+230890;Vegetable wastes for animal feed;1
+230910;Dog or cat food;1
+230990;Animal feed preparations;1
+240110;Tobacco, not stemmed;1
+240120;Tobacco, stemmed;1
+240130;Tobacco refuse;1
+240210;Cigars;1
+240220;Cigarettes;1
+240290;Cigarettes and cigars with tobacco substitute;1
+240310;Cigarette or pipe tobacco;1
+240391;Homogenized tobacco;1
+240399;Tobacco products, nes;1
+250100;Salt;3
+250200;Unroasted iron pyrites;3
+250310;Sulphur, crude or unrefined;3
+250390;Refined sulphur;3
+250410;Natural graphite, powder or flakes;3
+250490;Natural graphite, other;3
+250510;Silica and quartz sands;3
+250590;Natural sands, nes;3
+250610;Quartz;3
+250621;Quartzite, crude;3
+250629;Quartzite, slabs;3
+250700;Kaolin;3
+250810;Bentonite;3
+250820;Decolourising earths;3
+250830;Fire-clay;3
+250840;Other clays;3
+250850;Andalusite;3
+250860;Mullite;3
+250870;Chamotte;3
+250900;Chalk;3
+251010;Calcium phosphate, unground;3
+251020;Calcium phosphate, ground;3
+251110;Barytes;3
+251120;Witherite;3
+251200;Siliceous fossil meals;3
+251311;Pumice stone, crude;3
+251319;Pumice stone, worked;3
+251321;Natural abrasives, nes;3
+251329;Emery;3
+251400;Slate;3
+251511;Marble, crude;3
+251512;Marble in blocks;3
+251520;Calcareous building stone, nes;3
+251611;Granite, crude;3
+251612;Granite, in blocks;3
+251621;Sandstone, crude;3
+251622;Sandstone, in blocks;3
+251690;Building stones, nes;3
+251710;Pebbles, gravel, and crushed stone;3
+251720;Dross or industrial waste;3
+251730;Tarred macadam;3
+251741;Marble granules;3
+251749;Granules of granite, sandstone;3
+251810;Dolomite, not calcined;3
+251820;Dolomite, calcined;3
+251830;Agglomerated dolomite;3
+251910;Natural magnesite;3
+251990;Magnesia;3
+252010;Gypsum, anhydride;3
+252020;Plasters;3
+252100;Limestone for cement;3
+252210;Quicklime;3
+252220;Slaked lime;3
+252230;Hydraulic lime;3
+252310;Cement clinkers;3
+252321;Portland cement, white;3
+252329;Portland cement, not white;3
+252330;Aluminous cement;3
+252390;Hydraulic cements, nes;3
+252400;Asbestos;3
+252510;Mica, nes;3
+252520;Mica powder;3
+252530;Mica waste;3
+252610;Natural steatite, not crushed;3
+252620;Natural steatite, crushed;3
+252700;Natural cryolite or chiolite;3
+252810;Natural sodium borates;3
+252890;Natural borates, nes;3
+252910;Feldspar;3
+252921;Fluorspar, < 97% calcium flouride;3
+252922;Fluorspar, > 97% calcium flouride;3
+252930;Leucite, nepheline, and nepheline syenite;3
+253010;Vermiculite, perlite, chlorites, unexpanded;3
+253020;Natural magnesium sulphates;3
+253030;Earth colours;3
+253040;Natural micaceous iron oxides;3
+253090;Minerals, nes;3
+260111;Iron ore, unagglomerated;3
+260112;Iron ore, agglomerated;3
+260120;Roasted iron pyrites;3
+260200;Manganese ores;3
+260300;Copper ores;3
+260400;Nickel ores;3
+260500;Cobalt ores;3
+260600;Aluminium ores;3
+260700;Lead ores;3
+260800;Zinc ores;3
+260900;Tin ores;3
+261000;Chromium ores;3
+261100;Tungsten ores;3
+261210;Uranium ores;3
+261220;Thorium ores;3
+261310;Molybdenum, roasted;3
+261390;Molybdenum, unroasted;3
+261400;Titanium ores;3
+261510;Zirconium ores;3
+261590;Niobium, tantalum, vanadium ores;3
+261610;Silver ores;3
+261690;Precious metal ores, not silver;3
+261710;Antimony ores;3
+261790;Ores and concentrates, nes;3
+261800;Granulated slag from iron or steel;3
+261900;Waste of iron or steel industry;3
+262011;Residues containing hard zinc spelter;3
+262019;Residues containing zinc, not spelter;3
+262020;Residues containing lead;3
+262030;Residues containing copper;3
+262040;Residues containing aluminium;3
+262050;Residues containing vanadium;3
+262090;Residues containing metals, nes;3
+262100;Slag and ash, nes;3
+270111;Anthracite;3
+270112;Bituminous coal;3
+270119;Coal except anthracite or bituminous;3
+270120;Coal briquettes, solid fuels;3
+270210;Lignite, not agglomerated;3
+270220;Lignite, agglomerated;3
+270300;Peat;3
+270400;Coke of coal, lignite, peat;3
+270500;Coal gas;3
+270600;Mineral tars;3
+270710;Benzol;3
+270720;Toluole;3
+270730;Xylole;3
+270740;Naphthalene;3
+270750;Aromatic hydrocarbon mixtures, nes;3
+270760;Phenols;3
+270791;Creosote oils;3
+270799;Coal tar distillation products, nes;3
+270810;Pitch;3
+270820;Pitch coke;3
+270900;Petroleum oils, crude;3
+271000;Oils petroleum, bituminous, distillates;3
+271011;Aviation spirit;3
+271012;Petroleum spirit for motor vehicles;3
+271013;Petroleum spirit, not aviation or motor;3
+271014;Petroleum spirit-type fuel;3
+271015;White spirit;3
+271016;Petroleum naphtha;3
+271019;Light petroleum distillates nes;3
+271021;Kerosene jet fuel;3
+271022;Kerosene, for furnaces;3
+271025;Kerosene lamp oil, motor kerosene, light diesel;3
+271026;Gas oils, bunker oil, No.1 furnace, motor diesel;3
+271027;Diesel oils, No.2 furnace, marine diesel;3
+271029;Fuel oils nes, heavy distillates;3
+271091;Heavy furnace oil  <1% sulphur;3
+271093;Heavy furnace oil nes;3
+271094;Petroleum oil for road building;3
+271095;Petroleum lubricating oils;3
+271096;Petroleum lubricating greases;3
+271099;Petroleum oils, nes;3
+271111;Natural gas, liquefied;3
+271112;Propane, liquefied;3
+271113;Butanes, liquefied;3
+271114;Ethylene, propylene, liquefied;3
+271119;Petroleum gases, liquefied;3
+271121;Natural gas, as gas;3
+271129;Petroleum gases, as gas;3
+271210;Petroleum jelly;3
+271220;Paraffin wax;3
+271290;Mineral waxes;3
+271311;Petroleum coke, not calcined;3
+271312;Petroleum coke, calcined;3
+271320;Petroleum bitumen;3
+271390;Residues of petroleum oils;3
+271410;Bituminous or oil shale;3
+271490;Bitumen & asphalt;3
+271500;Bituminous mix;3
+271600;Electrical energy;3
+280110;Chlorine;5
+280120;Iodine;5
+280130;Fluorine, bromine;5
+280200;Sulphur, sublimed, precipitated, colloidal;5
+280300;Carbon;5
+280410;Hydrogen;5
+280421;Argon;5
+280429;Rare gases, not argon;5
+280430;Nitrogen;5
+280440;Oxygen;5
+280450;Boron, tellurium;5
+280461;Silicon, >99.99% pure;5
+280469;Silicon, <99.99% pure;5
+280470;Phosphorus;5
+280480;Arsenic;5
+280490;Selenium;5
+280511;Sodium;5
+280519;Alkali metals, not sodium;5
+280521;Calcium;5
+280522;Strontium and barium;5
+280530;Rare-earth metals;5
+280540;Mercury;5
+280610;Hydrogen chloride;5
+280620;Chlorosulphuric acid;5
+280700;Sulphuric acid, oleum;5
+280800;Nitric acid;5
+280910;Diphosphorus pentaoxide;5
+280920;Phosphoric acid;5
+281000;Boric oxides & acids;5
+281111;Hydrogen fluoride;5
+281119;Inorganic acids nes;5
+281121;Carbon dioxide;5
+281122;Silicon dioxide;5
+281123;Sulphur dioxide;5
+281129;Inorganic oxygen compounds;5
+281210;Chlorides;5
+281290;Halides;5
+281310;Carbon disulphide;5
+281390;Sulphides;5
+281410;Anhydrous ammonia;5
+281420;Ammonia in aqueous solution;5
+281511;Sodium hydroxide, solid;5
+281512;Sodium hydroxide, in aqueous solution;5
+281520;Potassium hydroxide;5
+281530;Peroxides of sodium/potassium;5
+281610;Magnesium hydroxide & peroxide;5
+281620;Strontium oxide, hydroxide & peroxide;5
+281630;Barium oxide, hydroxide & peroxide;5
+281700;Zinc oxide;5
+281810;Artificial corundum;5
+281820;Aluminium oxide;5
+281830;Aluminium hydroxide;5
+281910;Chromium trioxide;5
+281990;Chromium oxides, hydroxides;5
+282010;Manganese dioxide;5
+282090;Manganese oxides;5
+282110;Iron oxides;5
+282120;Earth colors, > 70% iron;5
+282200;Cobalt oxides;5
+282300;Titanium oxides;5
+282410;Lead monoxide;5
+282420;Red and orange lead;5
+282490;Lead oxides, nes;5
+282510;Inorganic salts;5
+282520;Lithium oxide;5
+282530;Vanadium oxides;5
+282540;Nickel oxides;5
+282550;Copper oxides;5
+282560;Germanium oxides;5
+282570;Molybdenum oxides;5
+282580;Antimony oxides;5
+282590;Metal bases, oxides, nes;5
+282611;Fluorides of ammonium, sodium;5
+282612;Aluminium fluoride;5
+282619;Fluorides of metals, nes;5
+282620;Fluorosilicates of sodium, potassium;5
+282630;Synthetic cryolite;5
+282690;Complex fluorine salts, not cryolite;5
+282710;Ammonium chloride;5
+282720;Calcium chloride;5
+282731;Magnesium chloride;5
+282732;Aluminium chloride;5
+282733;Iron chlorides;5
+282734;Cobalt chloride;5
+282735;Nickel chlorides;5
+282736;Zinc chloride;5
+282737;Tin chlorides;5
+282738;Barium chloride;5
+282739;Chlorides of metals, nes;5
+282741;Chloride oxides of copper;5
+282749;Chloride oxides of metals, not copper;5
+282751;Bromides of sodium, potassium;5
+282759;Bromides of non-alkali metals;5
+282760;Iodides of metals;5
+282810;Calcium hypochlorite;5
+282890;Hypochlorites, nes;5
+282911;Sodium chlorate;5
+282919;Chlorates of metals, not sodium;5
+282990;Per-, etc. of metal;5
+283010;Sodium sulphides;5
+283020;Zinc sulphide;5
+283030;Cadmium sulphide;5
+283090;Sulphides of metals, nes;5
+283110;Dithionites, sulfoxylates of sodium;5
+283190;Dithionites, sulfoxylates of metals, not sodium;5
+283210;Sodium sulphites;5
+283220;Sulphites of metals, not sodium;5
+283230;Thiosulphates of metals;5
+283311;Disodium sulphate;5
+283319;Sodium sulphates, nes;5
+283321;Magnesium sulphate;5
+283322;Aluminum sulphates;5
+283323;Chromium sulphates;5
+283324;Nickel sulphates;5
+283325;Copper sulphates;5
+283326;Zinc sulphate;5
+283327;Barium sulphate;5
+283329;Sulphates of metals, nes;5
+283330;Alums;5
+283340;Peroxosulphates of metals;5
+283410;Nitrites of metals;5
+283421;Potassium nitrate;5
+283422;Bismuth nitrates;5
+283429;Nitrates of metals, not potassium;5
+283510;Phosphinates and phosphonates;5
+283521;Triammonium phosphate;5
+283522;Mono-, di-sodium phosphates;5
+283523;Trisodium phosphate;5
+283524;Potassium phosphates;5
+283525;Calcium hydrogen-orthophosphate;5
+283526;Calcium phosphates, nes;5
+283529;Phosphates of metal, nes;5
+283531;Sodium triphosphate;5
+283539;Polyphosphates of metals, nes;5
+283610;Ammonium carbonate;5
+283620;Disodium carbonate;5
+283630;Sodium bicarbonate;5
+283640;Potassium carbonates;5
+283650;Calcium carbonate;5
+283660;Barium carbonate;5
+283670;Lead carbonate;5
+283691;Lithium carbonates;5
+283692;Strontium carbonate;5
+283693;Bismuth carbonate;5
+283699;Carbonates of metals, nes;5
+283711;Cyanides of sodium;5
+283719;Cyanides of metals, not sodium;5
+283720;Complex cyanides of metals;5
+283800;Fulminates, cyanates, and thiocyanates;5
+283911;Sodium metasilicates;5
+283919;Silicates of sodium, nes;5
+283920;Potassium silicates;5
+283990;Silicates, nes;5
+284011;Disodium tetraborate, anhydrous;5
+284019;Disodium tetraborate, hydrated;5
+284020;Borates of metals, not refined borax;5
+284030;Peroxoborates of metals;5
+284110;Metallic aluminates;5
+284120;Chromates of zinc, lead;5
+284130;Sodium dichromate;5
+284140;Potassium dichromate;5
+284150;Chromates, nes;5
+284160;Manganites, manganates of metals;5
+284170;Metallic molybdates;5
+284180;Metallic tungstates;5
+284190;Salts of oxymetallic acids, nes;5
+284210;Double or complex silicates of metals;5
+284290;Metallic salts of inorganic acids, nes;5
+284310;Colloidal precious metals;5
+284321;Silver nitrate;5
+284329;Silver compounds, nes;5
+284330;Gold compounds;5
+284390;Precious metal compounds, nes;5
+284410;Natural uranium;5
+284420;Uranium (enriched), plutonium;5
+284430;Uranium (depleted), thorium;5
+284440;Radioactives, nes;5
+284450;Spent nuclear reactor fuel;5
+284510;Heavy water;5
+284590;Isotopes, nes;5
+284610;Cerium compounds;5
+284690;Compounds of rare-earths;5
+284700;Hydrogen peroxide;5
+284810;Phosphides of copper, >15% phosphorous;5
+284890;Phosphides;5
+284910;Calcium carbide;5
+284920;Silicon carbide;5
+284990;Carbides, nes;5
+285000;Hydrides, nitrides, azides, silicides, borides;5
+285100;Inorganic compounds, nes;5
+290110;Saturated acyclic hydrocarbons;5
+290121;Ethylene;5
+290122;Propene;5
+290123;Butene and isomers;5
+290124;Buta-1, 3-diene and isoprene;5
+290129;Unsaturated acyclic hydrocarbons, nes;5
+290211;Cyclohexane;5
+290219;Cyclanes, cyclenes and cycloterpenes nes;5
+290220;Benzene;5
+290230;Toluene;5
+290241;O-xylene;5
+290242;M-xylene;5
+290243;P-xylene;5
+290244;Mixed xylene isomers;5
+290250;Styrene;5
+290260;Ethylbenzene;5
+290270;Cumene;5
+290290;Cyclic hydrocarbons, nes;5
+290311;Chloromethane and chloroethane;5
+290312;Methylene chloride;5
+290313;Chloroform;5
+290314;Carbon tetrachloride;5
+290315;Ethylene dichloride;5
+290316;Dichloropropane & dichlorobutanes;5
+290319;Chlorinated derivs saturated acyclic hydrocarbons;5
+290321;Chloroethylene;5
+290322;Trichloroethylene;5
+290323;Perchloroethylene;5
+290329;Chlorinated derivs unsaturated acyclic hydrocarbons;5
+290330;Fluor-/brom-/iodin-ated derivs of acyclic hydrocarbon;5
+290340;Multi-halogen derivs of acyclic hydrocarbons;5
+290351;1,2,3,4,5,6-hexachlorocyclohexane;5
+290359;Halogenated hydrocarbon;5
+290361;Chlorobenzene;5
+290362;Hexachlorobenzene and DDT;5
+290369;Halogen derivs of aromatic hydrcarbons, nes;5
+290410;Sulphonated hydrocarbons, salts and ethyl esters;5
+290420;Nitrated, nitrosated hydrocarbons;5
+290490;Hydrocarbon derivs, mixed sulpho/nitro/nitroso groups;5
+290511;Methyl alcohol;5
+290512;Propyl alcohol;5
+290513;N-butyl alcohol;5
+290514;Butanols, nes;5
+290515;Pentanol, isomers;5
+290516;Octanol, isomers;5
+290517;Decan-1-ols;5
+290519;Saturated monohydric acyclic alcohols, nes;5
+290521;Allyl alcohol;5
+290522;Acyclic terpene alcohols;5
+290529;Unsaturated monohydric acyclic alcohols, nes;5
+290531;Ethanediol;5
+290532;Propylene glycol;5
+290539;Diols, nes;5
+290541;Trimethylolpropane;5
+290542;Pentaerythritol;5
+290543;Mannitol;5
+290544;D-glucitol (sorbitol);5
+290549;Polyhydric acyclic alcohols, nes;5
+290550;Derivatives of acyclic alcohols;5
+290611;Menthol;5
+290612;Cyclohexanols;5
+290613;Sterols and inositols;5
+290614;Terpineols;5
+290619;Cyclic alcohols, nes;5
+290621;Benzyl alcohol;5
+290629;Aromatic alcohols, nes;5
+290711;Phenol, salts;5
+290712;Cresols, salts;5
+290713;Oct-, nonylphenol, isomers, salts;5
+290714;Xylenols, salts;5
+290715;Naphthols, salts;5
+290719;Monophenols, nes;5
+290721;Resorcinol, salts;5
+290722;Quinol, salts;5
+290723;Bisphenol salts;5
+290729;Polyphenols, nes;5
+290730;Phenol-alcohols;5
+290810;Halogen derivs of phenols;5
+290820;Sulpho- derivs of phenols;5
+290890;Derivs of phenols, nes;5
+290911;Diethyl ether;5
+290919;Acyclic ethers, nes;5
+290920;Cyclanic, cyclenic, or cycloterpenic ethers;5
+290930;Aromatic ethers;5
+290941;Diethylene glycol;5
+290942;Monomethyl ethers of ethylene glycol;5
+290943;Monobutyl ethers;5
+290944;Monoalkyl ethers of ethylene glycol, nes;5
+290949;Ether-alcohols, nes;5
+290950;Ether-phenols;5
+290960;Alcohol, ether, kerotene peroxides;5
+291010;Ethylene oxide;5
+291020;Propylene oxide;5
+291030;Epichlorohy-drin;5
+291090;Epoxides, epoxy-, nes;5
+291100;Acetals and hemiacetals;5
+291211;Formaldehyde;5
+291212;Ethanal;5
+291213;Butanal;5
+291219;Acyclic aldehydes, no oxygen function, nes;5
+291221;Benzaldehyde;5
+291229;Cyclic aldehydes, no oxygen function, nes;5
+291230;Aldehyde-alcohols;5
+291241;Vanillin;5
+291242;Ethylvanillin;5
+291249;Aldehydes, with oxygen function;5
+291250;Cyclic polymers of aldehydes;5
+291260;Paraformaldehyde;5
+291300;Hydrogenated, sulphonated, nitrated aldehydes;5
+291411;Acetone;5
+291412;Butanone;5
+291413;Methyl isobutyl ketone;5
+291419;Acyclic ketones, no oxygen function, nes;5
+291421;Camphor;5
+291422;Cyclohexanones;5
+291423;Ionones;5
+291429;Cyclanic ketones, no oxygen function;5
+291430;Aromatic ketones, no oxygen function;5
+291441;Diacetone alcohol;5
+291449;Ketone-alcohols, nes;5
+291450;Ketones with oxygen function;5
+291461;Anthraquinone;5
+291469;Quinones, not anthraquinone;5
+291470;Derivatives of ketones and quinones;5
+291511;Formic acid;5
+291512;Salts of formic acid;5
+291513;Esters of formic acid;5
+291521;Acetic acid;5
+291522;Sodium acetate;5
+291523;Cobalt acetates;5
+291524;Acetic anhydride;5
+291529;Acetic acid salts, not cobalt, sodium;5
+291531;Ethyl acetate;5
+291532;Vinyl acetate;5
+291533;N-butyl acetate;5
+291534;Isobutyl acetate;5
+291535;2-ethoxyethyl acetate;5
+291539;Acetic acid esters nes;5
+291540;Chloroacetic acids, salts, esters;5
+291550;Propionic acid, its salts & esters;5
+291560;Butyric, valeric acids, salts, esters;5
+291570;Palmitic, stearic acid, salts, esters;5
+291590;Saturated acyclic monocarboxylic acids, nes;5
+291611;Acrylic acid, salts;5
+291612;Acrylic acid, esters;5
+291613;Methacrylic acid, salts;5
+291614;Methacrylic acid, esters;5
+291615;Oleic acids, salts, esters;5
+291619;Unsaturated acyclic monocarboxylic acids;5
+291620;Monocarboxylic acids;5
+291631;Benzoic acid, salts, esters;5
+291632;Benzoyl peroxide, chloride;5
+291633;Phenylacetic acid, salts, esters;5
+291639;Aromatic monocarboxylic acids, nes;5
+291711;Oxalic acid, salts, esters;5
+291712;Adipic acid, salts, esters;5
+291713;Azelaid, sebacic acids, salts, esters;5
+291714;Maleic anhydride;5
+291719;Acyclic polycarboxylic acids, nes;5
+291720;Poly-carboxylic acids;5
+291731;Dibutyl orthophthalates;5
+291732;Dioctyl orthophthalates;5
+291733;Dionyl, didecul orthophthaltes;5
+291734;Orthophthalic acid, esters, nes;5
+291735;Phtalic anhydride;5
+291736;Terephthalic acid, salts;5
+291737;Dimethyl terephthalate;5
+291739;Aromatic polycarboxylic acids, nes;5
+291811;Lactic acid, salts, esters;5
+291812;Tartaric acid;5
+291813;Salts and esters of tartaric acid;5
+291814;Citric acid;5
+291815;Salts and esters of citric acid;5
+291816;Gluconic acid, salts, esters;5
+291817;Phenylglycolic acid, its salts & esters;5
+291819;Carboxylic acids (alcohol only);5
+291821;Salicyclic acid, salts;5
+291822;O-acetylsalicyclic acid, salts, esters;5
+291823;Salicyclic acid esters, salts, nes;5
+291829;Carboxylic acids (phenol only);5
+291830;Carboxylix acids;5
+291890;Carboxylic acids, nes;5
+291900;Phosphoric esters, salts;5
+292010;Thiophosphoric esters, salts;5
+292090;Esters of inorganic acids, salts, nes;5
+292111;Methylamine, salts;5
+292112;Diethylamine, salts;5
+292119;Acyclic monoamines, nes;5
+292121;Ethylenediamine, salts;5
+292122;Hexamethylenediamine, salts;5
+292129;Acyclic polyamines, nes;5
+292130;Cyclanic, cyclenic and cycloterpenic amines, compound;5
+292141;Aniline, salts;5
+292142;Aniline derivatives, salts;5
+292143;Toluidines, salts;5
+292144;Diphenylamine, salts;5
+292145;Naphthylamines, salts;5
+292149;Aromatic monoamines, nes;5
+292151;Phenylenediamine, salts;5
+292159;Aromatic polyamines, nes;5
+292211;Monoethanolmine, salts;5
+292212;Diethanolamine, salts;5
+292213;Triethanolamine, salts;5
+292219;Amino-alcohol, esters, salts, nes;5
+292221;Aminohydroxynaphthalenesulphonic acids, salts;5
+292222;Anisidines, dianisidines, phenetidines, salts;5
+292229;Amino-naphthols/phenols, nes;5
+292230;Amino-aldehydes, ketones and quinones, salts;5
+292241;Lysine, esters, salts;5
+292242;Glutamic acid, salts;5
+292249;Amino-acids, salts, esters, nes;5
+292250;Amino-alcohol-phenols, oxygen function;5
+292310;Choline, salts;5
+292320;Lecithins and other phosphoaminolipids;5
+292390;Quarternary ammonium salts and hydroxides, nes;5
+292410;Acyclic amides, salts;5
+292421;Ureines, salts;5
+292429;Cyclic amides, salts, nes;5
+292511;Saccharin, salts;5
+292519;Imides, not saccharin, salts;5
+292520;Imines, salts;5
+292610;Acrylonitrile;5
+292620;Dicyandiamide;5
+292690;Nitrile-function compounds, nes;5
+292700;Diazo-, azo- or azoxy-compounds;5
+292800;Organic derivs of hydrazine, hydroxylamine;5
+292910;Isocyanates;5
+292990;Compounds with nitrogen function, nes;5
+293010;Xanthates;5
+293020;Thiocarbamates;5
+293030;Thiuram sulphides;5
+293040;Methionine;5
+293090;Organo-sulphur compounds, nes;5
+293100;Organo-inorganic compounds, nes;5
+293211;Tetrahydrofuran;5
+293212;Furfuraldehyde;5
+293213;Furfuryl alcohol;5
+293219;Heterocyclic compounds, unfused furan ring;5
+293221;Coutamarins;5
+293229;Lactones, not coumarins;5
+293290;Heterocyclic compound, oxygen hetero-atom(s);5
+293311;Phanazone;5
+293319;Heterocyclic compounds, unfused pyrazole ring;5
+293321;Hydantoin;5
+293329;Heterocyclic compounds, unfused imidazole ring;5
+293331;Pyridine, salts;5
+293339;Heterocyclic compounds, unfused pyridine ring;5
+293340;Heterocyclic compounds, quinoline ring;5
+293351;Barbituric acids, salts;5
+293359;Heterocyclic compounds, pyrimidine ring;5
+293361;Melamine;5
+293369;Heterocyclic compounds, unfused triazine ring;5
+293371;Epsilon-captolactam;5
+293379;Lactams, nes;5
+293390;Heterocyclic compounds, N-hetero-atoms;5
+293410;Heterocyclic coumpounds, unfused thiazole ring;5
+293420;Heterocyclic coumpounds,benzothiazole ring;5
+293430;Heterocyclic coumpounds, phenothiazine ring;5
+293490;Heterocyclic compounds, nes;5
+293500;Sulphonamides;5
+293610;Provitamins;5
+293621;Vitamins A;5
+293622;Vitamin B1;5
+293623;Vitamin B2;5
+293624;Vitamin B3, B5, panthothenic acid;5
+293625;Vitamin B6;5
+293626;Vitamin B12;5
+293627;Vitamin C;5
+293628;Vitamin E;5
+293629;Vitamins, nes;5
+293690;Vitamin concentrates, mixed;5
+293710;Pituitary anterior hormones;5
+293721;Cortisones;5
+293722;Halogenated derivs adrenalal cortical hormones;5
+293729;Adrenal cortical hormones nes;5
+293791;Insulin;5
+293792;Estrogens and progestogens;5
+293799;Hormones;5
+293810;Rutoside;5
+293890;Glycosides;5
+293910;Opium alkaloids;5
+293921;Quinine;5
+293929;Cinchona alkaloids, nes;5
+293930;Caffeine;5
+293940;Ephedrines;5
+293950;Theophylline and aminophylline;5
+293960;Rye ergot alkaloids;5
+293970;Nicotine, salts, in bulk;5
+293990;Vegetable alkaloids;5
+294000;Sugars;5
+294110;Penicillins;5
+294120;Streptomycins;5
+294130;Tetracyclines;5
+294140;Chloramphenicol;5
+294150;Erythromycin;5
+294190;Antibiotics;5
+294200;Organic compounds, nes;5
+300110;Glands, dried, therapeutic;5
+300120;Gland extracts, therapeutic;5
+300190;Heparin, therapeutic;5
+300210;Antisera and blood fractions;5
+300220;Vaccines, human;5
+300231;Vaccines, veterinary foot and mouth disease;5
+300239;Vaccines, veterinary;5
+300290;Blood;5
+300310;Penicillins or streptomycins, formulated;5
+300320;Antibiotics, formulated, nes;5
+300331;Insulin, formulated;5
+300339;Hormones, not contraceptive, formulated, nes;5
+300340;Alkaloids, formulated;5
+300390;Medicaments, formulated, nes;5
+300410;Penicillins and streptomycins, doses;5
+300420;Antibiotics, doses, nes;5
+300431;Insulin, doses;5
+300432;Adrenal cortical hormones, doses;5
+300439;Hormones, not contraceptive, doses;5
+300440;Alkaloids, doses, nes;5
+300450;Vitamins, doses;5
+300490;Medicaments, doses, nes;5
+300510;Medical dressings, with adhesive;5
+300590;Medical dressings, no adhesive;5
+300610;Surgical goods;5
+300620;Blood-grouping reagents;5
+300630;Opacifying preparations;5
+300640;Dental fillings;5
+300650;First-aid kits;5
+300660;Contraceptives, hormones;5
+310100;Animal or vegetable fertilizers, > 10kg;5
+310210;Urea, > 10kg;5
+310221;Ammonium sulphate, > 10kg;5
+310229;Ammonium sulphate-nitrate, > 10kg;5
+310230;Ammonium nitrate, > 10kg;5
+310240;Ammonium nitrate limestone, > 10kg;5
+310250;Sodium nitrate, > 10kg;5
+310260;Calcium-ammonium nitrate mix, > 10kg;5
+310270;Calcium cyanamide in packs >10 kg;5
+310280;Urea-ammonium nitrate mix, > 10kg;5
+310290;Nitrogenous fertilizers, nes, > 10kg;5
+310310;Superphosphates, > 10kg;5
+310320;Basic slag, > 10kg;5
+310390;Phosphatic fertilizers, > 10kg;5
+310410;Crude potassium salts, nes, > 10kg;5
+310420;Potassium chloride, > 10kg;5
+310430;Potassium sulphate, > 10kg;5
+310490;Ptassic fertilizers, nes, > 10kg;5
+310510;Fertilizer mixes in tablets,  < 10kg;5
+310520;Nitrogen-phosphorus-potassium fertilizers, > 10kg;5
+310530;Diammonium phosphate, > 10kg;5
+310540;Monoammonium phosphate, mix, < 10kg;5
+310551;Fertilizers, nitrates and phosphates, nes,  < 10kg;5
+310559;Fertilizers, nitrogen, phosphorus, nes, < 10kg;5
+310560;Fertilizers, phosphorus and potassium,  < 10kg;5
+310590;Fertilizers, mixes, nes;5
+320110;Quebracho tanning extract;5
+320120;Wattle tanning extract;5
+320130;Oak or chestnut tanning extract;5
+320190;Vegetable tanning extracts, nes;5
+320210;Synthetic organic tanning substances;5
+320290;Inorganic tanning preparations;5
+320300;Coloring matter, animal or vegetable;5
+320411;Disperse dyes;5
+320412;Acid and mordant dyes;5
+320413;Basic dyes;5
+320414;Direct dyes;5
+320415;Vat dyes;5
+320416;Reactive dyes;5
+320417;Synthetic organic pigments;5
+320419;Synthetic organic coloring;5
+320420;Synthetic organic fluorescent brightener;5
+320490;Synthetic organic luminophores;5
+320500;Color lakes;5
+320610;Pigments, titanium dioxide;5
+320620;Pigments, chromium compounds;5
+320630;Pigments, cadmium compounds;5
+320641;Ultramarine;5
+320642;Pigments, zinc sulphide, lithophone;5
+320643;Pigments, hexacyanoferrates;5
+320649;Inorganic coloring, nes;5
+320650;Inorganic luminophores;5
+320710;Pigments for ceramics, glass;5
+320720;Vitrifiable enamels;5
+320730;Liquid lustres;5
+320740;Gladd frit;5
+320810;Polyester paint, non-aqueous;5
+320820;Acrylic paint, non-aqueous;5
+320890;Polymer paint, non-aqueous;5
+320910;Acrylic paint, aqueous;5
+320990;Polymer paint, aqueous;5
+321000;Paints, nes;5
+321100;Prepared driers;5
+321210;Stamping foils;5
+321290;Pigments for paints;5
+321310;Color sets;5
+321390;Artist colors, small packs, nes;5
+321410;Mastics, painters' fillings;5
+321490;Non-refractory surfacing prep;5
+321511;Printing ink, black;5
+321519;Printing ink, not black;5
+321590;Ink, not printing;5
+330111;Oils, bergamot;5
+330112;Oils, orange;5
+330113;Oils, lemon;5
+330114;Oils, lime;5
+330119;Oils, citrus, nes;5
+330121;Oils, geranium;5
+330122;Oils, jasmin;5
+330123;Oils, lavender;5
+330124;Oils, peppermint;5
+330125;Oils, mints, nes;5
+330126;Oils, vetiver;5
+330129;Oils, nes;5
+330130;Resinoids;5
+330190;Oils, terpenic;5
+330210;Mixed odors, food & drink;5
+330290;Mixed odors, industrial;5
+330300;Perfumes;5
+330410;Lip make-up;5
+330420;Eye make-up;5
+330430;Manicure, pedicure;5
+330491;Powders, make-up;5
+330499;Make-up, nes;5
+330510;Shampoos;5
+330520;Hair waving, straightening;5
+330530;Lacquers, hair;5
+330590;Hair preparations, nes;5
+330610;Dentrifices;5
+330690;Oral hygiene, not dentrifices;5
+330710;Shaving prep;5
+330720;Deodorants;5
+330730;Bath salts;5
+330741;Burning odorifers;5
+330749;Room perfuming;5
+330790;Perfumery prep, nes;5
+340111;Soaps for toilet, solid;5
+340119;Soaps, not toilet, solid;5
+340120;Soaps, nes;5
+340211;Anionic surface-active agents;5
+340212;Cationic surface-active agents;5
+340213;Non-ionic surface-active agents;5
+340219;Organic surface-active agents, nes;5
+340220;Washing prep, retail;5
+340290;Organic surfactant washing;5
+340311;Lubricants, < 70% petroleum, for textile;5
+340319;Lubricating oil, < 70% petroleum;5
+340391;Lubricants, no petroleum, for textile;5
+340399;Lubricant prep, no petroleum;5
+340410;Artificial waces, modified lignite;5
+340420;Artificial waxes, polyethylene glycol;5
+340490;Artificial waxes, nes;5
+340510;Polishes, creams for footwear, leather;5
+340520;Polishes, creams for woodwork;5
+340530;Polishes for coachwork;5
+340540;Scouring pastes, powders;5
+340590;Polishes, creams, nes;5
+340600;Candles, tapers;5
+340700;Model, dental paste, wax;5
+350110;Casein;5
+350190;Casein glues and derivatives;5
+350210;Egg albumin;5
+350290;Albumins, nes;5
+350300;Gelatin, animal glues, nes;5
+350400;Peptones, proteins, nes;5
+350510;Modified starches;5
+350520;Glues based on modified starches;5
+350610;Glues and adhesives, < 1kg;5
+350691;Adhesives, rubber or plastic, > 1kg;5
+350699;Glues and adhesives, nes, > 1kg;5
+350710;Rennet;5
+350790;Enzymes, nes;5
+360100;Propellent powders;5
+360200;Prepared explosives;5
+360300;Detonators;5
+360410;Fireworks;5
+360490;Flares, other pyrotechnics;5
+360500;Matches;5
+360610;Lighter refill;5
+360690;Pyrophoric alloys, firelighters;5
+370110;X-ray plates;5
+370120;Photo instant print, flat;5
+370130;Photo plates, > 255mm;5
+370191;Photo plates, color;5
+370199;Photo plates, nes;5
+370210;Photo film rolls for x-ray;5
+370220;Instant print film rolls;5
+370231;Color photo film rolls, width <105mm;5
+370232;Silver halide film rolls, width <105mm;5
+370239;Photo film rolls, nes, width <105mm;5
+370241;Color film rolls, width >610mm, length >200m;5
+370242;Film rolls, not color, width >610mm, length >200m;5
+370243;Film rolls, width >610mm, length <200m;5
+370244;Film rolls, width 105-610mm, nes;5
+370251;Photo color film rolls, width <16mm, length <14m;5
+370252;Color film, width <16mm, length >14m;5
+370253;Color film rolls, width 16-35mm, length <30m;5
+370254;Color photo, nes, film rolls, w16-35mm, l<30m;5
+370255;Color film rolls, width 16-35mm, length >30m;5
+370256;Photo color film rolls, width >35mm;5
+370291;Photo film roll, width <16mm, length <14m;5
+370292;Photo film roll, w<16 mm, l >14m, nes;5
+370293;Photo film rolls, w16-35mm, l <30m;5
+370294;Photo film rolls, w16-35mm, l >30m;5
+370295;Photo film rolls, width <35mm;5
+370310;Unexposed photo paper, roll >610mm wide;5
+370320;Unexposed color photo paper;5
+370390;Unexposed photo paper, nes;5
+370400;Photo plate, film exposed, undeveloped;5
+370510;Photo plates, film exposed and developed;5
+370520;Microfilms, exposed and developed;5
+370590;Photo plates, film exposed or developed nes;5
+370610;Cinematographic film, width  >35mm;5
+370690;Cinematographic film, width <35mm;5
+370710;Sensitising emulsions;5
+370790;Chemical prep for photo uses;5
+380110;Artificial graphite;5
+380120;Colloidal graphite;5
+380130;Carbonaceous pastes;5
+380190;Graphite based products;5
+380210;Activate carbon;5
+380290;Activated natural mineral products, nes;5
+380300;Tall oil;5
+380400;Residual lyes from wood pulp;5
+380510;Gum, wood, oils;5
+380520;Pine oil;5
+380590;Terpenic oils, nes;5
+380610;Rosin and resin acids;5
+380620;Rosin, resin acid salts;5
+380630;Ester gums;5
+380690;Resin acids, rosin nes;5
+380700;Wood tar, tar oils, etc.;5
+380810;Insecticides;5
+380820;Fungicides;5
+380830;Herbicides;5
+380840;Disinfectants;5
+380890;Pesticides;5
+380910;Finishing and dye, amylaceous;5
+380991;Finishing and dyes, textiles industry;5
+380992;Finishing and dyes, paper industry;5
+380993;Finishing and dyes, leather industry;5
+380999;Finishing and dye, other industries;5
+381010;Metal pickling preps;5
+381090;Electro-weld rod cores, etc.;5
+381111;Anti-knock prep, lead;5
+381119;Anti-knock prep, not lead;5
+381121;Lubricant oil, petroleum;5
+381129;Lubricant oil, no petroleum;5
+381190;Oil additives, nes;5
+381210;Rubber accelerators;5
+381220;Plasticizers for rubber, plastic;5
+381230;Stabilizers for rubber, plastic;5
+381300;Fire-extinguisher prep;5
+381400;Organic composite solvents;5
+381511;Catalysts, nickel;5
+381512;Catalysts, precious metals;5
+381519;Catalysts, nes;5
+381590;Reaction initiators, accelerators, etc.;5
+381600;Refractory cements, etc., not graphite;5
+381710;Mixed alkylbenzenes, nes;5
+381720;Mixed alkylnaphthalenes, nes;5
+381800;Chemical wafers for electronic;5
+381900;Hydraulic brake, fluid < 70% petroleum;5
+382000;Anti-freezing fluids;5
+382100;Culture media for micro-organisms;5
+382200;Diagnostic reagents, nes;5
+382310;Binders for foundry moulds;5
+382320;Naphthenic acids;5
+382330;Non-agglomerated metal carbides;5
+382340;Additives for cements, etc;5
+382350;Non-refractory mortars, concretes;5
+382360;Sorbitol;5
+382390;Chemical products, nes;5
+390110;Polyethylene, < 0.94 spec gravity;5
+390120;Polyethylene, > 0.94 spec gravity;5
+390130;Ethylene-vinyl acetate copolymers;5
+390190;Polymers of ethylene, nes;5
+390210;Polypropylene;5
+390220;Polyisobutylene;5
+390230;Propylene copolymers;5
+390290;Polymers of propylene, nes;5
+390311;Polystyrene, expansible;5
+390319;Polystyrene, not expansible;5
+390320;SAN copolymers;5
+390330;ABS copolymers;5
+390390;Styrene polymers, not SAN, ABS;5
+390410;Polyvinyl chloride;5
+390421;Polyvinyl chloride, not plasticised;5
+390422;Polyvinyl chloride, plasticised;5
+390430;Vinyl chloride, acetate copolymers;5
+390440;Vinyl chloride copolymers, nes;5
+390450;Vinylidene chloride polymers;5
+390461;Polytetrafluoroethylene;5
+390469;Flouro-polymers, nes;5
+390490;Vinyl chloride polymers;5
+390511;Polyvinyl acetate, aqueous;5
+390519;Polyvinyl acetate, not aqueous;5
+390520;Polyvinyl alcohols;5
+390590;Vinyl polymers, halogenated olefins;5
+390610;Polymethyl methacrylate;5
+390690;Acrylic polymers;5
+390710;Polyacetals;5
+390720;Polyethers, nes;5
+390730;Epoxide resins;5
+390740;Polycarbonates;5
+390750;Alkyd resins;5
+390760;Polyethylene terephthalate;5
+390791;Polyesters, unsaturated, nes;5
+390799;Polyesters, nes;5
+390810;Polyamides, select;5
+390890;Polyamides, nes;5
+390910;Urea, thiourea resins;5
+390920;Melamine resins;5
+390930;Amino-resins;5
+390940;Phenolic resins;5
+390950;Polyurethanes;5
+391000;Silicones;5
+391110;Petroleum resins, etc;5
+391190;Polysulphides, -sulphones, nes;5
+391211;Cellulose acetates, non-plasticised;5
+391212;Cellulose acetates, plasticised;5
+391220;Cellulose nitrates, collodions;5
+391231;Carboxymethylcellulose, salts;5
+391239;Cellulose ethers, nes;5
+391290;Cellulose derivatives, nes;5
+391310;Alginic acid;5
+391390;Polymers, nes;5
+391400;Ion exchangers based on polymers;5
+391510;Polyethylene waste;5
+391520;Polystyrene waste;5
+391530;Polyvinyl chloride waste;5
+391590;Plastics waste, nes;5
+391610;Monofilament, ethylene;5
+391620;Monofilament, vinyl-chloride;5
+391690;Monofilament, nes;5
+391710;Sausage casings;5
+391721;Polyethylene tube, rigid;5
+391722;Polypropylene tube, rigid;5
+391723;Polyvinyl chloride tube, rigid;5
+391729;Plastic tube, rigid;5
+391731;Flexible plastic tube, mbp > 27.6MPa;5
+391732;Flexible plastic tube, no fitting;5
+391733;Flexible plastic tube, with fitting;5
+391739;Plastic tube, flexible, nes;5
+391740;Plastic tube fittings;5
+391810;Wall, floor cover, vinyl chloride;5
+391890;Wall, floor cover, not vinyl chloride;5
+391910;Self-adhesive plastic, <20 cm;5
+391990;Self-adhesive plastic, >20 cm;5
+392010;Plastic sheet, ethylene;5
+392020;Plastic sheet, propylene;5
+392030;Plastic sheet, styrene;5
+392041;Plastic sheet, rigid vinyl;5
+392042;Plastic sheet, flexible vinyl;5
+392051;Plastic sheet, polymethyl methacrylate;5
+392059;Plastic sheet, acrylic nes;5
+392061;Plastic sheet, polycarbonates;5
+392062;Plastic sheet, polyethylene terephthal;5
+392063;Plastic sheet, unsaturated polyesters;5
+392069;Plastic sheet, polyesters, nes;5
+392071;Plastic sheet, regenerated cellulose;5
+392072;Plastic sheet, vulcanised rubber;5
+392073;Plastic sheet, cellulose acetate;5
+392079;Plastic sheet, cellulose, nes;5
+392091;Plastic sheet, polyvinyl butyral;5
+392092;Plastic sheet, polyamides;5
+392093;Plastic sheet, amino-resins;5
+392094;Plastic sheet, phenolic resins;5
+392099;Plastic sheet, nes;5
+392111;Plastic sheet, cellular of styrene;5
+392112;Plastic sheet, cellular of vinyl chloride;5
+392113;Plastic sheet, cellular of polyurethane;5
+392114;Plastic sheet, cellular of regenerated cellulose;5
+392119;Plastic sheet, cellular of plastics, nes;5
+392190;Plastic sheet, etc, nes;5
+392210;Plastic baths and basins;5
+392220;Plastic toilet seats;5
+392290;Plastic bathroom wares, nes;5
+392310;Plastic boxes;5
+392321;Bags of ethylene polymers;5
+392329;Plastic bags, not ethylene polymers;5
+392330;Plastic bottles;5
+392340;Plastic spools;5
+392350;Plastic closures;5
+392390;Plastic goods for packing;5
+392410;Plastic kitchen ware;5
+392490;Plastic household articles, nes;5
+392510;Plastic tanks, <300 L;5
+392520;Plastic doors, windows;5
+392530;Plastic blinds;5
+392590;Plastic builders' ware, nes;5
+392610;Plastic office supplies;5
+392620;Plastic apparel;5
+392630;Plastic furniture fittings;5
+392640;Plastic ornaments;5
+392690;Plastic articles, nes;5
+400110;Natural rubber latex;5
+400121;Natural rubber, smoked sheets;5
+400122;Technically specified natural rubber;5
+400129;Natural rubber, nes;5
+400130;Natural gums;5
+400211;Rubber, SBR, latex;5
+400219;Rubber, SBR, not latex;5
+400220;Rubber, BR;5
+400231;Rubber, IIR;5
+400239;Rubber, CIIR/BIIR;5
+400241;Rubber, CR, latex;5
+400249;Rubber, CR, not latex;5
+400251;Rubber, NBR, latex;5
+400259;Rubber, NBR, not latex;5
+400260;Rubber, IR;5
+400270;Rubber, EPDM;5
+400280;Natural and synthetic rubber mix;5
+400291;Synthetic rubber, latex from oils, nes;5
+400299;Synthetic rubber, not latex from oils, nes;5
+400300;Reclaimed rubber;5
+400400;Rubber waste;5
+400510;Compounded unvulcanised rubber;5
+400520;Rubber solutions, nes;5
+400591;Compounded unvulcanised rubber, plate, etc.;5
+400599;Compounded unvulcanised rubber, primary, nes;5
+400610;Camel-back strips for rubber tyres;5
+400690;Unvulcanised rubber rods, etc;5
+400700;Vulcanised rubber thread;5
+400811;Vulcanised rubber sheet, cellular;5
+400819;Vulcanised rubber rods, cellular;5
+400821;Vulcanised rubber sheet, non-cellular;5
+400829;Vulcanised rubber rods, non-cellular;5
+400910;Rubber tubes, not reinforced;5
+400920;Rubber tubes, metal reinforced;5
+400930;Rubber tubes, textile reinforced;5
+400940;Rubber tubes, reinforced, nes;5
+400950;Rubber tubes, with fittings;5
+401010;Rubber transmission belts, trapezoidal;5
+401091;Rubber conveyor belts, <20cm;5
+401099;Rubber conveyor belts, nes;5
+401110;Rubber tyres, cars, new;5
+401120;Rubber tyres, buses, new;5
+401130;Rubber tyres, aircraft, new;5
+401140;Rubber tyres, motorcycles, new;5
+401150;Rubber tyres, bicycles, new;5
+401191;Rubber tyres, new, herring-bone;5
+401199;Rubber tyres, new, nes;5
+401210;Retreaded tyres;5
+401220;Used tyres;5
+401290;Tyres, interchangeable treads;5
+401310;Inner rubber tubes, motor vehicles;5
+401320;Inner rubber tubes, bicycles;5
+401390;Inner rubber tubes, nes;5
+401410;Sheath contraceptives;5
+401490;Rubber pharmacy items, not contraceptives;5
+401511;Rubber gloves, surgical;5
+401519;Rubber gloves, not surgical;5
+401590;Rubber clothing, nes;5
+401610;Articles of cellular rubber;5
+401691;Rubber floor coverings, not cellular;5
+401692;Erasers;5
+401693;Vulcanised rubber seals;5
+401694;Vulcanised rubber boat fenders;5
+401695;Vulcanised rubber articles, inflatable;5
+401699;Vulcanised rubber articles, not hard, nes;5
+401700;Hard rubber;5
+410110;Bovine skins, whole, raw;1
+410121;Bovine hides, whole, fresh;1
+410122;Bovine butts & bends, fresh;1
+410129;Bovine hide sections, fresh;1
+410130;Bovine hides, raw, nes;1
+410140;Equine hides & skins, raw;1
+410210;Sheepskin with wool, raw;1
+410221;Sheepskin no wool, pickled;1
+410229;Sheepskin no wool, raw;1
+410310;Goat hides, raw;1
+410320;Reptile skins, raw;1
+410390;Other raw hides;1
+410410;Bovine skin leather, whole;1
+410421;Bovine leather, vegetable pre-tanned;1
+410422;Bovine leather, pre-tanned;1
+410429;Bovine leather, tanned;1
+410431;Bovine leather, full;1
+410439;Bovine leather, nes;1
+410511;Sheep leather, vegetable pre-tanned;1
+410512;Sheep leather, pre-tanned;1
+410519;Sheep leather, tanned;1
+410520;Sheep leather, nes;1
+410611;Goat leather, vegetable pre-tanned;1
+410612;Goat leather, pre-tanned;1
+410619;Goat leather, tanned;1
+410620;Goat leather, nes;1
+410710;Swine leather;1
+410721;Reptile leather, vegetable pre-tanned;1
+410729;Reptile leather;1
+410790;Leather, nes;1
+410800;Chamois leather;1
+410900;Patent leather;1
+411000;Leather waste;1
+411100;Composition leather;1
+420100;Saddlery;1
+420211;Leather suitcases;1
+420212;Plastic, textle suitcases;1
+420219;Suitcases, nes;1
+420221;Leather handbags;1
+420222;Plastic, textile handbags;1
+420229;Vulcanised paperboard handbags;1
+420231;Leather pocket articles;1
+420232;Plastic, textile pocket articles;1
+420239;Pocket articles, nes;1
+420291;Leather containers;1
+420292;Plastic, textile containers;1
+420299;Gun, music cases;1
+420310;Leather apparel;1
+420321;Leather gloves, sports;1
+420329;Leather gloves, not sports;1
+420330;Leather belts;1
+420340;Leather clothing, nes;1
+420400;Leather articles for technical;1
+420500;Leather articles, nes;1
+420610;Catgut articles;1
+420690;Gut articles, nes;1
+430110;Raw mink furskins, whole;1
+430120;Raw rabbit furskins, whole;1
+430130;Raw Persian lamb furskins, whole;1
+430140;Raw beaver furskins, whole;1
+430150;Raw muskrat furskins, whole;1
+430160;Raw fox furskins, whole;1
+430170;Raw seal furskins, whole;1
+430180;Raw furskins, whole, nes;1
+430190;Raw furskin pieces;1
+430211;Tanned mink furskins, whole;1
+430212;Tanned rabbit skins, whole;1
+430213;Tanned Persian lambskin, whole;1
+430219;Tanned furs, whole, nes;1
+430220;Tanned furskin pieces;1
+430230;Tanned furskin, assembled;1
+430310;Furskin clothing;1
+430390;Furskin articles, not clothing;1
+430400;Artifical fur;1
+440110;Fuel wood;1
+440121;Wood chips, coniferous;1
+440122;Wood chips, non-coniferous;1
+440130;Sawdust;1
+440200;Wood charcoal;1
+440310;Treated poles;1
+440320;Logs, coniferous;1
+440331;Logs, Meranti, Bakau;1
+440332;Logs, white Lauan/(yellow)Meranti/Seraya/Alan;1
+440333;Logs, Keruing/Ramin/Kapur/Teak/Jongkong/Merbau;1
+440334;Logs, Okoume/Obeche/Sapelli/Sipo/Acajou d'Afrique;1
+440335;Logs, Tiama, Mansonia, Ilomba, Dibetou, Limba, Azobe;1
+440391;Logs, Oak;1
+440392;Logs, Beech;1
+440399;Logs, non-coniferous, nes;1
+440410;Pointed coniferous poles;1
+440420;Pointed non-coniferous poles;1
+440500;Wood wool, flour;1
+440610;Railwar, non-impregnated wood;1
+440690;Railway, impregnated wood;1
+440710;Lumber, coniferous < 6mm;1
+440721;Lumber, meranti;1
+440722;Lumber, other;1
+440723;Lumber, baboen, mahogany, etc;1
+440791;Lumber, oak;1
+440792;Lumber, beech;1
+440799;Lumber, non-coniferous, nes;1
+440810;Ply sheet, coniferous <6mm;1
+440820;Ply sheet, tropical, <6mm;1
+440890;Ply sheet, not coniferous <6mm;1
+440910;Shaped coniferous wood;1
+440920;Shaped non-coniferous wood;1
+441010;Wood particle board;1
+441090;Particle board, not wood;1
+441111;Not worked fibreboard, >0.8g/mc2;1
+441119;Worked fibreboard, >0.8g/mc2;1
+441121;Not worked fibreboard, 0.5-0.8g/mc2;1
+441129;Worked fibreboard, 0.5-0.8 g/mc2;1
+441131;Not worked fibreboard, 0.35-0.5g/mc2;1
+441139;Worked fibreboard, 0.35-0.5g/mc2;1
+441191;Not worked fibreboard, nes;1
+441199;Worked fibreboard, nes;1
+441211;Plywood, tropical <6mm;1
+441212;Plywood, non-coniferous <6mm;1
+441219;Plywood, softwood <6mm;1
+441221;Panels, non-coniferous and particle board;1
+441229;Panels, non-coniferous, nes;1
+441291;Panels, coniferous and particle board;1
+441299;Panels, laminated wood, nes;1
+441300;Densified wood;1
+441400;Wooden frames;1
+441510;Wooden boxes;1
+441520;Wooden pallets;1
+441600;Wooden barrels;1
+441700;Wood broom handles;1
+441810;Wood windows;1
+441820;Wood doors, frames;1
+441830;Wood panels, tiles;1
+441840;Wood shuttering;1
+441850;Wood singles;1
+441890;Wood carpentry, nes;1
+441900;Wood kitchenware;1
+442010;Wood ornaments;1
+442090;Wood marquetry, etc;1
+442110;Wood hangers;1
+442190;Wood articles, nes;1
+450110;Natural cork, raw;1
+450190;Cork waste;1
+450200;Natural cork, squared;1
+450310;Natural cork stoppers;1
+450390;Natural cork articles, not stoppers;1
+450410;Agglomerated cork blocks;1
+450490;Agglomerated cork articles;1
+460110;Plaits;1
+460120;Vegetable plaiting mats;1
+460191;Plaited vegetable articles, not mats;1
+460199;Non-vegetable plaiting products;1
+460210;Wickerwork, vegetable;1
+460290;Wickerwork, non-vegetable;1
+470100;Mechanical wood pulp;1
+470200;Chemical wood pulp;1
+470311;Chem wood pulp, sulphate, conifer, unbleached;1
+470319;Chem wood pulp, sulphate, non-conifer, unbleache;1
+470321;Chem wood pulp, sulphate, conifer, bleached;1
+470329;Chem wood pulp, sulphate, non-conifer, bleached;1
+470411;Chem wood pulp, sulphite, conifer unbleached;1
+470419;Chem wood pulp, sulphite, non-conifer, unbleached;1
+470421;Chem wood pulp, sulphite, conifer bleached;1
+470429;Chem wood pulp, sulphite, non-conifer, bleached;1
+470500;Semi-chemical wood pulp;1
+470610;Cotton linters pulp;1
+470691;Mechanical pulps, other;1
+470692;Chemical pulps, other;1
+470693;Semi-chemical pulps, other;1
+470710;Unbleached kraft waste;1
+470720;Bleached chemical pulp waste;1
+470730;Paper waste, mechanical pulp;1
+470790;Paper waste, nes;1
+480100;Newsprint;1
+480210;Paper, hand-made, uncoated;1
+480220;Paper, sensitising base stock;1
+480230;Paper, carbonising base, uncoated;1
+480240;Paper, wallpaper base, uncoated;1
+480251;Paper, fine, woodfree, <40 g/m2, uncoated, nes;1
+480252;Paper, fine, woodfree, 40 - 150 g/m2, uncoated;1
+480253;Paper, fine, woodfree, >150 g/m2, uncoated, nes;1
+480260;Paper, fine, wood-containing, uncoated, nes;1
+480300;Toilet paper, >36cm;1
+480411;Paper, Kraftliner, unbleached, uncoated;1
+480419;Paper, Kraftliner, other, uncoated;1
+480421;Paper, sack kraft, unbleached, uncoated;1
+480429;Paper, sack kraft, other, uncoated;1
+480431;Paper, kraft, <150g/m2, unbleached, uncoated;1
+480439;Paper, kraft, <150g/m2, uncoated, nes;1
+480441;Paper, kraft, 150-225 g/m2, unbleached,uncoated;1
+480442;Paper, kraft, 150-225 g/m2, chem pulp not bleach/coat;1
+480449;Paper, kraft, 150-225 g/m2, uncoated;1
+480451;Paper, kraft, >225g/m2, unbleached, uncoated;1
+480452;Paper, kraft, >225g/m2,chemical pulp,bleach/uncoat;1
+480459;Paper, kraft, >225g/m2, uncoated, nes;1
+480510;Paper, fluting, uncoated, rolls, semi-chemical;1
+480521;Paper, multi-ply, each layer bleached, uncoated, nes;1
+480522;Paper, multi-ply, one layer bleached, uncoated;1
+480523;Paper, multi-ply, <4 layers, outer bleached, uncoated;1
+480529;Paper, multi-ply, uncoated;1
+480530;Paper, uncoat, sulphite wrapping;1
+480540;Paper, uncoat, filter;1
+480550;Paper, uncoat, felt;1
+480560;Paper, uncoated, <150g/m2;1
+480570;Paper, uncoat, 150-225 g/m2;1
+480580;Paper, uncoat, >225g/m2;1
+480610;Paper, vegetable parchment;1
+480620;Paper, greaseproof;1
+480630;Paper, tracing;1
+480640;Paper, transparent;1
+480710;Paper, laminated, uncoat;1
+480791;Straw paper, board;1
+480799;Paper, composite, uncoat;1
+480810;Paper, corrugated;1
+480820;Paper sack kraft, crepe;1
+480830;Paper crepe, kraft;1
+480890;Paper crepe, not kraft;1
+480910;Paper, carbon >36cm;1
+480920;Paper, self-copy >36cm;1
+480990;Paper, copying >36cm;1
+481011;Paper, fine, woodfree, <150 g/m2, clay coated;1
+481012;Paper, fine, woodfree, >150 g/m2, clay coated;1
+481021;Paper, fine, light coat;1
+481029;Paper, fine, wood, clay, not light;1
+481031;Paper, kraft, >95% chem pulp, <150g, bleach, clay;1
+481032;Paper, kraft, >95% chem pulp, >150g, bleach, clay;1
+481039;Paper, kraft, clay;1
+481091;Paper, multi-ply, clay;1
+481099;Paper, clay, nes;1
+481110;Paper, tarred;1
+481121;Paper, self-adhesive, not labels;1
+481129;Paper, adhesive, not label;1
+481131;Paper, >150g/m2, bleach, plastic;1
+481139;Paper, coat, with plastic;1
+481140;Paper, wax;1
+481190;Paper, coat, nes;1
+481200;Paper pulp filter blocks;1
+481310;Paper, cigarette, tubes;1
+481320;Paper, cigarette, rolls, <5 cm;1
+481390;Paper, cigarette, not rolls <5cm;1
+481410;Wallpaper, ingrain;1
+481420;Wallpaper, with plastic;1
+481430;Wallpaper, plaiting on one side;1
+481490;Wallpaper, nes;1
+481500;Paper floor coverings;1
+481610;Paper, carbon, not rolls >36cm;1
+481620;Paper, self-copy, not rolls >36cm;1
+481630;Duplicator stencils;1
+481690;Paper, copying, nes;1
+481710;Paper enveloped;1
+481720;Letters, postcards;1
+481730;Boxes of stationary;1
+481810;Toilet paper;1
+481820;Paper tissues;1
+481830;Paper tableclothes;1
+481840;Paper sanitary towels, diapers;1
+481850;Paper clothing;1
+481890;Paper household supplies, nes;1
+481910;Corrugated paper, boxes;1
+481920;Non-corrugated paper, boxes;1
+481930;Sacks of paper, >40cm;1
+481940;Sacks of paper;1
+481950;Containers of paper;1
+481960;Paper office box files;1
+482010;Notebooks, diaries;1
+482020;School books;1
+482030;Binders;1
+482040;Business forms;1
+482050;Paper collection albums;1
+482090;Paper office supplies, nes;1
+482110;Paper labels, printed;1
+482190;Paper labels, not printed;1
+482210;Paper spools for textile yarn;1
+482290;Paper spools, nes;1
+482311;Paper, self-adhesive, cut;1
+482319;Paper adhesive, cut, nes;1
+482320;Paper filter, cut;1
+482330;Cards, not punched;1
+482340;Paper rolls for instruments;1
+482351;Paper, fine, cute, printed, nes;1
+482359;Paper, fine, cut, nes;1
+482360;Paper dishes, cups;1
+482370;Paper pulp articles;1
+482390;Paper articles, nes;1
+490110;Brochures, leaflets;1
+490191;Dictionaries, encyclopedias;1
+490199;Reading books, not dictionaries;1
+490210;Newspapers, >3 isses/week;1
+490290;Newspapers, <4 issues/week;1
+490300;Children's picture books;1
+490400;Music, printed;1
+490510;Globes;1
+490591;Maps and charts, book;1
+490599;Maps and charts, not book;1
+490600;Architectural plans;1
+490700;Documents of title, stamps;1
+490810;Decalcomanias, vitrifiable;1
+490890;Decalcomanias, not vitrifiable;1
+490900;Postcards, greeting cards;1
+491000;Calendars;1
+491110;Advertising material;1
+491191;Pictures, designs, photos;1
+491199;Printed matter, nes;1
+500100;Silk-worm cocoons;0
+500200;Raw silk;0
+500310;Silk waste, not carded;0
+500390;Silk waste, carded;0
+500400;SIlk yarn, not retail;0
+500500;Yarn from silk waste, not retail;0
+500600;Silk yarn, retail;0
+500710;Woven fabric, noil silk;0
+500720;Woven fabric >85% silk;0
+500790;Woven fabric, silk, nes;0
+510111;Greasy shorn wool;0
+510119;Greasy wool, nes;0
+510121;Degreased shorn wool;0
+510129;Degreased wool, nes;0
+510130;Carbonized wool;0
+510210;Fine animal hair;0
+510220;Coarse animal hair;0
+510310;Wool, fine hair noils;0
+510320;Waste of wool or fine hair, nes;0
+510330;Waste of coarse hair, not garnetted;0
+510400;Garnetted stock, wool or hair;0
+510510;Carded wool;0
+510521;Combed wool, fragments;0
+510529;Wool tops, not combed;0
+510530;Fine animal hair, carded/combed;0
+510540;Coarse hair, carded/combed;0
+510610;Yarn of carded wool, >85% wool;0
+510620;Yarn of carded wool, <85% wool;0
+510710;Yarn of combed wool, >85% wool;0
+510720;Yarn of combed wool, <85% wool;0
+510810;Yarn of carded fine hair;0
+510820;Yarn of combed fine hair;0
+510910;Yarn of wool,fine hair, >85%, retail;0
+510990;Yarn of wool, fine hair, <85%, retail;0
+511000;Yarn of coarse hair;0
+511111;Fabric, >85% card wool/fine hair, <300g/m3;0
+511119;Fabric, >85% card wool/fine hair, >300g/m2;0
+511120;Fabric, card wool/hair with filament;0
+511130;Fabric, card wool/hair and staple;0
+511190;Fabric, card wool/hair with fibres;0
+511211;Fabric, >85% comb wool/fine hair, <300g/m2;0
+511219;Fabric, >85% comb wool/fine hair, >300g/m3;0
+511220;Fabric, comb wool/hair with filament;0
+511230;Fabric, comb wool/hair and staple;0
+511290;Fabric, comb wool/hair with fibres;0
+511300;Fabric of coarse hair;0
+520100;Cotton, not carded/combed;0
+520210;Cotton yarn waste;0
+520291;Garnetted cotton stock;0
+520299;Cotton waste, not garnetted;0
+520300;Cotton, carded/combed;0
+520411;Cotton thread >85%, not retail;0
+520419;Cotton thread <85%, not retail;0
+520420;Cotton thread, retail;0
+520511;Cotton yarn >85%, sing uncomb >714;0
+520512;Cotton yarn >85%, sing uncomb 714-232;0
+520513;Cotton yarn >85%, sing uncomb 232-192;0
+520514;Cotton yarn >85%, sing uncomb 192-125;0
+520515;Cotton yarn >85%, sing uncomb <125;0
+520521;Cotton yarn >85%, sing comb >714;0
+520522;Cotton yarn >85%, sing comb 714-232;0
+520523;Cotton yarn >85%, sing comb 232-192;0
+520524;Cotton yarn >85%, sing comb 192-125;0
+520525;Cotton yarn >85%, sing comb <125;0
+520531;Cotton yarn >85%, mult uncomb >714;0
+520532;Cotton yarn >85%, mult uncomb 714-232;0
+520533;Cotton yarn >85%, mult uncomb 232-192;0
+520534;Cotton yarn >85%, mult uncomb 192-125;0
+520535;Cotton yarn >85%, mult uncomb <125;0
+520541;Cotton yarn >85%, mult comb >714;0
+520542;Cotton yarn >85%, mult comb 714-232;0
+520543;Cotton yarn >85%, mult comb 232-192;0
+520544;Cotton yarn >85%, mult comb 192-125;0
+520545;Cotton yarn >85%, mult comb <125;0
+520611;Cotton yarn <85%, sing uncomb >714;0
+520612;Cotton yarn <85%, sing uncomb 714-232;0
+520613;Cotton yarn <85%, sing uncomb 232-192;0
+520614;Cotton yarn <85%, sing uncomb 192-125;0
+520615;Cotton yarn <85%, sing uncomb <125;0
+520621;Cotton yarn <85%, sing comb >714;0
+520622;Cotton yarn <85%, sing comb 714-232;0
+520623;Cotton yarn <85%, sing comb 232-192;0
+520624;Cotton yarn <85%, sing comb 192-125;0
+520625;Cotton yarn <85%, sing comb <125;0
+520631;Cotton yarn <85%, mult uncomb >714;0
+520632;Cotton yarn <85%, mult uncomb 714-232;0
+520633;Cotton yarn <85%, mult uncomb 232-192;0
+520634;Cotton yarn <85%, mult uncomb 192-125;0
+520635;Cotton yarn <85%, mult uncomb <125;0
+520641;Cotton yarn <85%, mult comb >714;0
+520642;Cotton yarn <85%, mult comb 714-232;0
+520643;Cotton yarn <85%, mult comb 232-192;0
+520644;Cotton yarn <85%, mult comb 192-125;0
+520645;Cotton yarn <85%, mult comb <125;0
+520710;Cotton yarn >85%, retail;0
+520790;Cotton yarn <85%, retail;0
+520811;Plain weave, >85% <100 g/m2, unbleached;0
+520812;Plain weave, >85% 100-200g/m2, unbleached;0
+520813;Twill weave, >85% <200g/m2, unbleached;0
+520819;Woven nes, >85% <200g/m2, unbleached;0
+520821;Plain weave, >85% <100 g/m2, bleached;0
+520822;Plain weave, >85% 100-200g/m2, bleached;0
+520823;Twill weave, >85% <200g/m2, bleached;0
+520829;Woven nes, >85% <200g/m2, bleached;0
+520831;Plain weave, >85% <100 g/m2, dyed;0
+520832;Plain weave, >85% 100-200g/m2, dyed;0
+520833;Twill weave, >85% <200g/m2, dyed;0
+520839;Woven nes, >85% <200g/m2, dyed;0
+520841;Plain weave, >85% <100 g/m2, yarn dyed;0
+520842;Plain weave, >85% 100-200g/m2, yarn dyed;0
+520843;Twill weave, >85% <200g/m2, yarn dyed;0
+520849;Woven nes, >85% <200g/m2, yarn dyed;0
+520851;Plain weave, >85% <100 g/m2, printed;0
+520852;Plain weave, >85% 100-200g/m2, printed;0
+520853;Twill weave, >85% <200g/m2, printed;0
+520859;Woven nes, >85% <200g/m2, printed;0
+520911;Plain weave, >85% >200g/m2, unbleach;0
+520912;Twill weave, >85% >200g/m2, unbleach;0
+520919;Woven nes, >85% >200g/m2, unbleach, nes;0
+520921;Plain weave, >85% >200g/m2, bleach;0
+520922;Twill weave, >85% >200g/m2, bleach;0
+520929;Woven nes, >85% >200g/m2, bleach, nes;0
+520931;Plain weave, >85% >200g/m2, dye;0
+520932;Twill weave, >85% >200g/m2, dye;0
+520939;Woven nes, >85% >200g/m2, dye, nes;0
+520941;Plain weave, >85% >200g/m2, yarn dye;0
+520942;Denim >85% >200g/m2;0
+520943;Twill, not denim, >85% >200g/m2, yarn dye;0
+520949;Woven nes, >85% >200g/m2, yarn dye, nes;0
+520951;Plain weave, >85% >200g/m2, print;0
+520952;Twill weave, >85% >200g/m2, print;0
+520959;Woven nes, >85% >200g/m2, print, nes;0
+521011;Plain weave <85%, fibre <200g unbleach;0
+521012;Twill weave <85%, fibre <200g unbleach;0
+521019;Woven nes <85%, fibre <200g, unbleach;0
+521021;Plain weave <85%, fibre, <200g bleach;0
+521022;Twill weave <85%, fibre, <200g bleach;0
+521029;Woven nes, <85%, fibre, <200g bleach;0
+521031;Plain weave, <85%, fibre, <200g/m2 dye;0
+521032;Twill weave, <85%, fibre, <200g/m2 dye;0
+521039;Woven nes, <85%, fibre, <200g/m2 dyed;0
+521041;Plain weave,<85%, fibre,<200g yarn dye;0
+521042;Twill , <85%, fibre, <200g/m2 yarn dye;0
+521049;Woven nes,<85%, fibre, <200g yarn dyed;0
+521051;Plain weave, <85%, fibre, <200g print;0
+521052;Twill weave, <85%, fibre, <200g print;0
+521059;Woven nes, <85%, fibre, <200g/m2 print;0
+521111;Plain weave, <85%, fibre, >200g/m2 unb;0
+521112;Twill weave, <85%, fibre, >200g/m2 unb;0
+521119;Woven nes, <85%, fibre, >200g/m2 unbl;0
+521121;Plain weave <85%, fibre >200g bleach;0
+521122;Twill weave <85%, fibre >200g bleach;0
+521129;Woven nes, <85%, fibre, >200g, bleach;0
+521131;Plain weave, <85%, fibre, >200g, dyed;0
+521132;Twill weave, <85%, fibre, >200g, dyed;0
+521139;Woven nes, <85%, fibre, >200g/m2, dyed;0
+521141;Plain weave,<85%, fibre,>200g,yarn dye;0
+521142;Denim nes, <85%, fibre, >200g/m2;0
+521143;Twill not denim<85%, fibre,>200g y-dye;0
+521149;Woven nes, <85%, fibre, >200g,yarn dye;0
+521151;Plain weave , <85%, fibre, >200g, prin;0
+521152;Twill weave , <85%, fibre, >200g, prin;0
+521159;Woven nes, <85%, fibre, >200g, printed;0
+521211;Cotton fabric, <200g/m2, unbleach, nes;0
+521212;Cotton fabric, <200g/m2, bleach, nes;0
+521213;Cotton fabric, <200g/m2, dye, nes;0
+521214;Cotton fabric, <200g/m2, yarns mix colours;0
+521215;Cotton fabric, <200g/m2, print, nes;0
+521221;Cotton fabric, >200g/m2, unbleach, nes;0
+521222;Cotton fabric, >200g/m2, bleach, nes;0
+521223;Cotton fabric, >200g/m2, dye, nes;0
+521224;Cotton fabric, >200g/m2, yarns mix colours;0
+521225;Cotton fabric, >200g/m2, print, nes;0
+530110;Flax fibre, raw;0
+530121;Flax fibre, broken;0
+530129;Flax fibre, processed unspun;0
+530130;Flax tow, waste;0
+530210;Hemp fibre, raw;0
+530290;Hemp fibre, processed unspun;0
+530310;Jute, raw;0
+530390;Jute, not spun, nes;0
+530410;Sisal and agave, raw;0
+530490;Sisal and agave, processed unspun;0
+530511;Coconut fibre, raw;0
+530519;Coconut fibre, processed unspun;0
+530521;Abaca fibre, raw;0
+530529;Abaca fibre, processed unspun;0
+530591;Vegetable textile fibres nes, raw;0
+530599;Vegetable fibre, processed unspun;0
+530610;Flax yam single;0
+530620;Flax yam multiple;0
+530710;Jute yarn, single;0
+530720;Jute yarn, multiple;0
+530810;Coir yarn;0
+530820;Hemp yarn;0
+530830;Paper yarn;0
+530890;Vegetable fibre yarn;0
+530911;Fabric >85% flax, (un)bleach;0
+530919;Fabric >85% flax, not (un)bleach;0
+530921;Fabric <85% flax, (un)bleach;0
+530929;Fabric <85% flax, not (un)bleach;0
+531010;Jute fabric, (un)bleach;0
+531090;Jute fabric, not (un)bleach;0
+531100;Vegetable fibre fabric;0
+540110;Sewing thread, synthetic;0
+540120;Sewing thread, artificial;0
+540210;Hi-ten yarn nylon, polyamide;0
+540220;Hi-ten yarn, polyester filament;0
+540231;Textured yarn, nylon, polyamide <50;0
+540232;Textured yarn, nylon, polyamide >50;0
+540233;Textured yarn nes, polyester filaments;0
+540239;Textured yarn, synthetic filament;0
+540241;Yarn,nylon/polyamide, single untwisted;0
+540242;Yarn, polyester, part oriented, single;0
+540243;Yarn, polyester, single, untwisted;0
+540249;Yarn, synth filament, single untwisted;0
+540251;Yarn, nylon, polyamide, single >50 turn/m;0
+540252;Yarn, polyester, single, >50 turn/m;0
+540259;Yarn synth filament, single, >50 turn/m;0
+540261;Yarn nylon/polyamide filament multiple;0
+540262;Yarn of polyester filament, multiple;0
+540269;Yarn synthetic filament, multiple;0
+540310;Hi-ten rayon yarn;0
+540320;Textured yarn, nes;0
+540331;Rayon yarn, single untwist;0
+540332;Rayon yarn, single >120 turn/m;0
+540333;Cellulose acetate yarn, single;0
+540339;Artificial yarn, single;0
+540341;Rayon yarn, multiple;0
+540342;Cellulose acetate yarn, multiple;0
+540349;Artificial yarn, multiple;0
+540410;Synthetic monofilament, >97 dtex;0
+540490;Strip synthetic material, <5mm thick;0
+540500;Artificial monofilament, > 67dtex;0
+540610;Sunthetic filament yarn, retail;0
+540620;Artificial filament yarn, retail;0
+540710;Hi-ten filament, nylon, polyamide, polyester;0
+540720;Fabric of strip etc, synthetic textile material;0
+540730;Fabric, synthetic filament yarns;0
+540741;Fabric >85% nylon, polyamide, unbl/bleach;0
+540742;Fabric >85% nylon, polyamide, dye;0
+540743;Fabric >85% nylon, polyamide, yarn dye;0
+540744;Fabric >85% nylon, polyamide, print;0
+540751;Fabric >85% textur polyester (un)bleach,ne;0
+540752;Fabric >85% textur polyester, dye;0
+540753;Fabric >85% textur polyester, yarn dye;0
+540754;Fabric >85% textur polyester, print;0
+540760;Fabric >85% non-textur polyester filament;0
+540771;Fabric >85% synthetic filament;0
+540772;Fabric >85% synthetic filament, dye;0
+540773;Fabric >85% synthetic filament, yarn dye;0
+540774;Fabric >85% synthetic filament, print;0
+540781;Fabric synthetic filament, <85% +cotton;0
+540782;Fabric synthetic filament <85% +cotton, dye;0
+540783;Fabric synthetic filament <85% +cotton, yarn dye;0
+540784;Fabric synthetic filament, <85% +cotton, printe;0
+540791;Fabric synthetic filament nes;0
+540792;Fabric synthetic filament, dye;0
+540793;Fabric synthetic filament, yarn dye;0
+540794;Fabric synthetic filament, print;0
+540810;Fabric hi-ten filament rayon yarn;0
+540821;Fabric >85% artificial filament, (un)bleach;0
+540822;Fabric >85% artificial filament, dye;0
+540823;Fabric >85% artificial filament, yarn dye;0
+540824;Fabric >85% artificial filament, print;0
+540831;Fabric artificial filament, (un)bleach, nes;0
+540832;Fabric artificial filament, dye, nes;0
+540833;Fabric of artifical filament, yarn dye, nes;0
+540834;Fabric of artificial filament, print, nes;0
+550110;Nylon filament tow;0
+550120;Polyester filament tow;0
+550130;Acrylic filament tow;0
+550190;Synthetic filament tow, nes;0
+550200;Artificial filament tow;0
+550310;Staple nylon fibre, not card/comb;0
+550320;Staple polyester fibre, not card/comb;0
+550330;Staple acrylic fibre, not card/comb;0
+550340;Staple polypropylene fiber, not card/comb;0
+550390;Synthetic staple fiber, not card/comb;0
+550410;Staple rayon fiber, not card/comb;0
+550490;Artificial staple fibre, not card/comb, nes;0
+550510;Synthetic fibre waste;0
+550520;Artificial fibre waste;0
+550610;Nylon staple fibres, card/comb;0
+550620;Polyester staple fibres, card/comb;0
+550630;Acrylic staple fibres, card/comb;0
+550690;Synthetic staple fibres, card/comb, nes;0
+550700;Artificial staple fibres, card/comb;0
+550810;Synthetic staple fibre thread;0
+550820;Artificial staple fiber thread;0
+550911;Yarn >85% nylon fibres, single;0
+550912;Yarn >85% nylon fibre, multiple;0
+550921;Yarn >85% polyester fibres, single;0
+550922;Yarn >85% polyester fibres, multiple;0
+550931;Yarn >85% acrylic fibres, single;0
+550932;Yarn >85% acrylic fibres, multiple;0
+550941;Yarn >85% other synth fibres, single;0
+550942;Yarn >85% other synth fibre, multiple;0
+550951;Yarn of polyester & artif fibres;0
+550952;Yarn of polyester & wool/hair;0
+550953;Yarn of polyester & cotton;0
+550959;Yarn of polyester fibres, nes;0
+550961;Yarn of acrylic & wool/hair;0
+550962;Yarn of acrylic & cotton;0
+550969;Yarn of acrylic fibres;0
+550991;Yarn of other synth fibre with wool/hair, nes;0
+550992;Yarn of other synth fibres & cotton, not retail;0
+550999;Yarn of other synth fibres & cotton;0
+551011;Yarn >85% artificial fibres, single;0
+551012;Yarn >85% artif fibres, multiple;0
+551020;Yarn of artif fibres & wool/hair;0
+551030;Yarn of artificial fibres & cotton;0
+551090;Yarn of artificial fibres;0
+551110;Yarn >85% synthetic fibres, retail;0
+551120;Yarn <85% synthetic fibres, retail;0
+551130;Yarn of artificial fibres, retail;0
+551211;Woven fabric >85% polyester unbl/bleached;0
+551219;Woven fabric >85% polyester fibres, nes;0
+551221;Woven fabric >85% acrylic, unbl/bleached;0
+551229;Woven fabric >85% acrylic fibres, nes;0
+551291;Woven fabric >85% synthetic, unbl/bleached;0
+551299;Woven fabric >85% synthetic fibre, nes;0
+551311;Woven plain <85% polyester&cotton, <170g/m2 unbl/blch;0
+551312;Woven twill <85% polyester&cotton, <170g/m2 unbl/blch;0
+551313;Wovens nes <85% polyester&cotton, <170g/m2 unbl/blchd;0
+551319;Woven fabric <85% synth&cotton, <170g/m2 unbl/blch;0
+551321;Woven plain <85% polyester&cotton, <170g/m2 dyed;0
+551322;Woven twill <85% polyester&cotton, <170g/m2 dyed;0
+551323;Woven fabric <85% polyester&cotton, <170g/m2 dyed;0
+551329;Woven fabric <85% synthetic&cotton, <170g/m2 dyed;0
+551331;Woven plain <85% polyester&cotton,<170g/m2 yarn dye;0
+551332;Woven twill <85% polyester&cotton,<170g/m2 yarn dyed;0
+551333;Woven nes <85% polyester&cotton, <170g/m2 yarn dyed;0
+551339;Woven fabric <85% synth&cotton,<170g/m2 yarn dye;0
+551341;Woven plain <85% polyester&cotton, <170g/m2 printed;0
+551342;Woven twill <85% polyester&cotton, <170g/m2 printed;0
+551343;Woven nes <85% polyester&cotton, <170g/m2 printed;0
+551349;Woven fabric <85% synth&cotton, <170g/m2 printed;0
+551411;Woven plain <85% polyester&cotton, >170g/m2 unbl/blch;0
+551412;Woven twill <85% polyester&cotton, >170g/m2 unbl/blch;0
+551413;Woven nes <85% polyester&cotton, >170g/m2 unbl/blch;0
+551419;Woven fabric <85% synth&cotton, >170g/m2 unbl/blch;0
+551421;Woven plain <85% polyester&cotton, >170g/m2 dyed;0
+551422;Woven twill <85% polyester&cotton, >170g/m2 dyed;0
+551423;Woven nes <85% polyester&cotton, >170g/m2 dyed;0
+551429;Woven fabric <85% synthetic nes&cotton, >170g/m2 dyed;0
+551431;Woven plain <85% polyester&cotton, >170g/m2 yarn dyed;0
+551432;Woven twill <85% polyester&cotton, >170g/m2 yarn dyed;0
+551433;Woven nes <85% polyester&cotton, >170g/m2 yarn dyed;0
+551439;Woven fabric <85% synth&cotton,>170g/m2 yarn dyed;0
+551441;Woven plain <85% polyester&cotton, >170g/m2 printed;0
+551442;Woven twill <85% polyester&cotton, >170g/m2 printed;0
+551443;Woven nes <85% polyester&cotton, >170g/m2 printed;0
+551449;Woven fabric <85% synth&cotton, >170g/m2 printed;0
+551511;Woven fabric polyester & viscose rayon;0
+551512;Woven fabric polyester & manmade filament;0
+551513;Woven fabric polyester & wool/hair;0
+551519;Woven fabric polyester fibres, nes;0
+551521;Woven fabric acrylics & manmade filament;0
+551522;Woven fabric acrylics & wool/hair, nes;0
+551529;Woven fabric acrylic/modacrylic fibres, nes;0
+551591;Woven fabric synthetic with manmade filament;0
+551592;Woven fabric synthetic with wool/hair, nes;0
+551599;Woven fabric synthetic fibres, nes;0
+551611;Woven fabric <85% artif fibres, unbl/bleached;0
+551612;Woven fabric <85% artificial fibres, dyed;0
+551613;Woven fabric <85% artif fibre, yarn dyed;0
+551614;Woven fabric <85% artificial fibres, printed;0
+551621;Woven fabric <85% artif &manmade fibre, unbl/bleached;0
+551622;Woven fabric <85% artif&manmade fibre dyed;0
+551623;Woven fabric <85% artif&manmade fil, yarn dyed;0
+551624;Woven fabric <85% artif &manmade fil, printed;0
+551631;Woven fabric <85% artif &wool/hair, unbl/bleache;0
+551632;Woven fabric <85% artif &wool/hair, dyed;0
+551633;Woven fabric <85% artif &wool/hair, yarn dyed;0
+551634;Woven fabric <85% artif &wool/hair, printed;0
+551641;Woven fabric <85% artif &cotton, unbl/bleached;0
+551642;Woven fabric <85% artif &cotton, dyed;0
+551643;Woven fabric <85% artificial&cotton, yarn dyed;0
+551644;Woven fabric <85% artif &cotton, printed;0
+551691;Woven fabric <85% artificial, unbl/bleached, nes;0
+551692;Woven fabric <85% artificial, dyed, nes;0
+551693;Woven fabric <85% artif staples, yarn dyed, nes;0
+551694;Woven fabric <85% artificial, printed, nes;0
+560110;Sanitary towels, diapers;0
+560121;Wadding, cotton, not sanitary;0
+560122;Wadding, manmade fibres, not sanitary;0
+560129;Wadding, not sanitary, nes;0
+560130;Textile flock;0
+560210;Needleloom felt;0
+560221;Felt, not needleloom, wool/hair, not coated;0
+560229;Felt, not wool/hair, not coated;0
+560290;Felt, coated, etc.;0
+560300;Nonwoven textiles, not felt;0
+560410;Rubber thread, textile covered;0
+560420;Hi-ten manmade yarn, plastic coated;0
+560490;Yarn, plastic coated;0
+560500;Metallised yarn;0
+560600;Chenille, gimp etc. yarn;0
+560710;Twine ropes, jute;0
+560721;Binder twine, sisal;0
+560729;Twine ropes, sisal;0
+560730;Twine ropes, of abaca;0
+560741;Binder twine, polyethylene;0
+560749;Twine ropes, polyethylene, nes;0
+560750;Twine ropes, other synthetic fibre;0
+560790;Twine ropes, other materials;0
+560811;Made up fishing nets, manmade material;0
+560819;Knotted netting, manmade fibres, not fishing;0
+560890;Kotted netting, natural material;0
+560900;Articles of yarn, rope nes;0
+570110;Carpets of wool/hair, knotted;0
+570190;Carpets nes, knotted;0
+570210;Hand made rugs;0
+570220;Coconut fibre rugs;0
+570231;Carpets, wool/hair, woven pile, not madeup;0
+570232;Carpets, manmade yarn, woven pile, not madeup;0
+570239;Carpets, woven pile, not madeup, nes;0
+570241;Carpets, wool/hair, woven pile, madeup;0
+570242;Carpets, manmade yarn, woven pile, madeup;0
+570249;Carpets, woven pile, madeup, nes;0
+570251;Carpets, wool/hair, woven, not madeup;0
+570252;Carpets, manmade yarn, woven, not madeup;0
+570259;Carpets, woven, not madeup, nes;0
+570291;Carpets, wool/hair, woven, madeup;0
+570292;Carpets, manmade yarn, woven, madeup;0
+570299;Carpets, woven, madeup, nes;0
+570310;Carpets, wool/hair, tufted;0
+570320;Carpets, nylon, tufted;0
+570330;Carpets, other manmade material, tufted;0
+570390;Carpets, tufted, nes;0
+570410;Felt tiles, < 0.3m2;0
+570490;Carpets, felt, > 0.3 m2;0
+570500;Carpets, nes;0
+580110;Pile, wool/hair, >30cm;0
+580121;Weft pile, cotton, uncut, not terry, >30cm;0
+580122;Corduroy cotton, cut, >30cm;0
+580123;Weft pile, cotton, nes, >30cm;0
+580124;Warp pile, cotton, uncut, not terry;0
+580125;Warp pile, cotton, cut, not terry >30cm;0
+580126;Chenille, cotton, >30cm;0
+580131;Weft pile, manmade, uncut;0
+580132;Corduroy, manmade, cut, >30cm;0
+580133;Weft pile, manmade fibre, nes;0
+580134;Warp pile, manmade, uncut;0
+580135;Warp pile, manmade, cut, not terry;0
+580136;Chenille, manmade fibre, >30cm;0
+580190;Pile, chenille, not terry, nes;0
+580211;Terry, cotton, not narrow;0
+580219;Terry, cotton, nes >30cm;0
+580220;Terry, not cotton, >30cm;0
+580230;Tufted textile, not carpets;0
+580310;Gauze, cotton, >30cm;0
+580390;Gauze, not cotton, >30cm;0
+580410;Tulles, other nets;0
+580421;Mechanical lace, manmade;0
+580429;Mechanical lace, nes;0
+580430;Hand-made lace;0
+580500;Hand-woven tapestries;0
+580610;Pile and narrow chenille;0
+580620;Elasticised fabric, <30cm;0
+580631;Cotton fabric, nes <30cm;0
+580632;Manmade fabric, nes <30cm;0
+580639;Woven fabric, nes, <30cm;0
+580640;Warp fabric, with adhesive;0
+580710;Label, woven, not embroidered;0
+580790;Labe, not woven, not embroidered;0
+580810;Braids;0
+580890;Ornamental trimmings;0
+580900;Fabric with metal threads, nes;0
+581010;EMbroidery, no visible ground;0
+581091;Embroidery, cotton;0
+581092;Embroidery, manmade;0
+581099;Embroidery, natural fibres not cotton;0
+581100;Quilted textile products;0
+590110;Gum covered textiles for books;0
+590190;Painting canvas;0
+590210;Tyre cord, nylon;0
+590220;Tyre cord, polyester;0
+590290;Tyre cord, rayon;0
+590310;Impregnated fabric, pvc;0
+590320;Impregnated fabric, polyurethane;0
+590390;Impregnated fabric, plastic, nes;0
+590410;Linoleum;0
+590491;Floor covering with felt, non-woven base;0
+590492;Floor covering, textile base, nes;0
+590500;Textile wall coverings;0
+590610;Rubberised textile, tape <20cm;0
+590691;Rubberised textile, knit;0
+590699;Rubberised textile, not tape;0
+590700;Textile for theatrical backgrounds;0
+590800;Textile wicks;0
+590900;Textile hosepiping;0
+591000;Textil conveyor belts;0
+591110;Textile for card clothing;0
+591120;Textile bolting cloth;0
+591131;Textile for papermaking, <650 g/m2;0
+591132;Textile for papermaking, >650 g/m2;0
+591140;Textile straining cloth;0
+591190;Textile products for technical use, nes;0
+600110;Long pile knit;0
+600121;Looped pile knit, cotton;0
+600122;Looped pile knit, manmade;0
+600129;Loop pile knit, natural, not cotton;0
+600191;Pile knit, cotton, nes;0
+600192;Pile knit, manmade, nes;0
+600199;Pile knit, natural, not cotton;0
+600210;Knit, <30cm, >5% elastic;0
+600220;Knit, <30cm, nes;0
+600230;Knit, >30cm, >5% elastic;0
+600241;Warp knit, wool/hair, nes;0
+600242;Warp knit, cotton, nes;0
+600243;Warp knit, manmade, nes;0
+600249;Warp knit, other materials, nes;0
+600291;Knit, wool/hair, nes;0
+600292;Knit, cotton, nes;0
+600293;Knit, manmade, nes;0
+600299;Knit, other materials, nes;0
+610110;Mens overcoats, wool/hair, knit;0
+610120;Mens overcoats, cotton, knit;0
+610130;Mens overcoats, manmade fibres, knit;0
+610190;Mens overcoats, material nes, knit;0
+610210;Womens overcoats, wool/hair, knit;0
+610220;Womens overcoats, cotton, knit;0
+610230;Womens overcoats, manmade fibres, knit;0
+610290;Womens overcoats, material nes, knit;0
+610311;Mens suits, of wool, fine animal hair, knit;0
+610312;Mens suits, synthetic fibres, knit;0
+610319;Mens suits, materials nes, knit;0
+610321;Mens ensembles, wool animal hair, knit;0
+610322;Mens ensembles, cotton, knit;0
+610323;Mens ensembles, synthetic fibres, knit;0
+610329;Mens ensembles, material nes, knit;0
+610331;Mens jackets & blazers, wool/hair, knit;0
+610332;Mens jackets & blazers, cotton, knit;0
+610333;Mens jackets & blazers, synthetic fibres, knit;0
+610339;Mens jackets & blazers, material nes, knit;0
+610341;Mens trousers & shorts, wool/hair, knit;0
+610342;Mens trousers & shorts, cotton, knit;0
+610343;Mens trousers, shorts, synthetic fibres, knit;0
+610349;Mens trousers & shorts, material nes, knit;0
+610411;Womens suits, wool/hair, knit;0
+610412;Womens suits, cotton, knit;0
+610413;Womens suits, synthetic fibres, knit;0
+610419;Womens suits, material nes, knit;0
+610421;Womens ensembles, wool/hair, knit;0
+610422;Womens ensembles, cotton, knit;0
+610423;Womens ensembles, synthetic fibres, knit;0
+610429;Womens ensembles, material nes, knit;0
+610431;Womens jackets & blazers, wool/hair, knit;0
+610432;Womens jackets & blazers, cotton, knit;0
+610433;Womens jackets & blazers, synthetic fibres, knit;0
+610439;Womens jackets & blazers, material nes, knit;0
+610441;Womens dresses, wool/hair, knit;0
+610442;Womens dresses, cotton, knit;0
+610443;Womens dresses, synthetic fibres, knit;0
+610444;Womens dresses, artificial fibres, knit;0
+610449;Womens dresses, material nes, knit;0
+610451;Womens skirts, wool/hair, knit;0
+610452;Womens skirts, cotton, knit;0
+610453;Womens skirts, synthetic fibres, knit;0
+610459;Womens skirts, material nes, knit;0
+610461;Womens trousers & shorts, wool/hair, knit;0
+610462;Womens trousers & shorts, of cotton, knit;0
+610463;Womens trousers & shorts, synthetic fibres, knit;0
+610469;Womens trousers & shorts, material nes, knit;0
+610510;Mens shirts, cotton, knit;0
+610520;Mens shirts, manmade fibres, knit;0
+610590;Mens shirts, materials nes, knit;0
+610610;Womens blouses & shirts, cotton, knit;0
+610620;Womens blouses & shirts, manmade fibre, knit;0
+610690;Womens blouses & shirts, material nes, knit;0
+610711;Mens underpants or briefs, cotton, knit;0
+610712;Mens underpants or briefs, manmade fibre, knit;0
+610719;Mens underpants or briefs, material nes, knit;0
+610721;Mens pyjamas, cotton, knit;0
+610722;Mens pyjamas, manmade fibre, knit;0
+610729;Mens pyjamas, material nes, knit;0
+610791;Mens bathrobes, cotton, knit;0
+610792;Mens bathrobes, manmade fibre, knit;0
+610799;Mens bathrobes, fibre nes, knit;0
+610811;Womens slips or petticoats, manmade fibre, knit;0
+610819;Womens slips or petticoats, material nes, knit;0
+610821;Womens briefs or panties, cotton, knit;0
+610822;Womens briefs or panties, manmade fibre, knit;0
+610829;Womens briefs or panties, material nes, knit;0
+610831;Womens pyjamas, cotton, knit;0
+610832;Womens pyjamas, manmade fibre, knit;0
+610839;Womens pyjamas, material nes, knit;0
+610891;Womens bathrobe, dressing gowns, cotton, knit;0
+610892;Womens bathrobe, manmade fibre, knit;0
+610899;Womens bathrobe, material nes, knit;0
+610910;T-shirts, of cotton, knit;0
+610990;T-shirts, of material nes, knit;0
+611010;Pullovers, cardigans, of wool/hair, knit;0
+611020;Pullovers, cardigans, of cotton, knit;0
+611030;Pullovers, cardigans, of manmade fibres, knit;0
+611090;Pullovers, cardigans, of material nes, knit;0
+611110;Babies garments, of wool/hair, knit;0
+611120;Babies garments, of cotton, knit;0
+611130;Babies garments, of synthetic fibres, knit;0
+611190;Babies garments, of material nes, knit;0
+611211;Track suits, cotton, knit;0
+611212;Track suits, synthetic fibres, knit;0
+611219;Track suits, materials nes, knit;0
+611220;Ski suits, of textile materials, knit;0
+611231;Mens swimwear, synthetic fibres, knit;0
+611239;Mens swimwear, of material nes, knit;0
+611241;Womens swimwear, synthetic fibres, knit;0
+611249;Womens swimwear, of material nes, knit;0
+611300;Garments of knit/crochet impregnated fabric;0
+611410;Garments nes, of wool/hair, knit;0
+611420;Garments nes, of cotton, knit;0
+611430;Garments nes, of manmade fibres, knit;0
+611490;Garments nes, of materials nes, knit;0
+611511;Panty hose etc, synthetic fibre, <67 dtex/sy, knit;0
+611512;Panty hose etc, synthetic fibre, >67 dtex/sy, knit;0
+611519;Panty hose etc, materials nes, knit;0
+611520;Hosiery, full/kneelength, <67 dtex/sy, knit;0
+611591;Hosiery nes, of wool/hair, knit;0
+611592;Hosiery nes, of cotton, knit;0
+611593;Hosiery nes, synthetic fibres, knit;0
+611599;Hosiery nes, materials nes, knit;0
+611610;Gloves impregnated with plastic/rubber, knit;0
+611691;Gloves, wool/hair, knit;0
+611692;Gloves, cotton, knit;0
+611693;Gloves, synthetic fibres, knit;0
+611699;Gloves, material nes, knit;0
+611710;Shawls, scarves, textile material, knit;0
+611720;Ties, of textile material, knit;0
+611780;Clothing accessories nes, textile material, knit;0
+611790;Parts of garments, textile material, knit;0
+620111;Mens overcoats, wool/hair, not knit;0
+620112;Mens overcoats, cotton, not knit;0
+620113;Mens overcoats, manmade fibres, not knit;0
+620119;Mens overcoats, material nes, not knit;0
+620191;Mens anoraks, wool/hair, not knit;0
+620192;Mens anoraks, cotton, not knit;0
+620193;Mens anoraks, manmade fibres, not knit;0
+620199;Mens anoraks, material nes, not knit;0
+620211;Womens overcoats, wool/hair, not knit;0
+620212;Womens overcoats, cotton, not knit;0
+620213;Womens overcoats, manmade fibre, not knit;0
+620219;Womens overcoats, material nes, not knit;0
+620291;Womens anoraks, wool/hair, not knit;0
+620292;Womens anoraks, cotton, not knit;0
+620293;Womens anoraks, manmade fibres, not knit;0
+620299;Womens anoraks, material nes, not knit;0
+620311;Mens suits, wool/hair, not knit;0
+620312;Mens suits, synthetic fibres, not knit;0
+620319;Mens suits, material nes, not knit;0
+620321;Mens ensembles, wool/hair, not knit;0
+620322;Mens ensembles, cotton, not knit;0
+620323;Mens ensembles, synthetic fibres, not knit;0
+620329;Mens ensembles, material nes, not knit;0
+620331;Mens jackets & blazers, wool/hair, not knit;0
+620332;Mens jackets & blazers, cotton, not knit;0
+620333;Mens jackets & blazers, synthetic fibre, not knit;0
+620339;Mens jackets & blazers, material nes, not knit;0
+620341;Mens trousers & shorts, wool/hair, not knit;0
+620342;Mens trousers & shorts, cotton, not knit;0
+620343;Mens trousers & shorts, synthetic fibre, not knit;0
+620349;Mens trousers & shorts, material nes, not knit;0
+620411;Womens suits, wool/hair, not knit;0
+620412;Womens suits, cotton, not knit;0
+620413;Womens suits, synthetic fibres, not knit;0
+620419;Womens suits, material nes, not knit;0
+620421;Womens ensembles, wool/hair, not knit;0
+620422;Womens ensembles, cotton, not knit;0
+620423;Womens ensembles, synthetic fibres, not knit;0
+620429;Womens ensembles, material nes, not knit;0
+620431;Womens jackets & blazers, wool/hair, not knit;0
+620432;Womens jackets & blazers, cotton, not knit;0
+620433;Womens jackets & blazers, synth fibres, not knit;0
+620439;Womens jackets & blazers, material nes, not knit;0
+620441;Womens dresses, wool/hair, not knit;0
+620442;Womens dresses, cotton, not knit;0
+620443;Womens dresses, synthetic fibres, not knit;0
+620444;Womens dresses, artificial fibres, not knit;0
+620449;Womens dresses, material nes, not knit;0
+620451;Womens skirts, wool/hair, not knit;0
+620452;Womens skirts, cotton, not knit;0
+620453;Womens skirts, synthetic fibres, not knit;0
+620459;Womens skirts, material nes, not knit;0
+620461;Womens trousers & shorts, wool/hair, not knit;0
+620462;Womens trousers & shorts, cotton, not knit;0
+620463;Womens trousers & shorts, synth fibres, not knit;0
+620469;Womens trousers & shorts, material nes, not knit;0
+620510;Mens shirts, wool/hair, not knit;0
+620520;Mens shirts, cotton, not knit;0
+620530;Mens shirts, manmade fibres, not knit;0
+620590;Mens shirts, material nes, not knit;0
+620610;Womens blouses & shirts, silk, not knit;0
+620620;Womens blouses & shirts, wool/hair, not knit;0
+620630;Womens blouses & shirts, cotton, not knit;0
+620640;Womens blouses & shirts, manmade fibre, not knit;0
+620690;Womens blouses & shirts, material nes, not knit;0
+620711;Mens underpants or briefs, cotton, not knit;0
+620719;Mens underpants & briefs, material nes, not knit;0
+620721;Mens pyjamas, cotton, not knit;0
+620722;Mens pyjamas, manmade fibre, not knit;0
+620729;Mens pyjamas, material nes, not knit;0
+620791;Mens dressing gowns, cotton, not knit;0
+620792;Mens dressing gowns, manmade fibre, not knit;0
+620799;Mens dressing gowns, material nes, not knit;0
+620811;Womens slips etc, manmade fibres, not knit;0
+620819;Womens slips, material nes, not knit;0
+620821;Womens pyjamas, cotton, not knit;0
+620822;Womens pyjamas, manmade fibre, not knit;0
+620829;Womens pyjamas, material nes, not knit;0
+620891;Womens panties & bathrobes, cotton, not knit;0
+620892;Womens panties & bathrobes, manmade fibre, not knit;0
+620899;Womens panties & bathrobes, material nes, not knit;0
+620910;Babies garments, wool/hair, not knit;0
+620920;Babies garments, cotton, not knit;0
+620930;Babies garments, synthetic fibre, not knit;0
+620990;Babies garments, material nes, not knit;0
+621010;Garments, of textile felts & nonwoven fabric;0
+621020;Mens overcoats, of impregnated fabric;0
+621030;Womens overcoats, of impregnated fabric;0
+621040;Mens garments nes, of impregnated fabric;0
+621050;Womens garments nes, of impregnated fabric;0
+621111;Mens swimwear, not knit;0
+621112;Womens swimwear, not knit;0
+621120;Ski suits, textile material, not knit;0
+621131;Mens garments nes, wool/hair, not knit;0
+621132;Mens garments nes, cotton, not knit;0
+621133;Mens garments, manmade fibres, not knit;0
+621139;Mens garments nes, material nes, not knit;0
+621141;Womens garments nes, wool/hair, not knit;0
+621142;Womens garments nes, cotton, not knit;0
+621143;Womens garments, manmade fibres, not knit;0
+621149;Womens garments nes, material nes, not knit;0
+621210;Brassieres;0
+621220;Girdles;0
+621230;Corselettes;0
+621290;Corsets;0
+621310;Handkerchiefs, of silk, not knit;0
+621320;Handkerchiefs, of cotton, not knit;0
+621390;Handkerchiefs, of material nes, not knit;0
+621410;Shawls, scarves, of silk, not knit;0
+621420;Shawls, scarves, of wool/hair, not knit;0
+621430;Shawls, scarves, synthetic fibres, not knit;0
+621440;Shawls, scarves, of artificial fibres, not knit;0
+621490;Shawls, scarves, of material nes, not knit;0
+621510;Ties, of silk, not knit;0
+621520;Ties, manmade fibres, not knit;0
+621590;Ties, material nes, not knit;0
+621600;Gloves, textile material, not knit;0
+621710;Clothing accessories, textile material, not knit;0
+621790;Parts of garments, not knit;0
+630110;Electric blankets, of textile material;0
+630120;Blankets, wool or hair;0
+630130;Blankets, of cotton;0
+630140;Blankets, synthetic fibre;0
+630190;Blankets, material nes;0
+630210;Bed linen, of textile materials, knit;0
+630221;Bed linen, of cotton, printed;0
+630222;Bed linen, of manmade fibres, printed;0
+630229;Bed linen, of material nes, printed, not knit;0
+630231;Bed linen, of cotton, nes;0
+630232;Bed linen, of manmade fibres, nes;0
+630239;Bed linen, of material nes;0
+630240;Table linen, of textile materials, knit;0
+630251;Table linen, of cotton, not knit;0
+630252;Table linen, of flax;0
+630253;Table linen, of manmade fibres, not knit;0
+630259;Table linen, of material nes, not knit;0
+630260;Toilet/kitchen linen, of terry;0
+630291;Toilet/kitchen linen, of cotton;0
+630292;Toilet/kitchen linen, of flax;0
+630293;Toilet/kitchen linen, of manmade fibres;0
+630299;Toilet/kitchen linen, of material nes;0
+630311;Curtains, cotton, knit;0
+630312;Curtains, synthetic fibre, knit;0
+630319;Curtains, material nes, knit;0
+630391;Curtains, cotton, not knit;0
+630392;Curtains, synthetic fibre, not knit;0
+630399;Curtains, material nes, woven;0
+630411;Bedspreads, textile material, knit/crochet;0
+630419;Bedspreads, textile material, not knit;0
+630491;Furnishing articles, textile material, knit/crochet;0
+630492;Furnishing articles, of cotton, not knit;0
+630493;Furnishing articles, synth fibre, not knit;0
+630499;Furnishing goods, material nes, not knit;0
+630510;Sacks & bags, packing, of jute/bast fibres;0
+630520;Sacks & bags, packing, of cotton;0
+630531;Sacks & bags, packing, polyethylene, polypropylene;0
+630539;Sacks & bags, packing, other manmade yarn;0
+630590;Sacks & bags, packing, of materials nes;0
+630611;Tarpaulins, awnings, of cotton;0
+630612;Tarpaulins, awnings, of synthetic fibre;0
+630619;Tarpaulins, awnings, of material nes;0
+630621;Tents, of cotton;0
+630622;Tents, synthetic fibre;0
+630629;Tents, textile material;0
+630631;Sails, synthetic fibre;0
+630639;Sails, of material nes;0
+630641;Pneumatic mattresses, of cotton;0
+630649;Pneumatic mattresses, textile material;0
+630691;Camping goods nes, of cotton;0
+630699;Camping goods nes, textile material;0
+630710;Dish cloths, dusters, textile material;0
+630720;Life jackets, textile material;0
+630790;Made up articles, textile;0
+630800;Set, woven fabric & yarn for rugs/tapestry;0
+630900;Worn clothing;0
+631010;Rags, textile material, sorted;0
+631090;Rags, textile material, not sorted;0
+640110;Waterproof footwear, metal toe cap;0
+640191;Waterproof footwear, over knee;0
+640192;Waterproof footwear, over ankle;0
+640199;Waterproof footwear, nes;0
+640211;Ski-boots, sole/upper of rubber/plastic;0
+640219;Sports footwear, sole/upper of rubber/plastic;0
+640220;Footwear, of rubber/plastic, plugs fix straps;0
+640230;Footwear, sole/upper rubber/plastic, metal toe cap;0
+640291;Boots, sole/upper of rubber/plastic, over ankle;0
+640299;Footwear, sole/upper of rubber/plastic, nes;0
+640311;Ski footwear, with uppers of leather;0
+640319;Sports footwear, uppers of leather;0
+640320;Footwear, leather, strap instep& big toe;0
+640330;Footwear, wood base, uppers leather, no sole;0
+640340;Footwear, uppers of leather, metal toe-cap;0
+640351;Footwear, soles/uppers of leather, over ankle;0
+640359;Footwear, soles/uppers of leather, nes;0
+640391;Boots, upper of leather, nes;0
+640399;Footwear, uppers of leather, nes;0
+640411;Sports footwear, upper textile;0
+640419;Footwear, uppers of textile;0
+640420;Footwear, sole leather, uppers textile;0
+640510;Footwear, nes, uppers leather;0
+640520;Footwear, nes, upper textile material;0
+640590;Footwear, nes;0
+640610;Footwear uppers;0
+640620;Soles/heels for footwear, of rubber/plastic;0
+640691;Parts of footwear, of wood;0
+640699;Parts of footwear, leggings;0
+650100;Hat-forms, of felt, unshaped;0
+650200;Hat-forms, strip material, unshaped;0
+650300;Felt hats;0
+650400;Hats, plaited or strip material;0
+650510;Hair-nets;0
+650590;Hats, knit/crochet;0
+650610;Safety headgear;0
+650691;Headgear nes, of rubber/plastic;0
+650692;Headgear nes, of furskin;0
+650699;Headgear nes, other material;0
+650700;Parts for hats & headgear;0
+660110;Garden umbrellas;0
+660191;Umbrellas, with telescopic shaft;0
+660199;Umbrellas nes;0
+660200;Walking-sticks, whips;0
+660310;Handles, knobs for umbrellas/walking sticks;0
+660320;Umbrella frames;0
+660390;Parts for umbrellas, walking sticks;0
+670100;Bird feathers, articles therefrom;0
+670210;Artificial flowers, fruit, articles, of plastic;0
+670290;Artificial flowers, fruit, articles not plastic;0
+670300;Worked human/animal hair/wool, for wig making;0
+670411;Wigs, of synthetic textile materials;0
+670419;False beard, eyebrows, of synth textile;0
+670420;Wigs, false beards, eyebrows, of human hair;0
+670490;Wigs, false beards, eyebrows, of other material;0
+680100;Stone setts, curbstones;2
+680210;Stone mosaic tiles;2
+680221;Cut slabs of marble, travertine;2
+680222;Cut slabs of calcareous stone;2
+680223;Cut slabs of granite;2
+680229;Cut slabs of stone nes;2
+680291;Worked marble, travertine;2
+680292;Worked calcareous stone;2
+680293;Worked granite;2
+680299;Worked monument/building stone;2
+680300;Worked slate, articles;2
+680410;Stones for milling, grinding;2
+680421;Grindstones, of diamond;2
+680422;Grindstones, ceramics;2
+680423;Millstones, grindstones, of natural stone;2
+680430;Hand sharpening/polishing stones;2
+680510;Abrasive powder/grain, on woven textile;2
+680520;Abrasive powder/grain, on paper/paperboard;2
+680530;Abrasive powder/grain, on other material base;2
+680610;Slag wool, rock wool;2
+680620;Exfoliated vermiculite, foamed slag;2
+680690;Mineral heat/sound insulating materials;2
+680710;Asphalt, in rolls;2
+680790;Asphalt, not in rolls;2
+680800;Boards, of veg fibre with mineral/cement;2
+680911;Plaster board, paper reinforced;2
+680919;Plaster board, reinforced nes;2
+680990;Articles of plaster, not plasterboard;2
+681011;Building blocks, bricks of cement/artificial stone;2
+681019;Tiles of cement, concrete;2
+681020;Pipes of cement, concrete;2
+681091;Prefab structural items of cement/concrete;2
+681099;Articles of cement, concrete;2
+681110;Corrugated sheets of asbestos/cement;2
+681120;Sheet/tile of asbestos cement, non-corrugated;2
+681130;Tubes/pipes of asbestos/cellulose fibre cement;2
+681190;Articles nes of asbestos/cellulose fibre cement;2
+681210;Asbestos fibres etc;2
+681220;Asbestos yarn and thread;2
+681230;Asbestos cords and string;2
+681240;Asbestos woven or knit fabric;2
+681250;Asbestos clothing, foot and headwear;2
+681260;Asbestos paper, felt;2
+681270;Compressed asbestos fibre jointing;2
+681290;Asbestos fabricated products;2
+681310;Asbestos brake linings & pads;2
+681390;Asbestos friction material, not brakes;2
+681410;Mica plates, sheets & strips;2
+681490;Worked mica, not sheets;2
+681510;Graphite or other carbon articles, non-electrical;2
+681520;Articles of peat;2
+681591;Magnesite, dolomite or chromite articles;2
+681599;Stone or other mineral articles;2
+690100;Bricks, ceramic goods of siliceous earths;2
+690210;Refractory bricks, >50% Mg, Ca or Cr as oxid;2
+690220;Refractory bricks, >50% alumina, silica;2
+690290;Refractory bricks nes;2
+690310;Refractory ceramic articles, >50% carbon;2
+690320;Refractory ceramic articles, >50% alumina/silica;2
+690390;Refractory ceramic articles nes;2
+690410;Building bricks;2
+690490;Ceramic flooring blocks, tiles;2
+690510;Ceramic roofing tiles;2
+690590;Ceramic construction items, chimney pots;2
+690600;Ceramic pipes, guttering & fittings;2
+690710;Unglazed ceramic tiles, <7cm wide;2
+690790;Unglazed ceramic tiles, >7cm wide;2
+690810;Glazed ceramic tiles, <7cm wide;2
+690890;Glazed ceramic tiles, >7cm wide;2
+690911;Porcelain laboratory & technical use;2
+690919;Ceramic laboratory & technical ware;2
+690990;Ceramic troughs, pots;2
+691010;Porcelain bathroom, kitchen fixtures;2
+691090;Ceramic bathroom, kitchen fixtures;2
+691110;Tableware & kitchenware, of porcelain/china;2
+691190;Household/toilet articles, of porcelain/china;2
+691200;Ceramic housewares;2
+691310;Porcelain/china statuettes & ornaments;2
+691390;Ceramic statuettes, ornaments;2
+691410;Articles of porcelain/china, nes;2
+691490;Articles of ceramics, nes;2
+700100;Glass cullet, waste, in the mass;2
+700210;Glass balls, not microspheres;2
+700220;Glass tubes, unworked;2
+700231;Tubes of fused quartz/other silica;2
+700232;Pyrex, tubes of low expansion glass;2
+700239;Glass tubes, not low expansion;2
+700311;Cast glass sheet, coloured/opaque;2
+700319;Cast glass sheet, non-wired, clear;2
+700320;Cast glass sheet, wired;2
+700330;Cast glass profiles;2
+700410;Drawn glass in sheets, coloured/opaque;2
+700490;Drawn glass in sheets, clear;2
+700510;Float glass sheets, reflecting layer;2
+700521;Float glass sheets, coloured;2
+700529;Float glass sheets, non-wired, clear;2
+700530;Float glass sheets, wired;2
+700600;Cast/drawn/float glass sheet, edged/bent;2
+700711;Tempered safety glass for vehicles/aircraft;2
+700719;Tempered safety glass, non-vehicle use;2
+700721;Laminated safety glass for vehicles/aircraft;2
+700729;Laminated safety glass, non-vehicle use;2
+700800;Multiple-walled insulating glass;2
+700910;Rear-view mirrors;2
+700991;Glass mirrors, unframed;2
+700992;Glass mirrors, framed;2
+701010;Ampoules of glass for conveyance/packing;2
+701090;Glass containers for packing goods;2
+701110;Glass bulbs & tubes for lighting;2
+701120;Glass envelopes for cathode-ray tubes;2
+701190;Glass envelopes, not lighting or cathode-ray;2
+701200;Glass inners for vacuum flasks;2
+701310;Glass-ceramic kitchenware;2
+701321;Drinking glasses of lead crystal;2
+701329;Drinking glasses, not lead crystal;2
+701331;Lead crystal kitchen glass, not drinking;2
+701332;Pyrex, low expansion glass kitchenware;2
+701339;Glass kitchenware;2
+701391;Lead crystal glassware, not kitchenware;2
+701399;Glassware, not kitchenware;2
+701400;Signalling glassware;2
+701510;Glasses for corrective spectacles, unworked;2
+701590;Clock or watch glasses;2
+701610;Glass cubes, mosaic tiles;2
+701690;Glass blocks, bricks, tiles;2
+701710;Fused quartz lab, hygienic glasswear;2
+701720;Low expansion lab, hygienic glasswear;2
+701790;Lab, hygienic pharmaceutical glassware;2
+701810;Ornamental glass beads, stones;2
+701820;Glass microspheres;2
+701890;Articles of glass, not jewellery;2
+701910;Glass slivers, chopped strands;2
+701920;Woven fabric of glass;2
+701931;Mats of glass fibres;2
+701932;Thin sheets of glass fibres;2
+701939;Webs, nonwoven fibreglass products;2
+701990;Glass fibres & wool;2
+702000;Articles of glass, nes;2
+710110;Pearls, natural;2
+710121;Pearls, cultured unworked;2
+710122;Pearls, cultured worked;2
+710210;Diamonds, unsorted;2
+710221;Diamonds, industrial, unworked;2
+710229;Diamonds, industrial, worked;2
+710231;Diamonds for jewellery, unworked;2
+710239;Diamonds for jewellery, worked, not mounted;2
+710310;Precious, semi-precious stones, unworked;2
+710391;Rubies, sapphires & emeralds, worked, not set;2
+710399;Precious, semi-precious stones, worked, not set;2
+710410;Piezo-electric quartz;2
+710420;Synthetic precious, semi-precious stone;2
+710490;Synthetic precious, semi-precious stones, worked;2
+710510;Diamond dust, powder;2
+710590;Dust of precious, semi-precious stones;2
+710610;Silver powder;2
+710691;Silver in unwrought forms;2
+710692;Silver semi-manufactured;2
+710700;Base metals clad with silver;2
+710811;Gold powder;2
+710812;Gold in unwrought forms;2
+710813;Gold, semi-manufactured forms;2
+710900;Base metals or silver, clad with gold;2
+711011;Platinum, unwrought or powder;2
+711019;Platinum, semi-manufactured;2
+711021;Palladium, unwrought or powder;2
+711029;Palladium, semi-manufactured;2
+711031;Rhodium, unwrought or powder;2
+711039;Rhodium, semi-manufactured;2
+711041;Iridium & osmium, unwrought or powder;2
+711049;Iridium & osmium, semi-manufactured;2
+711100;Metals, clad with platinum;2
+711210;Waste/scrap of gold;2
+711220;Waste/scrap of platinum;2
+711290;Waste/scrap, precious metals;2
+711311;Silver jewellery;2
+711319;Jewellery of precious metal;2
+711320;Jewellery, clad with precious metal;2
+711411;Silversmith wares, plated precious metals;2
+711419;Gold/silversmith wares, clad precious metals;2
+711420;Gold/silversmith wares, clad with precious metal;2
+711510;Catalysts of platinum;2
+711590;Articles of precious metal;2
+711610;Articles of pearls;2
+711620;Articles of precious, semi-prec, artif stone;2
+711711;Cuff-links and studs of base metal;2
+711719;Imitation jewellery of base metal;2
+711790;Imitation jewellery nes;2
+711810;Coin, not legal tender;2
+720110;Pig iron, non-alloy, <0.5% phosphorus;4
+720120;Pig iron, non-alloy, >0.5% phosphorus;4
+720130;Alloy pig iron, primary forms;4
+720140;Spiegeleisen, primary forms;4
+720211;Ferro-manganese, >2% carbon;4
+720219;Ferro-manganese, <2% carbon;4
+720221;Ferro-silicon, >55% silicon;4
+720229;Ferro-silicon, <55% silicon;4
+720230;Ferro-silico-manganese;4
+720241;Ferro-chromium, >4% carbon;4
+720249;Ferro-chromium, <4% carbon;4
+720250;Ferro-silico-chromium;4
+720260;Ferro-nickel;4
+720270;Ferro-molybdenum;4
+720280;Ferro-tungsten, ferro-silico-tungsten;4
+720291;Ferro-titanium, ferro-silico-titanium;4
+720292;Ferro-vanadium;4
+720293;Ferro-niobium;4
+720299;Ferro-alloys, nes;4
+720310;Ferrous products, direct iron ore reduction;4
+720390;Spongy iron lumps, pellets, >99.94% pure;4
+720410;Cast iron waste/scrap;4
+720421;Stainless steel waste/scrap;4
+720429;Alloy steel waste/scrap, not stainless;4
+720430;Tinned iron or steel waste/scrap;4
+720441;Worked iron/steel waste;4
+720449;Ferrous waste, scrap;4
+720450;Remelting scrap ingots, of iron/steel;4
+720510;Granules of pig iron;4
+720521;Powders, alloy steel;4
+720529;Powders, iron or steel, non-alloy;4
+720610;Iron/non-alloy steel in ingots, <99.94% iron;4
+720690;Iron/non-alloy steel, primary, <99.94% iron;4
+720711;Rectangular iron/non-alloy steel bars, <.25%C, w<2xthick;4
+720712;Semi-finished bars, iron/non-alloy steel <.25%C rectang;4
+720719;Semi-finished iron/non-alloy steel <0.25%C;4
+720720;Semi-finished iron/non-alloy steel >0.25%C;4
+720811;Hot rolled iron/non-alloy steel, coil,w>600 t>10mm, 355mpa;4
+720812;Hot rolled iron/non-aly steel coil w>.6m t4.75-10mm 355mpa;4
+720813;Hot rolled iron/non-aly steel, coil,w>.6m t3-4.75mm 355mpa;4
+720814;Hot rolled iron/non-alloy steel, coil,w>.6m t<3mm 275mpa;4
+720821;Hot rolled iron/non-alloy steel, coil, w>600 t>10mm;4
+720822;Hot rolled iron/non-alloy steel, coil, w>600 t 4.75-10mm;4
+720823;Hot rolled iron/non-alloy steel, coil, w>600, t 3-4.75mm;4
+720824;Hot rolled iron/non-alloy steel, coil, w>600 t<3mm;4
+720831;Hot rolled iron/non-aly steel, flat w.6-1.25m t>4mm 355mpa;4
+720832;Hot rolled iron/non-alloy steel, flat,w>600 t>10mm, 355mpa;4
+720833;Hot rolled iron/non-aly steel flat w>.6m t4.75-10mm 355mpa;4
+720834;Hot rolled iron/non-aly steel, flat w>.6m t3-4.75mm 355mpa;4
+720835;Hot rolled iron/non-alloy steel, flat,w>600 t <3mm, 275mpa;4
+720841;Hot rolled iron/non-alloy steel, flat,w600-1250 t>4mm, nes;4
+720842;Hot rolled iron/non-alloy steel, flat, w>600 t>10mm;4
+720843;Hot rolled iron/non-alloy steel, flat, w>600 t 4.75-10mm;4
+720844;Hot rolled iron/non-alloy steel, flat, w>600 t 3-4.75mm;4
+720845;Hot rolled iron/non-alloy steel, flat, w>600 t<3mm;4
+720890;Hot rolled iron/non-alloy steel, w>600mm;4
+720911;Cold rolled iron/non-alloy steel, coil w>.6m t>3mm 355mpa;4
+720912;Cold rolled iron/non-alloy steel, coil w>.6m t1-3mm 275mpa;4
+720913;Cold rolled iron/non-alloy steel coil w>.6m t.5<1mm 275mpa;4
+720914;Cold rolled iron/non-alloy steel, coil w>.6m t<.5mm, 275mpa;4
+720921;Cold rolled iron/non-alloy steel, coil, w>600 t>3mm;4
+720922;Cold rolled iron/non-alloy steel, coil, w>600 t 1-3mm;4
+720923;Cold rolled iron/non-alloy steel, coil, w>600 t .5-1mm;4
+720924;Cold rolled iron/non-alloy steel, coil, w>600 t<.5mm;4
+720931;Cold rolled iron/non-alloy steel, flat w>600 t>3mm 355mpa;4
+720932;Cold rolled iron/non-alloy steel, flat w>600 t 1-3mm 355mpa;4
+720933;Cold rolled iron/non-alloy steel, flat w>.6m t.5-1mm 355mpa;4
+720934;Cold rolled iron/non-alloy steel, flat w>.6m t<0.5mm 355mpa;4
+720941;Cold rolled iron/non-alloy steel, flat, w>600 t>3mm;4
+720942;Cold rolled iron/non-alloy steel, flat, w>600 t 1-3mm;4
+720943;Cold rolled iron/non-alloy steel, flat, w>600 t 0.5-1mm;4
+720944;Cold rolled iron/non-alloy steel, flat, w>600 t<.5mm;4
+720990;Cold rolled iron/non-alloy steel, flat, w>600mm;4
+721011;Flat rolled iron/non-alloy steel, tin coated w>600mm t>0.5m;4
+721012;Flat rolled iron/non-alloy steel, tin coated, w>600mm t<.5m;4
+721020;Flat rolled iron/non-alloy steel, lead coated, w>600mm;4
+721031;Flat rolled iron/non-aly steel, elect-plate/zinc,<3/275,>3/355;4
+721039;Flat rolled iron/non-alloy steel, electro plate/zinc, w>.6m;4
+721041;Flat rolled iron/non-alloy steel, coat/zinc, corrugated, w>.6m;4
+721049;Flat rolled iron/non-alloy steel, zinc coated, w>.6m;4
+721050;Flat rolled iron/non-alloy steel, coated chrom/oxides, w>.6m;4
+721060;Flat rolled iron/non-alloy steel, aluminium coated, w>.6m;4
+721070;Flat rolled iron/non-alloy steel, plastic coated, w>600mm;4
+721090;Flat rolled iron/non-alloy steel, clad/plated/coated, w>.6m;4
+721111;Hot box roll iron/non-aly steel, flat, w15-.6m t>4mm myp>35;4
+721112;Hot rolled iron/non-alloy steel, w<600 t>4.75mm, myp355;4
+721119;Hot rolled iron/non-aly steel, w<.6m t<3mm275/t>3mm355;4
+721121;Hot box rolled iron/non-aly steel, flat w.15-.6m t>4, unclad;4
+721122;Hot rolled iron/non-aly steel, w<.6m t>4.75mm, unclad;4
+721129;Hot rolled iron/non-alloy steel, w<600mm, unclad;4
+721130;Cold rolled iron/non-aly steel, w<.6m <3mm, myp275, >3-35;4
+721141;Flat rolled iron/non-alloy steel, w<600mm, unclad, <.25%C;4
+721149;Flat rolled iron/non-alloy steel, w<600mm, unclad;4
+721190;Flat rolled iron/non-alloy steel, w<600mm, unclad, nes;4
+721210;Flat rolled iron/non-alloy steel, w<600mm, tin plated;4
+721221;Flat rolled steel, <600mm, zinc plate,<3mm-275/3mm-35;4
+721229;Flat rolled steel, <600mm, electro-plated zinc;4
+721230;Flat rolled iron/non-alloy steel, <600mm, zinc coated;4
+721240;Flat rolled iron/non-alloy steel, <600mm, plastic coated;4
+721250;Flat rolled iron/non-alloy steel, <600mm, plated/coated;4
+721260;Flat rolled iron/non-alloy steel, w<600mm, clad;4
+721310;Hot rolled bar/rod grooved iron/non-aly steel, irregular coils;4
+721320;Hot rolled bar/rod, irregular coils, free cutting steel;4
+721331;Hot rolled bar/rod, iron/non-aly steel coiled w<.14m C<.25%;4
+721339;Hot rolled bar/rod, iron/non-alloy steel, coiled, C<.25%;4
+721341;Hot rolled bar, iron/non-aly steel, coiled w<.14m, C.25-.6%;4
+721349;Hot rolled bar/rod, iron/non-alloy steel, coiled, C.25-.6%;4
+721350;Bar/rod, iron/non-alloy steel, irregular coils, >.6%C;4
+721410;Bar/rod, iron/non-alloy steel, forged;4
+721420;Bar/rod, iron/non-alloy steel, indent/twisted;4
+721430;Bar/rod, iron/non-alloy steel, free cutting steel;4
+721440;Bar/rod, iron/non-alloy steel, hot formed <.25%C;4
+721450;Bar/rod, iron/non-alloy steel, hot formed .25-.6%C, nes;4
+721460;Bar/rod, iron/non-alloy steel, hot formed >.6%C, nes;4
+721510;Bar/rod, cold formed/finished free cutting steel;4
+721520;Bar/rod, iron/non-alloy steel, cold form/finished, <.25%C;4
+721530;Bar/rod, iron/non-alloy steel, cold form/finished, .25-.6%C;4
+721540;Bar/rod, iron/non-alloy steel, cold form/finished, >.6%C;4
+721590;Bar/rod, iron/non-alloy steel, nes;4
+721610;Sections U/I/H, iron/non-alloy steel, nfw hot formed <80mm;4
+721621;Sections, L, iron/non-alloy steel, <80m;4
+721622;Sections, T, iron/non-alloy steel, <80m;4
+721631;Sections, U, iron/non-alloy steel, >80m;4
+721632;Sections, I, iron/non-alloy steel, >80m;4
+721633;Sections, H, iron/non-alloy steel, >80m;4
+721640;Sections, L/T, iron/non-alloy steel, >80m;4
+721650;Sections, nes, iron/non-alloy steel;4
+721660;Sections, nes, iron/non-alloy steel, nfw cold formed/finished;4
+721690;Angles/shapes/sections, iron/non-alloy steel;4
+721711;Wire, iron/non-alloy steel, <.25%C;4
+721712;Wire, iron/non-alloy steel, zinc plated/coated <.25%C;4
+721713;Wire, iron/non-alloy steel, base metal plate/coated, <.25%C;4
+721719;Wire, iron/non-alloy steel, <.25% carbon, nes;4
+721721;Wire, iron/non-alloy steel, not plated/coated, .25-.6%C;4
+721722;Wire, iron/non-alloy steel, zinc plated/coated, .25-.6%C;4
+721723;Wire, iron/non-alloy steel, base metal plate/coated .25-.6%C;4
+721729;Wire, iron/non-alloy steel, .25-.6% carbon, nes;4
+721731;Wire, iron/non-alloy steel, not plated/coated, >.6%C;4
+721732;Wire, iron/non-alloy steel, zinc plated/coated, >.6%C;4
+721733;Wire, iron/non-alloy steel, base metal plated/coated, >.6%C;4
+721739;Wire, iron/non-alloy steel, >.6%C;4
+721810;Ingots & primary forms, stainless steel;4
+721890;Semi-finished products, of stainless steel;4
+721911;Hot rolled stainless steel coil, w>600 t>10mm;4
+721912;Hot rolled stainless steel coil, w>600 t 4.75-10mm;4
+721913;Hot rolled stainless steel coil, w>600 t 3-4.75mm;4
+721914;Hot rolled stainless steel coil, w>600 t<3mm;4
+721921;Hot rolled stainless steel flat, w>600 t>10mm;4
+721922;Hot rolled stainless steel flat, w>600 t 4.75-10mm;4
+721923;Hot rolled stainless steel flat, w>600 t 3-4.75mm;4
+721924;Hot rolled stainless steel flat, w>600 t<3mm;4
+721931;Cold rolled stainless steel, w>600 t>4.75mm;4
+721932;Cold rolled stainless steel, w>600 t 3-4.75mm;4
+721933;Cold rolled stainless steel, w>600 t 1-3mm;4
+721934;Cold rolled stainless steel, w>600 t .5-1mm;4
+721935;Cold rolled stainless steel, w>600 t /0.5mm;4
+721990;Rolled stainless steel sheet, w>600mm;4
+722011;Hot rolled stainless steel sheet, w<600mm t >4.75m;4
+722012;Hot rolled stainless steel sheet, w<600mm t<4.75m;4
+722020;Stainless steel sheet, w<600mm, cold rolled/reduc;4
+722090;Rolled stainless steel sheet, w<600mm;4
+722100;Bar/rod of stainless steel, hot rolled, coiled;4
+722210;Stainless steel bar nfw hot rolled/extrude;4
+722220;Stainless steel bar cold formed/finished;4
+722230;Stainless steel bar/rod;4
+722240;Angles, shapes of stainless steel;4
+722300;Wire of stainless steel;4
+722410;Ingots, primary forms of alloy steel;4
+722490;Semi-finished products of alloy steel;4
+722510;Flat rolled silicon-electrical steel, w>600mm;4
+722520;Flat rolled high-speed steel w>600mm;4
+722530;Hot rolled alloy-steel, coils, w>600mm;4
+722540;Hot rolled alloy-steel, w>600mm;4
+722550;Cold rolled alloy-steel, w>600mm;4
+722590;Flat rolled alloy-steel, w>600mm;4
+722610;Flat rolled silicon-electrical steel, w<600mm;4
+722620;Flat rolled high speed steel, w<600mm;4
+722691;Hot rolled alloy-steel nfw, w<600mm;4
+722692;Cold rolled alloy-steel nfw, w<600mm;4
+722699;Flat rolled alloy-steel, w<600mm;4
+722710;Bar/rod of high speed steel, irregular coils;4
+722720;Bar/rod of silico-manganese steel, irregular coils;4
+722790;Bar/rod, alloy-steel, irregular coils;4
+722810;Bar/rod of high speed steel, not coiled;4
+722820;Bar/rod, silico-manganese steel, not coiled;4
+722830;Bar/rod, alloy-steel, nfw hot rolled/extrude;4
+722840;Bar/rod, alloy-steel, nfw forged;4
+722850;Bar/rod, alloy-steel, nfw cold formed/finished;4
+722860;Bar/rod, alloy-steel nes;4
+722870;Angles, shapes of alloy-steel;4
+722880;Hollow drill bars/rods of alloy/non-alloy steel;4
+722910;Wire of high speed steel;4
+722920;Wire of silico-manganese steel;4
+722990;Wire of alloy-steel nes;4
+730110;Sheet piling of iron or steel;4
+730120;Angles, shapes, iron or steel, welded;4
+730210;Rails, iron;4
+730220;Sleepers, iron or steel;4
+730230;Rail crossing material, iron;4
+730240;Rail sole plates, iron;4
+730290;Rail construction material, iron;4
+730300;Tubes, cast iron;4
+730410;Pipes, iron, for oil pipelines;4
+730420;Casings, for oil drilling;4
+730431;Pipe, iron, cold rolled, nes;4
+730439;Pipe, iron, nes;4
+730441;Stainless steel pipe, cold rolled;4
+730449;Stainless steel pipe, not cold rolled;4
+730451;Pipe, alloy steel, cold rolled;4
+730459;Pipe, alloy steel, not cold rolled;4
+730490;Pipe, iron or steel, nes;4
+730511;Pipeline arc welded, steel, >406mm;4
+730512;Pipeline, long welded, steel >406mm;4
+730519;Oil pipeline, iron/steel, >406mm;4
+730520;Casings, oil drilling, >406mm;4
+730531;Pipe, long welded, steel, >406mm;4
+730539;Pipe nes, iron/steel, welded >406mm;4
+730590;Tubes, iron/steel, riveted >406mm;4
+730610;Oil pipeline, iron/steel, <406mm;4
+730620;Casings, circular, iron/steel, oil drilling <406mm;4
+730630;Pipes, iron/steel, welded, nes <406mm;4
+730640;Pipes, stainless steel, welded;4
+730650;Pipes, alloy steel, welded, nes;4
+730660;Tubes, iron/steel, non-circular, welded;4
+730690;Tubes, iron/steel, riveted <406mm;4
+730711;Pipe fittings, non-malleable iron, cast;4
+730719;Pipe fittings, malleable iron/steel, cast;4
+730721;Flanges, stainless steel;4
+730722;Threaded bends, stainless steel;4
+730723;Pipe fittings, butt welding, stainless steel;4
+730729;Pipe fittings, stainless steel;4
+730791;Pipe flanges, iron/steel, nes;4
+730792;Threaded fittings, iron/steel;4
+730793;Butt weld fittings, iron/steel;4
+730799;Fittings, pipes, iron/steel, nes;4
+730810;Bridges, iron/steel;4
+730820;Towers, iron/steel;4
+730830;Doors, iron/steel;4
+730840;Props for scaffold, iron/steel;4
+730890;Structures, iron/steel, nes;4
+730900;Tanks, iron/steel, >300L;4
+731010;Tank, iron/steel, 50-300L;4
+731021;Cans, iron/steel, <50L, closed;4
+731029;Cans, iron/steel, <50L, nes;4
+731100;Compressed gar container, iron/steel;4
+731210;Stranded steel wire, no insulation;4
+731290;Plaited bands, iron/steel, no insulation;4
+731300;Fencing wire;4
+731411;Woven products, stainless steel;4
+731419;Woven products, iron/steel nes;4
+731420;Fencing, welded, iron, light;4
+731430;Fencing, welded, iron, heavy;4
+731441;Fencing, galvanized iron, light;4
+731442;Fencing, plastic-coated iron, light;4
+731449;Fencing, iron or steel, light, nes;4
+731450;Expanded metal, iron, light;4
+731511;Chain, roller, iron;4
+731512;Chain, link, iron, not roller;4
+731519;Chain parts, articulated link, iron;4
+731520;Chain, skid, iron;4
+731581;Chain, stud link;4
+731582;Chain, welded link, iron;4
+731589;Chain, iron, nes;4
+731590;Chain parts, iron, except link;4
+731600;Anchors, iron;4
+731700;Nails, iron/steel;4
+731811;Screws, iron;4
+731812;Screws, wood, iron, not coach;4
+731813;Screw hooks and rings, iron;4
+731814;Screws, self-tapping, iron;4
+731815;Bolts, iron;4
+731816;Nuts, iron;4
+731819;Threaded articles, iron, nes;4
+731821;Washes, spring, iron;4
+731822;Washers, iron, not spring;4
+731823;Rivets, iron;4
+731824;Cotters, iron;4
+731829;Non-threaded articles, iron, nes;4
+731910;Needles, iron;4
+731920;Pins, iron, safety;4
+731930;Pins, iron, not safety;4
+731990;Articles for sewing, iron, nes;4
+732010;Springs, leaves, iron;4
+732020;Springs, helical, iron;4
+732090;Springs, iron, nes;4
+732111;Cooking appliances for gas, iron;4
+732112;Cooking appliances for liquid fuel, iron;4
+732113;Cooking appliances solid fuel, iron;4
+732181;Iron liquid/solid fule appliances, nes;4
+732182;Iron liquid fuel appliances, not cooking;4
+732183;Solid fuel appliances, iron, not cooking;4
+732190;Parts, non-electric thermic appliances, iron;4
+732211;Radiators, cast iron;4
+732219;Radiators, iron nes;4
+732290;Non--electric heaters, iron;4
+732310;Iron/steel wool;4
+732391;Kitchen articles, cast iron;4
+732392;Kitchen articles, enamelled cast iron;4
+732393;Kitchen articles, stainless steel;4
+732394;Kitchen articles, enamelled iron/steel;4
+732399;Kitchen articles, iron/steel nes;4
+732410;Sinks, stainless steel;4
+732421;Baths, cast iron;4
+732429;Baths, iron/steel;4
+732490;Sanitary ware, iron;4
+732510;Cast articles, non-malleable cast iron;4
+732591;Grinding mill balls, iron/steel;4
+732599;Cast articles of iron/steel nes;4
+732611;Grinding mill balls, iron/steel, forged;4
+732619;Articles, iron/steel, forged;4
+732620;Articles, iron/steel wire;4
+732690;Articles of iron/steel, nes;4
+740110;Copper mattes;4
+740120;Cement copper;4
+740200;Unrefined copper;4
+740311;Copper cathodes;4
+740312;Wire bars, copper, unwrought;4
+740313;Billets, copper, unwrought;4
+740319;Refined copper products, unwrought;4
+740321;Copper-zinc alloys, unwrought;4
+740322;Copper-tin alloys, unwrought;4
+740323;Copper-nickel alloy, unwrought;4
+740329;Copper alloys, unwrought;4
+740400;Copper waste;4
+740500;Master alloys of copper;4
+740610;Powders, copper, non-lamellar;4
+740620;Powders, copper, lamellar;4
+740710;Bars, refined copper;4
+740721;Bars, copper-zinc alloys;4
+740722;Bars, copper-nickel, copper-nicket-zinc;4
+740729;Bars, copper alloy nes;4
+740811;Wire, refined copper, >6mm;4
+740819;Wire, refined copper, <6mm;4
+740821;Wire, copper-zinc alloy;4
+740822;Wire, copper-nickel alloy;4
+740829;Wire, copper alloy, nes;4
+740911;Sheet, refined copper, coil, >0.15mm;4
+740919;Sheet, refined copper, flat, >0.15mm;4
+740921;Sheet, copper-zinc alloy, coil, >0.15mm;4
+740929;Sheet, copper-zinc alloy, flat, >0.15mm;4
+740931;Sheet, copper-tin alloy, coil, >0.15mm;4
+740939;Sheet, copper-tin alloy, flat, >0.15mm;4
+740940;Sheet, copper-nickel alloy, >0.15mm;4
+740990;Sheet, copper alloys, >0.15mm;4
+741011;Foil, refined copper, not backed <0.15mm;4
+741012;Foil, copper alloy, not backed, <0.15mm;4
+741021;Foil, refined copper, backed, <0.15mm;4
+741022;Foil, copper alloy, backed <0.15mm;4
+741110;Pipes, refined copper;4
+741121;Pipes, copper-zinc alloy;4
+741122;Pipes, copper-nickel alloys;4
+741129;Pipes, copper alloys nes;4
+741210;Pipe fittings, refined copper;4
+741220;Pipe fittings, copper alloys;4
+741300;Stranded copper wire, uninsulated;4
+741410;Bands, copper wire, for machinery;4
+741490;Copper wire netting, nes;4
+741510;Copper nails;4
+741521;Copper washers;4
+741529;Copper cotters;4
+741531;Wood screws of copper/alloys;4
+741532;Copper screws;4
+741539;Copper screw hooks;4
+741600;Copper springs;4
+741700;Copper cooking apparatus;4
+741810;Kitchen articles, copper;4
+741820;Sanitary ware, copper;4
+741910;Chain, copper;4
+741991;Articles of copper, moulded;4
+741999;Articles of copper, nes;4
+750110;Nickel mattes;4
+750120;Nickel oxide sinters;4
+750210;Nickel, unwrought, not alloy;4
+750220;Nickel, unwrought, alloy;4
+750300;Nickel waste;4
+750400;Nickel flakes;4
+750511;Bars, nickel;4
+750512;Bars, nickel alloy;4
+750521;Wire, nickel;4
+750522;Wire, nickel alloy;4
+750610;Sheet, nickel;4
+750620;Sheet, nickel alloy;4
+750711;Tubes, nickel;4
+750712;Tubes, nickel alloy;4
+750720;Fittings, nickel;4
+750800;Articles of nickel, nes;4
+760110;Aluminum, unwrought;4
+760120;Aluminum, unwrought, alloy;4
+760200;Aluminum waste;4
+760310;Aluminum, powder, non-lamellar;4
+760320;Aluminum, powder, lamellar;4
+760410;Bars, aluminum;4
+760421;Profiles, aluminum alloy;4
+760429;Bars, aluminum alloy;4
+760511;Wire, aluminum, >7mm;4
+760519;Wire, aluminum, <7mm;4
+760521;Wire, aluminum alloy, >7mm;4
+760529;Wire, aluminum alloy, <7mm;4
+760611;Sheet, rectangular, aluminum, >0.2mm;4
+760612;Sheet, rectangular, aluminum alloy, >0.2mm;4
+760691;Sheet, aluminum, nes, >0.2mm;4
+760692;Sheet, aluminum alloy, nes >0.2mm;4
+760711;Foil, aluminum, not backed, rolled <0.2mm;4
+760719;Foil, aluminum, not backed <0.2mm;4
+760720;Foil, aluminum, backed <0.2mm;4
+760810;Tubes, aluminum;4
+760820;Tubes, aluminum alloy;4
+760900;Aluminum pipe fittings;4
+761010;Aluminum doors, windows;4
+761090;Aluminum structures for construction;4
+761100;Aluminum tanks, >300L;4
+761210;Aluminum containers, collapsible;4
+761290;Aluminum casks, <300L;4
+761300;Aluminum containers, compressed gas;4
+761410;Aluminum wires, uninsulated;4
+761490;Aluminum stranded wire, uninsulated;4
+761510;Aluminum kitchen articles;4
+761520;Aluminum sanitary ware;4
+761610;Nails, etc. aluminum;4
+761690;Articles of aluminum, nes;4
+780110;Refined lead, unwrought;4
+780191;Lead, unwrought, mostly antimony;4
+780199;Lead, unwrought, nes;4
+780200;Lead waste;4
+780300;Lead bars, wire;4
+780411;Lead foil, <2mm;4
+780419;Lead plates, strip;4
+780420;Lead flakes;4
+780500;Lead tubes;4
+780600;Articles of lead, nes;4
+790111;Zinc, unwrought, >99%;4
+790112;Zinc, unwrought, <99%;4
+790120;Zinc alloys, unwrought;4
+790200;Zinc waste;4
+790310;Zinc dust;4
+790390;Zinc flakes;4
+790400;Zinc bars;4
+790500;Zinc sheets;4
+790600;Zinc tubes;4
+790710;Zinc fabricated building components;4
+790790;Zinc articles nes;4
+800110;Tin, unwrought;4
+800120;Tin alloys, unwrought;4
+800200;Tin waste;4
+800300;Tin bars;4
+800400;Tin sheets;4
+800510;Tin foil, <0.2mm;4
+800520;Tin powder & flakes;4
+800600;Tin pipes;4
+800700;Tin articles nes;4
+810110;Powders, tungsten;4
+810191;Tungsten unwrought, bars, scrap;4
+810192;Sheets, tungsten;4
+810193;Wire, tungsten;4
+810199;Tungsten and articles;4
+810210;Molybdenum, powder;4
+810291;Molybdenum, unwrought;4
+810292;Molybdenum, sheets;4
+810293;Molybdenum, wire;4
+810299;Molybdenum, articles;4
+810310;Tantalum, unwrought;4
+810390;Tantalum articles;4
+810411;Magnesium, unwrought, >99.8%;4
+810419;Magnesium, unwrought, nes;4
+810420;Magnesium waste;4
+810430;Magnesium powder;4
+810490;Magnesium articles;4
+810510;Cobalt, unwrought;4
+810590;Cobalt, articles;4
+810600;Bismuth articles;4
+810710;Cadmium, unwrought;4
+810790;Cadmium articles;4
+810810;Titanium, unwrought;4
+810890;Titanium, articles;4
+810910;Zirconium, unwrought;4
+810990;Zirconium, articles;4
+811000;Antimony, articles;4
+811100;Manganese, articles;4
+811211;Beryllium, unwrought;4
+811219;Beryllium, articles;4
+811220;Chromium, articles;4
+811230;Germanium, articles;4
+811240;Vanadium, articles;4
+811291;Rare earth metals, nes, unwrought;4
+811299;Rare earth metals, nes articles;4
+811300;Cermets, articles;4
+820110;Shovels;4
+820120;Forks;4
+820130;Picks, rakes;4
+820140;Axes;4
+820150;One-handed shears;4
+820160;Two-handed shears;4
+820190;Scythes, sickles;4
+820210;Hand saws;4
+820220;Band saw blades;4
+820231;Circular saw blades, steel;4
+820232;Circular saw blades;4
+820240;Chain saw blades;4
+820291;Saw blades, for metal;4
+820299;Saw blades, nes;4
+820310;Files, rasps;4
+820320;Pliers, pincers;4
+820330;Metal cutting shears;4
+820340;Pipe-cutters;4
+820411;Wrenches, hand-operated, non-adjustable;4
+820412;Wrenches, hand-operated, adjustable;4
+820420;Wrench sockets, etc.;4
+820510;Drilling tools;4
+820520;Hammers;4
+820530;Wood cutting tools;4
+820540;Screwdrivers;4
+820551;Cork screws;4
+820559;Hand tools, nes;4
+820560;Blow lamps;4
+820570;Vices, clamps;4
+820580;Anvils, portable forges;4
+820590;Hand tool sets;4
+820600;Hand tool sets, retail;4
+820711;Drilling tools, rock, carbide;4
+820712;Drilling tools, rock, not carbide;4
+820720;Dies for drawing metal;4
+820730;Pressing tools;4
+820740;Threading tools;4
+820750;Drilling tools, not rock;4
+820760;Boring tools;4
+820770;Milling tools;4
+820780;Turning tools;4
+820790;Screwdriver bits;4
+820810;Blades for metal working;4
+820820;Blades for wood working;4
+820830;Blades for kitchens;4
+820840;Blades for agricultre;4
+820890;Blades for leather, paper;4
+820900;Tool plates;4
+821000;Hand operated appliances, <10kg;4
+821110;Knife sets;4
+821191;Table knives;4
+821192;Butchers knives;4
+821193;Pocket knives;4
+821194;Blades for knives;4
+821210;Razors;4
+821220;Safety razor blades;4
+821290;Parts of non-electric razors;4
+821300;Scissors;4
+821410;Paper knives, etc;4
+821420;Manicure instruments;4
+821490;Kitchen cleavers, knives;4
+821510;Cutlery sets, precious metals;4
+821520;Cutlery sets, no precious metals;4
+821591;Cutlery, not sets, precious metals;4
+821599;Cutlery, not sets, no precious metals;4
+830110;Padlocks, metal;4
+830120;Locks for motor vehicles, metal;4
+830130;Locks for furniture, metal;4
+830140;Locks of base metal, nes;4
+830150;Clasps, metal;4
+830160;Lock parts, metal;4
+830170;Keys, metal;4
+830210;Hinges of metal;4
+830220;Castors, metal;4
+830230;Fittings for vehicles, metal;4
+830241;Fittings for buildings, metal;4
+830242;Fittings for furniture, metal;4
+830249;Fittings, metal, nes;4
+830250;Hat racks, metal;4
+830260;Door closures, automatic, metal;4
+830300;Safes, metal;4
+830400;Office equipment, metal;4
+830510;Office binder, metal;4
+830520;Staples, small office equipment, metal;4
+830590;Paper clips, metal;4
+830610;Bells, metal;4
+830621;Ornaments, with precious metals;4
+830629;Ornaments, metal, unplated;4
+830630;Frames, metal;4
+830710;Tubing, flexible, iron or steel;4
+830790;Tubing, flexible, metal nes;4
+830810;Hooks for apparel, metal;4
+830820;Rivets, for apparel;4
+830890;Clasps for apparel, metal;4
+830910;Corks, metal;4
+830990;Lids, metal, nes;4
+831000;Metal sign, non-illuminated;4
+831110;Electrodes for arc welding, metal;4
+831120;Arc welding wire, metal;4
+831130;Welding wires, metal;4
+831190;Electrodes, metal nes;4
+840110;Nuclear reactors;7
+840120;Machinery for isotopic separation;7
+840130;Non-irridiated fuel for nuclear reactors;7
+840140;Nuclear reactor parts;7
+840211;Water tubes boilers, <45T/hr;7
+840212;Water tubes boilers, >45T/hr;7
+840219;Boilers, nes;7
+840220;Super-heated water boilers;7
+840290;Boiler parts, nes;7
+840310;Central heating boilers;7
+840390;Central heating boiler parts;7
+840410;Auxiliary plant for boilers;7
+840420;Condensers for steam power units;7
+840490;Auxiliary plant for boilers, parts;7
+840510;Water gas generator producer;7
+840590;Water gas generator producer, parts;7
+840611;Steam turbines, marine;7
+840619;Steam turbines, nes;7
+840690;Steam turbines, parts;7
+840710;Aircraft engines, spark-ignition;7
+840721;Outboard motors, spark-ignition;7
+840729;Engines, spark-ignition, marine nes;7
+840731;Engines, spark-ignition, <50cc;7
+840732;Engines, spark-ignition, 50-250cc;7
+840733;Engines, spark-ignition, 250-1000cc;7
+840734;Engines, spark-ignition, > 1000cc;7
+840790;Engines, spark-ignition, nes;7
+840810;Diesel engine, marine;7
+840820;Diesel engine, motor vehicles;7
+840890;Diesel engine, nes;7
+840910;Spark-ignition engine, aircraft, parts;7
+840991;Spark-ignition engine, parts nes;7
+840999;Diesel engine, parts;7
+841011;Water wheels, <1000kW;7
+841012;Water wheels, 1000-10000 kW;7
+841013;Water wheels, > 10000kW;7
+841090;Water wheels, parts;7
+841111;Tubo-jet engine, <25 KN;7
+841112;Turbo-jet engine, > 25 KN;7
+841121;Turbo-propeller engine, <1100 kW;7
+841122;Turbo-propeller engine, > 1100 kW;7
+841181;Gas turbine egine, nes <5000 kW;7
+841182;Gas turbine engine, nes >5000 kW;7
+841191;Turbo-jet, -propeller engine, parts;7
+841199;Gas turbine engine, not turbo-jet, parts;7
+841210;Reaction engines, not turbo-jet;7
+841221;Hydraulic power engine, linear;7
+841229;Hydraulic power engine, nes;7
+841231;Pneumatic power engine, linear;7
+841239;Pneumatic power engine, nes;7
+841280;Engines and motors, nes;7
+841290;Hydraulic/pneumatic power engine, parts;7
+841311;Fuel pumps, filling stations;7
+841319;Pumps with measuring device, nes;7
+841320;Hand pumps, not measuring;7
+841330;Fuel pumps, motor engines;7
+841340;Concrete pumps;7
+841350;Reciprocating pumps, nes;7
+841360;Rotary pumps, nes;7
+841370;Centrifugal pumps, nes;7
+841381;Pumps, nes;7
+841382;Liquid elevators;7
+841391;Liquid pump, parts;7
+841392;Liquid elevator, parts;7
+841410;Vacuum pumps;7
+841420;Hand air pumps;7
+841430;Compressors for refrigeration;7
+841440;Air compressors, for towing;7
+841451;Fans, motor < 125 W;7
+841459;Fans, motor > 125 W;7
+841460;Ventilating hoods, <120cm;7
+841480;Air compressor, hoods;7
+841490;Pumps, compressors, etc. parts;7
+841510;Air conditioners, window;7
+841581;Air conditioners, reverse cycle;7
+841582;Air conditioners, refrigerating unit;7
+841583;Air conditioners, no refrigerating unit;7
+841590;Air conditioners, parts;7
+841610;Furnace burners, liquid fuel;7
+841620;Furnace burners, soild/gas fuel;7
+841630;Mechanical stokers;7
+841690;Furnace burners, parts;7
+841710;Industrial furnace, ores;7
+841720;Bakery ovens, non-electric;7
+841780;Industrial furnaces, nes;7
+841790;Industrial furnace, parts;7
+841810;Refrigerator with freezer, two-door;7
+841821;Refrigerators, household compression;7
+841822;Refrigerators, household absorption;7
+841829;Refrigerators, household, nes;7
+841830;Chest freezers, < 800 L;7
+841840;Upright freezers, < 900 L;7
+841850;Refrigerator cabinets;7
+841861;Compression refrigeration equipment;7
+841869;Freezing equipment, nes;7
+841891;Furniture for freezing equipment;7
+841899;Freezing equipment, parts;7
+841911;Instant gas water heaters;7
+841919;Water heaters, no electric, nes;7
+841920;Medical sterilizers;7
+841931;Dryers for agriculture;7
+841932;Dryers for wood, paper;7
+841939;Non-domestic, non-electric dryer;7
+841940;Distilling plant;7
+841950;Heat exchange units, non-domestic;7
+841960;Machinery for liquefying gases;7
+841981;Commercial equipment, heating food;7
+841989;Machinery for temperature change;7
+841990;Industrial heating/cooling, parts;7
+842010;Rolling machines;7
+842091;Rolling machine cylinders;7
+842099;Rolling machine parts, nes;7
+842111;Cream separators;7
+842112;Clothes dryer, centrifugal;7
+842119;Centrifuges, nes;7
+842121;Water filtering machines;7
+842122;Filter machines, beverages;7
+842123;Oil filters for engines;7
+842129;Filter machine, liquids, nes;7
+842131;Air filters for engines;7
+842139;Filtering machinery, gases, nes;7
+842191;Centrifuge parts, nes;7
+842199;Filter machine, parts;7
+842211;Dish washing machines, domestic;7
+842219;Dish washing machines commercial;7
+842220;Machinery for cleaning/drying bottles/containers;7
+842230;Machinery to fill, close, aerate bottle/container;7
+842240;Packing or wrapping machinery nes;7
+842290;Parts of washing, filling, closing machinery;7
+842310;Personal weighing machines, scales;7
+842320;Scales for cont weighing of goods on conveyors;7
+842330;Constant weight scales;7
+842381;Weighing machinery cap <30kg;7
+842382;Weighing machinery, cap 30-5000kg;7
+842389;Weighing machinery, nes;7
+842390;Weighing machine parts;7
+842410;Fire extinguishers;7
+842420;Spray guns;7
+842430;Steam/sand blasting machines;7
+842481;Agricultural sprays & powder dispersers;7
+842489;Sprays/powder dispersing machines, non-agr;7
+842490;Parts for sprays;7
+842511;Electric hoists;7
+842519;Pulley tackle/hoists;7
+842520;Pit-head winding gear winches;7
+842531;Winches or capstans, electric motor;7
+842539;Winches or capstans nes;7
+842541;Built-in jacking systems for garages;7
+842542;Hydraulic jacks/hoists, not garages;7
+842549;Jacks & hoists, not hydr/garage;7
+842611;Gantry/overhead travelling cranes, fixed support;7
+842612;Mobile lifting frames on tyres, straddle carriers;7
+842619;Transporter or bridge cranes;7
+842620;Tower cranes;7
+842630;Portal/pedestal jib cranes;7
+842641;Cranes & lifting frames, self-propelled, on tyres;7
+842649;Cranes & lifting frames, self-propelled, non-tyres;7
+842691;Cranes for mounting on road vehicles;7
+842699;Cranes or derricks nes;7
+842710;Self-propelled works trucks, electric;7
+842720;Self-propelled works trucks, non-electric;7
+842790;Trucks with lifters/handlers, non-powered;7
+842810;Lifts & skip hoists;7
+842820;Pneumatic elevators & conveyors;7
+842831;Mine conveyors/elevators, continuous action;7
+842832;Continuous goods bucket conveyor/elevator;7
+842833;Continuous goods conveyor or elevator belt;7
+842839;Continuous goods elevators/conveyors;7
+842840;Escalators & moving walkways;7
+842850;Wagon handling equipment;7
+842860;Teleferiques, chair-lifts, ski-lifts;7
+842890;Lifting, handling, un/loading machinery;7
+842911;Bulldozers, crawler;7
+842919;Bulldozers, wheeled;7
+842920;Graders & levellers, self-propelled;7
+842930;Scrapers, self-propelled;7
+842940;Tamping machines & road rollers, self-propelled;7
+842951;Front-end shovel loaders;7
+842952;Shovels & excavators, revolving superstructure;7
+842959;Earth moving/road making equip, self-propelled;7
+843010;Pile-drivers & pile-extractors;7
+843020;Snow-ploughs/blowers, not self-propelled;7
+843031;Coal/rock cutters, self-propelled;7
+843039;Coal/rock cutters, not self-propelled;7
+843041;Boring/sinking machinery, self-propelled;7
+843049;Boring/sinking machinery;7
+843050;Construction equipment, self-propelled nes;7
+843061;Tamping/compacting machinery;7
+843062;Scrapers, not self-propelled;7
+843069;Construction equipment, nes;7
+843110;Parts of hoists & winches;7
+843120;Parts of fork-lift trucks;7
+843131;Parts of lifts, escalators;7
+843139;Parts of lifting/handling machinery nes;7
+843141;Buckets, shovels for excavating machinery;7
+843142;Bulldozer & angledozer blades;7
+843143;Parts of boring/sinking machinery;7
+843149;Parts of cranes, work-trucks, constr machine;7
+843210;Ploughs;7
+843221;Disc harrows;7
+843229;Scarifiers, weeders and hoes;7
+843230;Seeders, planters;7
+843240;Manure spreaders, fertilizer distributors;7
+843280;Rollers, soil prep, cultivation machinery;7
+843290;Parts for cultivation machinery;7
+843311;Lawn mowers, powered, horizontal cutting device;7
+843319;Lawn mowers, powered, nes;7
+843320;Hay mowers & cutter bars, tractor mounting;7
+843330;Hay tedders, rakes, machinery;7
+843340;Straw or fodder balers;7
+843351;Combine harvester-threshers;7
+843352;Threshing machinery nes;7
+843353;Root or tuber harvesting machines;7
+843359;Harvesting machinery, nes;7
+843360;Machines for cleaning, sorting, grading eggs/fruit;7
+843390;Parts of agricultural machinery;7
+843410;Milking machines;7
+843420;Dairy machinery;7
+843490;Parts of milking/dairy machines;7
+843510;Presses, crushers for wine, juice, beverage;7
+843590;Parts of presses, crushers for wine, juice;7
+843610;Machinery for preparing animal feeding;7
+843621;Poultry incubators and brooders;7
+843629;Poultry-keeping machinery, nes;7
+843680;Germination, bee-keeping plant;7
+843691;Parts of poultry-keeping machinery;7
+843699;Parts of agricultural, bee-keeping machines;7
+843710;Machines to clean, sort, grade seed/grain;7
+843780;Machines to mill/work cereals/dried legumes;7
+843790;Parts grain/seed processing equipment;7
+843810;Bakery/pasta making machinery;7
+843820;Machines for cocoa/chocolate manuf;7
+843830;Machinery for sugar refining & manufacture;7
+843840;Brewery machinery;7
+843850;Machinery for meat/poultry prep;7
+843860;Machinery for fruits, nuts, vegetables prep;7
+843880;Industrial machinery for food/drink prep;7
+843890;Machine parts for food/drink prep;7
+843910;Machinery for pulping fibrous cellulose;7
+843920;Machinery for making paper, paperboard;7
+843930;Machinery for finishing paper, paperboard;7
+843991;Parts of machines for making paper pulp;7
+843999;Parts of machines for making paper, paperboard;7
+844010;Book-binding machinery;7
+844090;Parts of book-binding machines;7
+844110;Cutting machines for pulp, paper or paperboard;7
+844120;Machines for making paper bag, sack, envelope;7
+844130;Machines making paper/board boxes;7
+844140;Machines for moulding in pulp, paper/board;7
+844180;Machinery for making-up pulp, paper, paperboard;7
+844190;Parts of machinery for making pulp, paper;7
+844210;Photo-typesetting & composing machines;7
+844220;Typesetting equipment, non-photo;7
+844230;Machinery for print preparation;7
+844240;Parts of machinery for print preparation;7
+844250;Printing type, blocks, cylinders;7
+844311;Reel-fed offset printing machinery;7
+844312;Sheet-fed office offset printers, sheet<22x36cm;7
+844319;Offset printing machinery nes;7
+844321;Reel-fed letterpress printers;7
+844329;Letterpress printing machinery nes;7
+844330;Flexographic printing machinery;7
+844340;Gravure printing machinery;7
+844350;Printing machinery, nes;7
+844360;Machines for uses ancillary to printing;7
+844390;Parts of printing machinery;7
+844400;Machines to extrude, cut manmade textile fibres;7
+844511;Textile fibre carding machines;7
+844512;Textile fibre combing machines;7
+844513;Textile fibre drawing or roving machines;7
+844519;Textile fibre preparing machines nes;7
+844520;Textile yarn spinning machines;7
+844530;Textile yarn doubling or twisting machines;7
+844540;Textile yarn winding/reeling machines;7
+844590;Machinery for producing/prep textile yarn, nes;7
+844610;Machines for weaving fabric, w<30cm;7
+844621;Shuttle power loom for weaving fabric w>30cm;7
+844629;Shuttle looms for weaving fabric w>30cm;7
+844630;Shuttle-less looms for weaving fabric w>30cm;7
+844711;Circular knitting machines, d<165mm;7
+844712;Circular knitting machines, d>165mm;7
+844720;Flat knitting & stitch-bonding machines;7
+844790;Tulle, lace, embroidery-making machine;7
+844811;Dobbies, jacquards for spinning mach/looms;7
+844819;Aux machines for spin, weave, knit machines;7
+844820;Parts for preparing manmade textile machines;7
+844831;Card clothing for drawing, spinning machines;7
+844832;Parts for spinning machines, not card clothing;7
+844833;Spinning spindles, flyers, & rings;7
+844839;Parts of spinning, drawing machines nes;7
+844841;Shuttles for weaving machines;7
+844842;Reeds, healds, heald-frames for weaving looms;7
+844849;Parts of looms, auxiliary machinery nes;7
+844851;Sinkers, needles for knitting machines;7
+844859;Parts of knitting, embroidery machines;7
+844900;Machinery for making felt, nonwovens;7
+845011;Automatic washing machines, cap<10kg;7
+845012;Washing machines, cap<10kg, built-in drier;7
+845019;Washing machines, cap<10kg, nes;7
+845020;Washing machines, cap>10kg;7
+845090;Parts of washing machines;7
+845110;Dry-cleaning machines;7
+845121;Drying machines, cap<10kg;7
+845129;Drying machines, nes;7
+845130;Ironing machines & presses;7
+845140;Washing, bleaching, dyeing machines;7
+845150;Machinery to reel, fold, cut, pink textile fabric;7
+845180;Machinery to impregnate textiles, linoleum;7
+845190;Parts of machines for treating textile fabrics;7
+845210;Household sewing machines;7
+845221;Automatic sewing machines;7
+845229;Sewing machines;7
+845230;Sewing machine needles;7
+845240;Furniture, bases, covers for sewing machines;7
+845290;Parts of sewing machines;7
+845310;Machinery to tan & work hides & leather;7
+845320;Machinery for making/repairing footwear;7
+845380;Machinery for leather, skin goods making;7
+845390;Parts of machinery for leather industry;7
+845410;Converters for metallurgy/foundry;7
+845420;Ingot moulds/ladles for metallurgy/foundry;7
+845430;Casting machines for metallurgy, foundry;7
+845490;Parts of metallurgy, foundry equipment;7
+845510;Tube mills, metal rolling;7
+845521;Hot or hot-cold metal rolling mills;7
+845522;Cold metal rolling mills;7
+845530;Rolls for metal rolling mills;7
+845590;Parts of metal rolling mills & rolls;7
+845610;Laser/light/photon beam process machine tools;7
+845620;Ultrasonic process machine tools;7
+845630;Electro-discharge process machine tools;7
+845690;Electro-chem/electron/plasma arc machine tools;7
+845710;Machining centres, metalwork;7
+845720;Unit construction machines, metalwork;7
+845730;Multi-station transfer machines, metalwork;7
+845811;Horizontal num controlled metalwork lathes;7
+845819;Horizontal lathes nes for metal;7
+845891;Lathes nes num controlled, metal removing;7
+845899;Lathes nes for removing metal;7
+845910;Way-type unit head machines, metal working;7
+845921;Metal working drill machines, num controlled;7
+845929;Metal drilling machines, not num controlled;7
+845931;Metal boring-milling machines, num controlled;7
+845939;Boring-milling machines for removing metal;7
+845940;Boring machines for removing metal;7
+845951;Metal milling machines, knee-type num controlled;7
+845959;Milling machines, knee-type metal-removal;7
+845961;Metal milling machines, num controlled;7
+845969;Metal milling machines;7
+845970;Metal threading/tapping machines;7
+846011;Surface grinders, num controlled, accur 0.01mm;7
+846019;Surface grinding machines accur 0.01mm nes;7
+846021;Grinding machines, num controlled, accur .01mm;7
+846029;Grinding machines, accur 0.01mm;7
+846031;Sharpening machines, num controlled;7
+846039;Sharpening machines nes;7
+846040;Honing or lapping machines;7
+846090;Machine tools for finishing metals, nes;7
+846110;Metal planing machines;7
+846120;Metal shaping or slotting machines;7
+846130;Metal broaching machines;7
+846140;Gear cutting, grinding machines;7
+846150;Metal sawing machines;7
+846190;Metal cuttting, shaping, engraving machines;7
+846210;Machine tools to forge, stamp, hammer metals;7
+846221;Num controlled tools to bend, fold metal;7
+846229;Machine tools to bend, fold, shear metal;7
+846231;Num controlled shearing machine tools;7
+846239;Shearing machine tools, nes;7
+846241;Num controlled punch, notch machines;7
+846249;Punching, notching machine tools, nes;7
+846291;Hydraulic presses for working metal;7
+846299;Metal shaping presses, nes;7
+846310;Draw-benches for bars, tubes, profiles;7
+846320;Thread rolling machines for working metal;7
+846330;Machines for working metal wire;7
+846390;Machine-tools for metal/carbides, nes;7
+846410;Sawing machines for stone/ceramics/glass;7
+846420;Grind/polishing machines for stone/ceramic/glass;7
+846490;Machine tools for stone, ceramics, cold glass;7
+846510;Multi-purpose machines for wood work;7
+846591;Sawing machines;7
+846592;Planing/milling machines for wood;7
+846593;Grinding, sanding, polishing machines for wood;7
+846594;Bending or assembling machines for wood;7
+846595;Drilling or morticing machines for wood;7
+846596;Splitting or slicing machines for wood;7
+846599;Machine tools for wood, cork or hard plastic;7
+846610;Tool holders, dieheads, for machine tools;7
+846620;Work holders for machine tools;7
+846630;Dividing heads for machine tools;7
+846691;Parts of stone, ceramic machine tools;7
+846692;Parts of wood, plastic machine tools;7
+846693;Parts of metal cutting machine tools;7
+846694;Parts of metal shaping machine tools;7
+846711;Pneumatic  rotary hand tools;7
+846719;Pneumatic hand tools, nes;7
+846781;Chain saws;7
+846789;Hand tools, non-electric motor;7
+846791;Chain saw parts;7
+846792;Pneumatic hand tool parts;7
+846799;Hand-held tools nes;7
+846810;Welding/soldering torches, hand-held;7
+846820;Gas-operated welding machinery;7
+846880;Welding machinery, not gas-operated;7
+846890;Welding machinery parts;7
+846910;Automatic typewriters, word-processers;7
+846921;Typewriters, electric, >12kg;7
+846929;Typewriters, electric, <12kg;7
+846931;Typewriters, non-electric, >12kg;7
+846939;Typewriters, non-electric, <12kg;7
+847010;Electronic calculators, internal power;7
+847021;Electronic calculators, printing, external power;7
+847029;Electronic calculators, non-printing, ext power;7
+847030;Calculating machines, non-electric;7
+847040;Accounting machines;7
+847050;Cash registers;7
+847090;Postage, ticket-issuing machines;7
+847110;Analogue or hybrid computers;7
+847120;Digital computers with cpu & input-output;7
+847191;Digital computer cpu, some storage/input/output;7
+847192;Computer input/output units;7
+847193;Computer data storage units;7
+847199;Automatic data processing machines;7
+847210;Office duplicating machines;7
+847220;Addressing, plate embossing machines;7
+847230;Mail processing machinery;7
+847290;Office machines, nes;7
+847310;Parts of typewriters, word processors;7
+847321;Parts of electronic calculators;7
+847329;Parts of accounting machines, nes;7
+847330;Parts of data processing equipment;7
+847340;Parts of office machines, nes;7
+847410;Machines to sort, screen stone, ores, minerals;7
+847420;Machines to crush stone, ores, minerals;7
+847431;Concrete/mortar mixing machines;7
+847432;Machines for mixing minerals with bitumen;7
+847439;Mixing, kneading machines for minerals;7
+847480;Machines to agglomerate, shape mineral/fuel;7
+847490;Parts for mineral sort, screen machines;7
+847510;Lamp/glass bulb-making machines;7
+847520;Machines for hot working glass nes;7
+847590;Parts of hot glass working machines;7
+847611;Vending machines, food;7
+847619;Vending machines, non-food;7
+847690;Parts of vending machines;7
+847710;Injection-moulding machines for rubber/plastic;7
+847720;Extruders for working rubber/plastic;7
+847730;Blow moulding machines for rubber/plastic;7
+847740;Rubber/plastic vacuum moulders, thermoformers;7
+847751;Tyre moulding/retreading machinery;7
+847759;Rubber/plastic moulding/forming machines;7
+847780;Rubber/plastic working machines, nes;7
+847790;Parts of rubber/plastic-working machines;7
+847810;Machinery for preparing tobacco;7
+847890;Parts of machinery for preparing tobacco;7
+847910;Machines for public works, nes;7
+847920;Machines to process animal/veg fats or oils;7
+847930;Presses for particle/fibre board manufacture;7
+847940;Rope or cable-making machines;7
+847981;Metal treating machines, electric coil-winders;7
+847982;Machines to mix, knead, grind, nes;7
+847989;Machines & mechanical appliances nes;7
+847990;Parts of machines & mechanical appliances nes;7
+848010;Boxes, moulding, for metal foundry;7
+848020;Bases, moulding;7
+848030;Patterns, moulding;7
+848041;Moulds, injection/compression, metals/carbides;7
+848049;Moulds for metal/carbides;7
+848050;Moulds for glass;7
+848060;Moulds for mineral materials;7
+848071;Moulds, injection/compression, rubber/plastic;7
+848079;Moulds for rubber or plastic;7
+848110;Valves, pressure reducing;7
+848120;Valves, oleohydraulic, pneumatic transmissions;7
+848130;Valves, check;7
+848140;Valves, safety or relief;7
+848180;Taps, cocks, valves, appliances, nes;7
+848190;Parts of taps, cocks, valves;7
+848210;Ball bearings;7
+848220;Bearings, tapered roller;7
+848230;Bearings, spherical roller;7
+848240;Bearings, needle roller;7
+848250;Bearings, cylindrical roller;7
+848280;Bearings, ball or roller nes;7
+848291;Balls, needles & rollers for bearings;7
+848299;Bearing parts, nes;7
+848310;Transmission shafts & cranks;7
+848320;Bearing housings etc with bearing;7
+848330;Bearing housings, shafts;7
+848340;Gearing, ball screws;7
+848350;Flywheels & pulleys;7
+848360;Clutches, shaft couplings, universal joints;7
+848390;Parts of power transmission;7
+848410;Gaskets of metal sheeting;7
+848490;Gasket sets;7
+848510;Ship/boat propellers & blades;7
+848590;Machinery parts, non-electrical, nes;7
+850110;Electric motors <37.5W;8
+850120;Universal AC/DC motors <37.5W;8
+850131;DC motors, DC generators, <750W;8
+850132;DC motors, DC generators, 0.75-75 kW;8
+850133;DC motors, DC generators, 75-375 kW;8
+850134;DC motors, DC generators, >375kW;8
+850140;AC motors, single-phase;8
+850151;AC motors, multi-phase, <750W;8
+850152;AC motors, multi-phase, 0.75-75kW;8
+850153;AC motors, multi-phase, >75kW;8
+850161;AC generators, of an output <75 kVA;8
+850162;AC generators, 75-375 kVA;8
+850163;AC generators, 375-750 kVA;8
+850164;AC generators, >750kVA;8
+850211;Generating sets, diesel, <75kVA;8
+850212;Generating sets, diesel, 75-375 kVA;8
+850213;Generating sets, diesel, >375kVA;8
+850220;Generating sets, spark ignition engines;8
+850230;Electric generating sets, nes;8
+850240;Electric rotary converters;8
+850300;Parts for electric motors & generators;8
+850410;Ballasts for discharge lamps/tubes;8
+850421;Liquid dielectric transformers <650KVA;8
+850422;Liquid dielectric transformers 650-10,000KVA;8
+850423;Liquid dielectric transformers >10,000KVA;8
+850431;Electric transformers, <1KVA;8
+850432;Electric transformers, 1-16 KVA;8
+850433;Electric transformers, 16-500KVA;8
+850434;Electric transformers, >500KVA;8
+850440;Static converters, nes;8
+850450;Inductors, electric;8
+850490;Parts of electrical transformers & inductors;8
+850511;Metal permanent magnets;8
+850519;Permanent magnets, nes;8
+850520;Electro-magnetic couplings, clutches & brakes;8
+850530;Electro-magnetic lifting heads;8
+850590;Electro-magnets, nes;8
+850611;Manganese dioxide primary cell/battery v<300cc;8
+850612;Mercuric oxide primary cell/battery, vol<300cc;8
+850613;Silver oxide primary cell/battery vol<300cc;8
+850619;Primary cells/batteries, vol<300cc;8
+850620;Primary cells/batteries, vol>300cc;8
+850690;Parts of primary cells & batteries;8
+850710;Vehicle lead-acid electric accumulators;8
+850720;Lead-acid electric accumulators, non-vehicle;8
+850730;Nickel-cadmium electric accumulators;8
+850740;Nickel-iron electric accumulators;8
+850780;Electric accumulators, nes;8
+850790;Parts of electric accumulators;8
+850810;Hand-held drills, own electric motor;8
+850820;Hand-held saws, own electric motor;8
+850880;Hand-held tools, electric motor, nes;8
+850890;Parts of hand tools, own electric motor;8
+850910;Vacuum cleaners;8
+850920;Floor polishers;8
+850930;Kitchen waste disposers;8
+850940;Food grinders, mixers, juicers;8
+850980;Home appliances, electric motor;8
+850990;Parts of electric appliances;8
+851010;Shavers;8
+851020;Hair clippers;8
+851090;Parts of shavers/hair clippers;8
+851110;Spark plugs;8
+851120;Ignition magnetos, flywheels;8
+851130;Distributors & ignition coils;8
+851140;Starter motors;8
+851150;Generators & alternators;8
+851180;Glow plugs;8
+851190;Parts of electrical ignition equipment;8
+851210;Bicycle lighting/signalling equipment;8
+851220;Lighting/visual signalling equipment;8
+851230;Sound signalling equipment;8
+851240;Windscreen wipers/defrosters;8
+851290;Parts of vehicle light/signal equipment;8
+851310;Portable battery & magnetic lamps;8
+851390;Parts for portable battery & magnetic lamps;8
+851410;Industrial electric resistance furnaces & ovens;8
+851420;Industrial induction/dielectric furnaces & ovens;8
+851430;Industrial/lab electric furnaces & ovens;8
+851440;Indust induction/dielectric heating equipm, nes;8
+851490;Parts of industrial electric furnaces, ovens;8
+851511;Electric soldering irons & guns;8
+851519;Electric brazing, soldering machines;8
+851521;Electric resistance welding equipment, automatic;8
+851529;Electric resist welding equipment, non-auto;8
+851531;Automatic electric plasma arc welding equipmen;8
+851539;Non-automatic electric plasma arc welders;8
+851580;Electric/laser/ultrasonic welding equipment;8
+851590;Parts of electric solder, weld equipment;8
+851610;Water heaters, electric;8
+851621;Storage heating radiators;8
+851629;Space heaters, electric;8
+851631;Hair dryers, electric;8
+851632;Hairdressing devices, electro-thermic;8
+851633;Hand drying apparatus, electro-thermic;8
+851640;Smoothing irons, electric;8
+851650;Microwave ovens;8
+851660;Cooking, grilling equipment, electric;8
+851671;Coffeemakers, electric;8
+851672;Toasters;8
+851679;Electro-thermic appliances;8
+851680;Heating resistors, electric;8
+851690;Parts of electro-thermic apparatus;8
+851710;Telephone sets;8
+851720;Teleprinters;8
+851730;Telephonic switching apparatus;8
+851740;Apparatus, for current line systems;8
+851781;Telephonic apparatus, nes;8
+851782;Telegraphic apparatus, nes;8
+851790;Parts of telephone line equipment;8
+851810;Microphones & stands;8
+851821;Single loudspeakers, in enclosure;8
+851822;Multiple loudspeakers, single enclosure;8
+851829;Loudspeakers, nes;8
+851830;Headphones, earphones;8
+851840;Audio electric amplifiers;8
+851850;Electric sound amplifier sets;8
+851890;Parts of non-recording electronic equipment;8
+851910;Coin/disc-operated record-players;8
+851921;Record-players, no built-in loudspeaker;8
+851929;Record-players with loudspeakers;8
+851931;Turntables, auto record changing;8
+851939;Turntables;8
+851940;Transcribing machines;8
+851991;Cassette players, non-recording;8
+851999;Sound reproducing apparatus, non-recording;8
+852010;Dictating machine, with external power;8
+852020;Telephone answering machines;8
+852031;Cassette audio tape recorders;8
+852039;Audio tape recorders, non-cassette;8
+852090;Audio recording equipment, no sound reprod;8
+852110;Video record/reprod apparatus, magnetic tape;8
+852190;Video record/reprod apparatus;8
+852210;Pick-up cartridges;8
+852290;Parts/accessories of recorders;8
+852311;Unrecorded magnetic tapes, w< 4mm;8
+852312;Unrecorded magnetic tapes, w 4-6.5mm;8
+852313;Unrecorded magnetic tapes, w> 6.5mm;8
+852320;Unrecorded magnetic discs;8
+852390;Unrecorded sound recording media;8
+852410;Recorded gramophone records;8
+852421;Recorded magnetic tapes, w< 4mm;8
+852422;Recorded magnetic tapes, w 4-6.5mm;8
+852423;Recorded magnetic tapes, w> 6.5mm;8
+852490;Sound recordings, non-photo, nes;8
+852510;Transmission for radio, telephone, TV;8
+852520;Transmit-receive apparatus for radio, TV;8
+852530;Television cameras;8
+852610;Radars;8
+852691;Radio navigational aid apparatus;8
+852692;Radio remote control apparatus;8
+852711;Radio receiver, portable, sound repr/record;8
+852719;Radio receiver, portable, non-recording;8
+852721;Radio receiver, external power, sound repr/record;8
+852729;Radio receiver, external power, nes;8
+852731;Radio-telephony receiver, with sound repr/record;8
+852732;Radio-telephony receivers, nes;8
+852739;Radio-broadcast receivers, nes;8
+852790;Radio receiver apparatus, nes;8
+852810;Colour TV receivers/monitors/projectors;8
+852820;Monochrome TV receivers/monitors/projectors;8
+852910;Aerials & reflectors;8
+852990;Parts for radio/tv transmit/receive equipment;8
+853010;Railway electric signal & traffic controls;8
+853080;Electric signal & traffic controls;8
+853090;Parts of electric signal & traffic controller;8
+853110;Burglar or fire alarms;8
+853120;Indicator panels, with electronic displays;8
+853180;Electric audio-visual signalling apparatus, nes;8
+853190;Parts of electric audio-visual signalling device;8
+853210;Fixed power capacitors, 50/60Hz circuits;8
+853221;Electric capacitors, tantalum;8
+853222;Electric capacitors, aluminium electrolytic;8
+853223;Electric capacitors, ceramic, single layer;8
+853224;Electric capacitors, ceramic, multilayer;8
+853225;Electric capacitors, paper/plastic dielectric;8
+853229;Electric capacitors, nes;8
+853230;Electric capacitors, variable;8
+853290;Parts of electrical capacitors;8
+853310;Electrical resistors, fixed carbon;8
+853321;Electrical resistors fixed, <20W;8
+853329;Electrical resistors, fixed, >20W;8
+853331;Wirewound variable resistors, rheostats, <20W;8
+853339;Wirewound variable resistors, rheostats, >20W;8
+853340;Variable resistors, rheostats & potentiometers;8
+853390;Parts of electrical resistors, rheostats;8
+853400;Electronic printed circuits;8
+853510;Electrical fuses, for >1kV;8
+853521;Automatic circuit breakers for 1-72.5kV;8
+853529;Automatic circuit breakers for >72.5 kV;8
+853530;Isolating/break switches, for >1 kV;8
+853540;Lightning arresters & surge limiters >1kV;8
+853590;Electrical apparatus for >1kV, nes;8
+853610;Electrical fuses, <1kV;8
+853620;Automatic circuit breakers, <1kV;8
+853630;Electrical circuit protectors, <1kV;8
+853641;Electrical relays, <60V;8
+853649;Electrical relays, 60V-1kV;8
+853650;Electrical switches for <1kV, nes;8
+853661;Electrical lamp-holders, <1kV;8
+853669;Electrical plugs & sockets;8
+853690;Electrical switch, protector for <1kV nes;8
+853710;Electrical control & distribution boards, <1kV;8
+853720;Electrical control & distribution boards, >1kV;8
+853810;Electrical boards, panels, not equipped;8
+853890;Parts of elect switches, protectors;8
+853910;Sealed beam lamp units;8
+853921;Filament lamps, tungsten halogen;8
+853922;Filament lamps, <=200W, >100V;8
+853929;Filament lamps, not ultraviolet/infra-red;8
+853931;Fluorescent lamps, hot cathode;8
+853939;Discharge lamps, not ultra-violet;8
+853940;Ultra-violet or infra-red lamps;8
+853990;Parts of electric filament or discharge lamps;8
+854011;Colour cathode-ray TV tubes, monitors;8
+854012;Monochrome cathode-ray tubes, monitors;8
+854020;Television camera tubes;8
+854030;Cathode-ray tubes, not for TV;8
+854041;Magnetron tubes;8
+854042;Klystron tubes;8
+854049;Microwave tubes;8
+854081;Receiver/amplifier valves & tubes;8
+854089;Electronic valves/tubes;8
+854091;Parts of cathode-ray tubes;8
+854099;Parts of electronic valve & tubes;8
+854110;Diodes, nes;8
+854121;Transistors, <1 watt;8
+854129;Transistors, >1 watt;8
+854130;Thyristors/diacs/triacs;8
+854140;Photosensitive/PV/LED semiconductor device;8
+854150;Semiconductor devices, not light sensitive;8
+854160;Mounted piezo-electric crystals;8
+854190;Parts of semiconductor devices;8
+854211;Monolithic integrated circuits, digital;8
+854219;Monolithic integrated circuits, non-digital;8
+854220;Hybrid integrated circuits;8
+854280;Electronic integrated circuits/microassemblies;8
+854290;Parts of electronic integrated circuits;8
+854310;Particle accelerators;8
+854320;Signal generators;8
+854330;Apparatus for electro-plating, electrolysis;8
+854380;Electrical machines, nes;8
+854390;Parts of electrical machines, nes;8
+854411;Insulated winding copper wire;8
+854419;Insulated winding wire, nes;8
+854420;Co-axial cable;8
+854430;Ignition sets for vehicles/aircraft/ship;8
+854441;Electric conductors <80V, with connectors;8
+854449;Electric conductors, <80V, no connectors;8
+854451;Electric conductors, 80-1,000V, with connectors;8
+854459;Electric conductors, 80-1,000V, no connectors;8
+854460;Electric conductors, >1,000V;8
+854470;Optical fibres & cables;8
+854511;Carbon/graphite furnace electrodes;8
+854519;Carbon/graphite electrodes, non-furnace;8
+854520;Carbon/graphite brushes;8
+854590;Battery carbons & electrical items, nes;8
+854610;Electrical insulators of glass;8
+854620;Electrical insulators of ceramics;8
+854690;Electrical insulators, non-glass/ceramics;8
+854710;Electrical insulating fittings of ceramics;8
+854720;Electrical insulating fittings of plastics;8
+854790;Electrical insulating fittings, nes;8
+854800;Electrical parts of machinery, nes;8
+860110;Rail locomotives, externally electrically powered;6
+860120;Rail locomotives, electric accumulator powered;6
+860210;Rail locomotives, diesel-electric;6
+860290;Rail locomotives, non-electric;6
+860310;Self-propelled railway cars, external power;6
+860390;Self-propelled railway cars, nes;6
+860400;Railway maintenance vehicles;6
+860500;Railway passenger/special purpose coaches;6
+860610;Railway tank cars;6
+860620;Railway wagons, insulated;6
+860630;Railway cars, self-discharging;6
+860691;Railway cars, closed & covered;6
+860692;Railway cars, open, >60cm sides;6
+860699;Railway cars nes;6
+860711;Driving bogies & bissel-bogies for railway;6
+860712;Bogies & bissel-bogies for railway, non-driving;6
+860719;Railway axles, wheels;6
+860721;Air brakes for railway;6
+860729;Brakes, non-air, for railway;6
+860730;Coupling devices for railway;6
+860791;Railway locomotive parts, nes;6
+860799;Railway rolling stock parts, nes;6
+860800;Signals for rail, waterway, port, airfield;6
+860900;Cargo containers, for carriage;6
+870110;Pedestrian controlled tractors;6
+870120;Road tractors for semi-trailers;6
+870130;Track-laying tractors, crawlers;6
+870190;Wheeled tractors nes;6
+870210;Diesel powered buses;6
+870290;Buses, non-diesel;6
+870310;Snowmobiles, golf cars;6
+870321;Automobiles, spark ignition, <1000cc;6
+870322;Automobiles, spark ignition, 1000-1500cc;6
+870323;Automobiles, spark ignition, 1500-3000cc;6
+870324;Automobiles, spark ignition, >3000cc;6
+870331;Automobiles, diesel, <1500cc;6
+870332;Automobiles, diesel, 1500-2500cc;6
+870333;Automobiles, diesel, >2500cc;6
+870390;Automobiles nes, gas turbine powered;6
+870410;Dump trucks, for off-highway use;6
+870421;Diesel powered trucks, <5 tonnes;6
+870422;Diesel powered trucks, 5-20 tonnes;6
+870423;Diesel powered trucks, >20 tonnes;6
+870431;Spark ignition engine trucks, <5 tonnes;6
+870432;Spark ignition engine trucks, >5 tonnes;6
+870490;Trucks nes;6
+870510;Mobile cranes;6
+870520;Mobile drilling derricks;6
+870530;Fire fighting vehicles;6
+870540;Mobile concrete mixers;6
+870590;Special purpose motor vehicles nes;6
+870600;Motor vehicle chassis fitted with engine;6
+870710;Bodies for passenger vehicles;6
+870790;Bodies for tractors, buses, trucks;6
+870810;Bumpers for motor vehicles;6
+870821;Safety seat belts;6
+870829;Parts of motor vehicle bodies;6
+870831;Mounted brake linings;6
+870839;Brake system parts;6
+870840;Transmissions for motor vehicles;6
+870850;Drive axles for motor vehicles;6
+870860;Non-driving axles/parts;6
+870870;Wheels for motor vehicles;6
+870880;Shock absorbers;6
+870891;Radiators for motor vehicles;6
+870892;Mufflers & exhaust pipes;6
+870893;Clutches for motor vehicles;6
+870894;Steering wheels, columns;6
+870899;Motor vehicle parts nes;6
+870911;Work trucks, electrically powered;6
+870919;Work trucks, not electrically powered;6
+870990;Work truck parts;6
+871000;Tanks, armoured fighting vehicles;6
+871110;Motorcycles, <50cc engine;6
+871120;Motorcycles, 50-250cc engine;6
+871130;Motorcycles, 250-500cc engine;6
+871140;Motorcycles, 500-800cc engine;6
+871150;Motorcycles, >800cc engine;6
+871190;Motorcycle, non-spark ignition engine;6
+871200;Bicycles;6
+871310;Wheelchairs, not mechanically propelled;6
+871390;Wheelchairs, mechanically propelled;6
+871411;Motorcycle saddles;6
+871419;Motorcycle parts;6
+871420;Wheelchair parts;6
+871491;Bicycle frames & forks;6
+871492;Bicycle wheel rims & spokes;6
+871493;Bicycle hubs, free-wheel sprocket wheels;6
+871494;Bicycle brakes;6
+871495;Bicycle saddles;6
+871496;Bicycle pedals/cranks;6
+871499;Bicycle parts, nes;6
+871500;Baby carriages;6
+871610;Trailers for housing/camping;6
+871620;Agricultural trailers;6
+871631;Tanker trailers and semi-trailers;6
+871639;Trailers nes for goods transport;6
+871640;Trailers, semi-trailers nes;6
+871680;Wheelbarrows, hand-carts, rickshaws;6
+871690;Trailer parts nes;6
+880110;Gliders, hang gliders;6
+880190;Balloons, non-powered aircraft;6
+880211;Helicopters <2,000kg;6
+880212;Helicopters >2,000kg;6
+880220;Fixed wing aircraft, <2,000kg;6
+880230;Fixed wing aircraft, 2,000-15,000 kg;6
+880240;Fixed wing aircraft, >15,000kg;6
+880250;Spacecraft, satellites & their launch vehicles;6
+880310;Aircraft propellers, rotors;6
+880320;Aircraft under-carriages;6
+880330;Aircraft parts nes;6
+880390;Parts of balloons, spacecraft;6
+880400;Parachutes;6
+880510;Aircraft launching gear;6
+880520;Flight simulators;6
+890110;Cruise ships, excursion & ferry boats;6
+890120;Tankers;6
+890130;Refrigerated vessels;6
+890190;Cargo vessels, not tanker or refrigerated;6
+890200;Fishing vessels & factory ships;6
+890310;Inflatable pleasure craft;6
+890391;Sailboats;6
+890392;Motorboats;6
+890399;Rowing boats, canoes;6
+890400;Tugs and pusher craft;6
+890510;Dredgers;6
+890520;Floating, submersible drilling platform;6
+890590;Floating docks, special function vessels;6
+890600;Warships, lifeboats;6
+890710;Inflatable rafts;6
+890790;Buoys, beacons, pontoons;6
+890800;Scrapping vessels;6
+900110;Optical fibres, not telecomm;7
+900120;Sheets/plates of polarising material;7
+900130;Contact lenses;7
+900140;Spectacle lenses of glass;7
+900150;Spectacle lenses of other materials;7
+900190;Prisms, mirrors & optical elements, unmounted;7
+900211;Lenses for camera or projector;7
+900219;Objective lenses, nes;7
+900220;Optical filters;7
+900290;Mounted lenses, prisms, optical elements;7
+900311;Plastic spectacle frames & mountings;7
+900319;Spectacle frames & mountings, not plastic;7
+900390;Parts of spectacle frames & mountings;7
+900410;Sunglasses;7
+900490;Spectacles, goggles;7
+900510;Binoculars;7
+900580;Telescopes;7
+900590;Parts/accessories for binoculars, telescopes;7
+900610;Cameras for preparing printing plates;7
+900620;Cameras for recording microfilm;7
+900630;Special use cameras: underwater, aerial;7
+900640;Instant print cameras;7
+900651;Cameras, single lens, roll film <=35mm;7
+900652;Cameras for roll film w<35mm;7
+900653;Cameras for 35mm roll film;7
+900659;Photographic cameras;7
+900661;Photographic flashlight apparatus;7
+900662;Flashbulbs;7
+900669;Photographic flashlight apparatus, nes;7
+900691;Parts/accessories for photo cameras;7
+900699;Parts/accessories for flashlights/bulbs;7
+900711;Cinematographic cameras for film <16mm wide;7
+900719;Cinematographic cameras for film >16mm wide;7
+900721;Cinematographic projectors for film of w <16mm;7
+900729;Cinematographic projectors for film of w >16mm;7
+900791;Parts and accessories for cinematographic cameras;7
+900792;Parts and accessories for cinematographic projectors;7
+900810;Slide projectors;7
+900820;Microfilm, microfiche or other microform readers;7
+900830;Image projectors, except slide/microform;7
+900840;Photographic enlargers and reducers, other than cine;7
+900890;Parts and accessories of image projectors, non-cine;7
+900911;Electrostatic photo-copyers, direct process;7
+900912;Electrostatic photo-copyers, indirect process;7
+900921;Photo-copying equipment with an optical system, nes;7
+900922;Contact type photo-copying apparatus,nes;7
+900930;Thermo-copying apparatus;7
+900990;Parts and accessories for photo-copying apparatus;7
+901010;Equipment for automatic development of photo film;7
+901020;Equipment for photographic laboratories nes;7
+901030;Projection screens;7
+901090;Parts and accessories for photo laboratory equipment;7
+901110;Stereoscopic microscopes;7
+901120;Microscopes, for photomicrography;7
+901180;Microscopes, optical, nes;7
+901190;Parts and accessories for optical microscopes;7
+901210;Microscopes except optical, diffraction apparatus;7
+901290;Parts and accessories for non-optical microscopes, et;7
+901310;Telescopes for arms/other equipment, periscopes;7
+901320;Lasers, other than laser diodes;7
+901380;Optical devices, appliances and instruments, nes;7
+901390;Parts and accessories of optical appliances nes;7
+901410;Direction finding compasses;7
+901420;Instruments nes for aeronautical/space navigation;7
+901480;Navigational instruments and appliances nes;7
+901490;Parts and accessories for navigational instruments;7
+901510;Rangefinders;7
+901520;Theodolites & tacheometers;7
+901530;Surveying levels;7
+901540;Photogrammetrical surveying instruments;7
+901580;Surveying instruments nes;7
+901590;Parts/accessories for surveying instruments;7
+901600;Balances, >=50 milligram sensitivity;7
+901710;Drafting tables;7
+901720;Drawing, marking-out instruments, slide rules;7
+901730;Micrometers, callipers;7
+901780;Hand instruments for measuring length;7
+901790;Parts/accessories for drawing instruments;7
+901811;Electro-cardiographs;7
+901819;Electro-diagnostic apparatus;7
+901820;Ultra-violet or infra-red ray apparatus;7
+901831;Syringes;7
+901832;Tubular metal needles & sutures;7
+901839;Medical needles, catheters;7
+901841;Dental drill engines;7
+901849;Dentistry instruments & appliances;7
+901850;Ophthalmic instruments & appliances;7
+901890;Instruments for medical science, nes;7
+901910;Massage & psychological-test apparatus;7
+901920;Therapeutic respiration apparatus;7
+902000;Breathing appliances & gas masks;7
+902111;Artificial joints;7
+902119;Orthopaedic/fracture appliances;7
+902121;Artificial teeth;7
+902129;Dental fittings;7
+902130;Artificial body parts, aids;7
+902140;Hearing aids;7
+902150;Pacemakers;7
+902190;Orthopaedic appliances, nes;7
+902211;Medical X-ray apparatus;7
+902219;Non-medical X-ray equipment;7
+902221;Medical device using alpha/beta/gamma radiation;7
+902229;Non-medical device, alpha/beta/gamma radiation;7
+902230;X-ray tubes;7
+902290;Parts/accessories for radiation apparatus;7
+902300;Instruments, models, for demonstration;7
+902410;Machines for testing properties of metals;7
+902480;Machines for testing mechanical properties;7
+902490;Parts/accessories of material testing equipment;7
+902511;Thermometers, liquid-filled;7
+902519;Thermometers, not liquid filled;7
+902520;Barometers;7
+902580;Hydrometer, pyrometer;7
+902590;Parts/accessories for thermometers;7
+902610;Liquid flow/level measure/check equipment;7
+902620;Pressure measure/check equipment;7
+902680;Equipment to measure/check gas/liquid properties;7
+902690;Parts of fluid measure/check equipment;7
+902710;Gas/smoke analysis apparatus;7
+902720;Chromatographs, electrophoresis instruments;7
+902730;Spectrometers, spectrophotometers;7
+902740;Exposure meters;7
+902750;Instruments using optical radiations;7
+902780;Physical/chemical analysis equipment;7
+902790;Microtomes, scientific analysis equip parts;7
+902810;Gas supply/calibration meters;7
+902820;Liquid supply/calibration meters;7
+902830;Electricity supply, calibration meters;7
+902890;Parts/accessories for gas, liquid, electricity meter;7
+902910;Revolution counters/pedometers;7
+902920;Speed indicators, tachometers;7
+902990;Parts/accessories of revolution counters;7
+903010;Ionising radiation measure/detect instruments;7
+903020;Cathode-ray oscilloscopes/graphs;7
+903031;Electrical multimeters;7
+903039;Voltmeters, non-recording;7
+903040;Gain, distortion & crosstalk meters;7
+903081;Electrical measurement recording instruments;7
+903089;Electrical measurement instruments;7
+903090;Parts/access, electr measuring instruments;7
+903110;Machines for balancing mechanical parts;7
+903120;Test benches for measuring equipment;7
+903130;Profile projectors;7
+903140;Optical instruments/appliances;7
+903180;Measuring equipment, nes;7
+903190;Parts/access for measuring equipment;7
+903210;Thermostats;7
+903220;Manostats;7
+903281;Hydraulic/pneumatic automatic controls;7
+903289;Automatic controlling equipment nes;7
+903290;Parts/accessories for automatic controls;7
+903300;Parts/accessories for optical/electric instrument;7
+910111;Wrist-watch, precious metal, battery, with hands;7
+910112;Wrist-watch, precious metal, battery, opto/electric;7
+910119;Wrist-watch, precious metal, battery, other;7
+910121;Wrist-watch, precious metal, automatic wound;7
+910129;Wrist-watch, precious metal, hand wound;7
+910191;Pocket-watch, precious-metal case, battery;7
+910199;Pocket-watch, precious-metal case, non-battery;7
+910211;Wrist-watch, base-metal case, battery, with hands;7
+910212;Wrist-watch, base-metal case, battery, opto/electric;7
+910219;Wrist-watch, base-metal case, battery, other;7
+910221;Wrist-watch, base-metal case, automatic wound;7
+910229;Wrist-watch, base-metal case, hand wound;7
+910291;Pocket-watch, base-metal case, battery;7
+910299;Pocket-watch, base-metal case, non-battery;7
+910310;Clocks, with hands battery;7
+910390;Clocks, with hands nes;7
+910400;Panel clocks for vehicles/aircraft;7
+910511;Alarm clocks, battery;7
+910519;Alarm clocks, non-electric;7
+910521;Wall clocks, battery;7
+910529;Wall clocks, non-electric;7
+910591;Clocks, nes, battery;7
+910599;Clocks, nes, non-electric;7
+910610;Time-registers, time-recorders;7
+910620;Parking meters;7
+910690;Time of day recorders, nes;7
+910700;Time switches;7
+910811;Watch movements, battery mechanical display;7
+910812;Watch movement, battery, opto-electric display;7
+910819;Watch movement, battery nes;7
+910820;Watch movements, auto-winding;7
+910891;Watch movements, nes, <33.8mm;7
+910899;Watch movements, nes;7
+910911;Clock movements, battery/alarm;7
+910919;Clock movements, battery nes;7
+910990;Clock movements, non-battery;7
+911011;Watch movements, un/partly assembled;7
+911012;Incomplete watch movements, assembled;7
+911019;Rough movements of watches;7
+911090;Clock movements, un/partly assembled;7
+911110;Watch cases of/clad with precious metal;7
+911120;Watch cases of base metal;7
+911180;Watch cases, nes;7
+911190;Parts of watch cases;7
+911210;Clock cases, of metal;7
+911280;Clock cases, except metal;7
+911290;Parts of clock cases;7
+911310;Watch straps, of/clad with precious metal;7
+911320;Base metal watch straps;7
+911390;Leather/plastic watch straps;7
+911410;Clock/watch springs;7
+911420;Clock/watch jewels;7
+911430;Clock/watch dials;7
+911440;Clock/watch plates & bridges;7
+911490;Clock/watch parts, nes;7
+920110;Upright pianos;7
+920120;Grand pianos;7
+920190;Harps, keyboard stringed instrument;7
+920210;Bow stringed instruments;7
+920290;Stringed instruments nes;7
+920300;Harmoniums, pipe organs, etc;7
+920410;Accordions;7
+920420;Harmonicas;7
+920510;Brass-wind instruments;7
+920590;Wind musical instruments;7
+920600;Percussion musical instruments;7
+920710;Keyboards, electrical/requiring amp;7
+920790;Musical instruments nes, electric/amp;7
+920810;Musical boxes;7
+920890;Musical instruments etc nes;7
+920910;Metronomes;7
+920920;Mechanisms for musical boxes;7
+920930;Strings of musical instruments;7
+920991;Parts/accessories for pianos;7
+920992;Parts/accessories for string musical instruments;7
+920993;Parts/accessories for pipe organs;7
+920994;Parts/accessories for amped instruments;7
+920999;Parts/accessories for musical instruments;7
+930100;Military weapons, not hand guns/swords;7
+930200;Revolvers and pistols;7
+930310;Muzzle-loading firearms;7
+930320;Shotguns for sport/hunting;7
+930330;Rifles for sporting/hunting;7
+930390;Signal pistols, humane killers, etc;7
+930400;Arms nes, spring/air/gas guns;7
+930510;Parts/accessories of revolvers/pistols;7
+930521;Shotgun barrels;7
+930529;Parts/accessories of shotguns/rifles;7
+930590;Parts/accessories of weapons, nes;7
+930610;Cartridges for rivet tools, etc;7
+930621;Shotgun cartridges;7
+930629;Air gun pellets;7
+930630;Cartridges nes;7
+930690;Munitions of war;7
+930700;Swords;7
+940110;Seats, aircraft;7
+940120;Seats, motor vehicles;7
+940130;Swivel seats, height-adjustable;7
+940140;Seats convertible into beds;7
+940150;Seats of cane, bamboo, similar materials;7
+940161;Upholstered seats with wooden frames;7
+940169;Seats with wooden frames, nes;7
+940171;Upholstered seats with metal frames;7
+940179;Seats with metal frames, nes;7
+940180;Seats nes;7
+940190;Parts of seats;7
+940210;Dentists, barbers chairs;7
+940290;Medical, dental furniture, nes;7
+940310;Office furniture, metal;7
+940320;Furniture, metal, nes;7
+940330;Office furniture, wooden;7
+940340;Kitchen furniture, wooden;7
+940350;Bedroom furniture, wooden;7
+940360;Furniture, wooden, nes;7
+940370;Furniture, plastic;7
+940380;Furniture of cane/other materials;7
+940390;Furniture parts;7
+940410;Mattress supports;7
+940421;Mattresses of cellular rubber/plastic;7
+940429;Mattresses, stuffed, spring interior;7
+940430;Sleeping bags;7
+940490;Articles of bedding nes;7
+940510;Chandeliers, ceiling/wall lights;7
+940520;Electric table, bedside & floor lamps;7
+940530;Christmas tree lighting sets;7
+940540;Electric lamps, fittings, nes;7
+940550;Non-electrical lamps & fittings;7
+940560;Illuminated signs;7
+940591;Lamp & fitting parts of glass;7
+940592;Lamp & fitting parts of plastics;7
+940599;Lamp & fitting parts, not glass/plastic;7
+940600;Prefabricated buildings;7
+950100;Rideable wheeled toys, dolls carriages;7
+950210;Dolls, human-likeness;7
+950291;Garments, accessories for dolls of humans;7
+950299;Parts for dolls, human-likeness;7
+950310;Electric trains & sets;7
+950320;Scale models, kits;7
+950330;Construction sets & toys, nes;7
+950341;Stuffed animals, non-human;7
+950349;Toys nes, non-humans;7
+950350;Toy musical instruments;7
+950360;Puzzles;7
+950370;Toys, retail, in sets/outfits;7
+950380;Toys & models, with motor;7
+950390;Toys nes;7
+950410;Video games with TV receiver;7
+950420;Billiards articles & accessories;7
+950430;Games, coin/disc-operated;7
+950440;Playing cards;7
+950490;Table/parlour game articles;7
+950510;Christmas festivity articles;7
+950590;Festive/carnival articles;7
+950611;Snow-skis;7
+950612;Snow-ski bindings;7
+950619;Snow-ski equipment not skis/bindings;7
+950621;Sailboards;7
+950629;Water-skis, surf-boards, watersport equipment;7
+950631;Golf clubs, complete;7
+950632;Golf balls;7
+950639;Golf equipment, not balls & clubs;7
+950640;Table-tennis equipment;7
+950651;Tennis rackets;7
+950659;Badminton rackets;7
+950661;Tennis balls;7
+950662;Inflatable balls;7
+950669;Balls nes;7
+950670;Ice skates, roller skates;7
+950691;Gym/athletic equipment;7
+950699;Equipment nes for sports/swimming;7
+950710;Fishing rods;7
+950720;Fish-hooks;7
+950730;Fishing reels;7
+950790;Fishing & hunting equipment nes;7
+950800;Play/fairground, circus, theater equipment;7
+960110;Worked ivory;7
+960190;Animal carving articles, nes;7
+960200;Worked vegetable/mineral carving articles;7
+960310;Brooms/brushes of vegetable material;7
+960321;Tooth brushes;7
+960329;Hair & other toilet brushes;7
+960330;Artists brushes;7
+960340;Paint brushes;7
+960350;Machine/appliance brushes;7
+960390;Brushes, nes;7
+960400;Hand sieves;7
+960500;Travel sets, toilet/sewing/shoe;7
+960610;Press-fasteners, snap-fasteners;7
+960621;Plastic buttons;7
+960622;Buttons of base metal;7
+960629;Buttons, nes;7
+960630;Button moulds;7
+960711;Slide fasteners, chain scoops;7
+960719;Slide fasteners, nes;7
+960720;Parts of slide fasteners;7
+960810;Ball point pens;7
+960820;Felt tipped pens;7
+960831;Indian ink drawing pens;7
+960839;Fountain & stylorgraph pens;7
+960840;Propelling or sliding pencils;7
+960850;Sets of mixed pens/pencils types;7
+960860;Refills for ball point pens;7
+960891;Pen nibs & points;7
+960899;Duplicating stylos, pen holders;7
+960910;Pencils/crayons, leads in rigid sheath;7
+960920;Pencil leads, black/coloured;7
+960990;Pastels, chalks;7
+961000;Slates/boards with drawing surfaces;7
+961100;Hand printing, numbering devices;7
+961210;Typewriter ribbons;7
+961220;Ink-pads;7
+961310;Pocket lighters, gas-fuelled, non-refillable;7
+961320;Pocket lighters, gas-fuelled, refillable;7
+961330;Table lighters;7
+961380;Lighters, nes;7
+961390;Parts of lighters, other than flints/wicks;7
+961410;Wood/root blocks, for pipes;7
+961420;Smoking pipes & bowls;7
+961490;Cigar/ette holders, pipe stems;7
+961511;Combs, hard rubber or plastic;7
+961519;Combs, of other materials;7
+961590;Hairpins, hair-curlers;7
+961610;Scent sprays;7
+961620;Powder-puffs & cosmetic pads;7
+961700;Vacuum flasks;7
+961800;Tailors & display dummies;7
+970110;Paintings/drawings/pastels, by hand;0
+970190;Collages, decorative plaques;0
+970200;Engravings, prints;0
+970300;Sculptures, statuary;0
+970400;Used postage stamps;0
+970500;Collections & collectors pieces;0
+970600;Antiques;0
+999999;Commodities not specified, according to kind;9
+9999AA;Commodities not specified according to kind;9
+XXXXXX;Trade data discrepancies;10
+unspecified;Unspecified;10
+travel;Travel and tourism;10
+transport;Transport;10
+ict;ICT;10
+financial;Insurance and finance;10
