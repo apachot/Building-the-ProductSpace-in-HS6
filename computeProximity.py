@@ -13,7 +13,7 @@ print("hs_product_code", hs_product_code)
 
 #print(data)
 
-Proximity = ['source', 'target', 'weight']
+Proximity = [['source', 'target', 'weight']]
 
 print("len(hs_product_code)", len(hs_product_code))
 for i in range(0, len(hs_product_code)):
@@ -51,16 +51,17 @@ for i in range(0, len(hs_product_code)):
 
 		if ((sum_c_Mcp1 > 0) and (sum_c_Mcp2 > 0) and (sum_c_Mcp1Mcp2 > 0)):
 			P = np.minimum((sum_c_Mcp1Mcp2/sum_c_Mcp1) , (sum_c_Mcp1Mcp2/sum_c_Mcp2))
-			hs1 = hs_product_code[i][0]
-			hs2 = hs_product_code[j][0]
+			if (P>.5):
+				hs1 = hs_product_code[i][0]
+				hs2 = hs_product_code[j][0]
 			
-			Proximity.append([hs1, hs2, P])
-			#print(i)
+				Proximity.append([hs1, hs2, P])
+				print(i)
 			
 		else:
 			P = 0
 		
-pd.DataFrame(Proximity).to_csv('output/HS6_Proximities.csv', header=False, index=False)
-Print("Fin")
+pd.DataFrame(Proximity).to_csv('output/HS6_Proximities_0.5.csv', header=False, index=False)
+print("Fin")
 
 		
