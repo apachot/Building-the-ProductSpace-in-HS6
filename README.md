@@ -41,5 +41,20 @@ Here we propose an enriched version of the Product Space with more than 5000 cla
 
 ![Product Space in HS6](https://raw.githubusercontent.com/apachot/Building-the-ProductSpace-in-HS6/e857ca237197f384a9a41668321a61fdbbbe72da/gephi/HS6_proximities.svg)
 
-You can retrieve directly in the /output folder the proximity data between classes and the json network associated to the Product Space represented in 2D.
+## Download
 
+Download available on https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T9W75F
+
+You can refer to this dataset:
+
+```
+@data{DVN/T9W75F_2022,
+author = {PACHOT, Arnault},
+publisher = {Harvard Dataverse},
+title = {{Product Space Networks (6 digits)}},
+year = {2022},
+version = {V1},
+doi = {10.7910/DVN/T9W75F},
+url = {https://doi.org/10.7910/DVN/T9W75F}
+}
+```
