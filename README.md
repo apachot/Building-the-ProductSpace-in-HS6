@@ -37,9 +37,41 @@ You can find the datasets concerning the proximity measures between products and
 
 ## Extension of the available data sets in HS1992 on 6 digits
 
-Here we propose an enriched version of the Product Space with more than 5000 classes.
+We have built a full version of Product Space (on 6 digits) from the work of Haussman and Hidalgo on Economic Complexity presented above. It is an enriched version with more than 5000 product classes. 
+
+For our research work and in particular the Atlas of Productive Synergies (https://atlas.productive-synergies.com), the switch to HS6 is important because we need precision to make recommendations to companies. All the credit obviously goes to Harvard, I only declined their equations on the complete data of foreign trade (https://dataverse.harvard.edu/file.xhtml?fileId=6402163&version=5.0). 
 
 ![Product Space in HS6](https://raw.githubusercontent.com/apachot/Building-the-ProductSpace-in-HS6/e857ca237197f384a9a41668321a61fdbbbe72da/gephi/HS6_proximities.svg)
 
-You can retrieve directly in the /output folder the proximity data between classes and the json network associated to the Product Space represented in 2D.
+## Download
+
+Download available on https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T9W75F
+
+You can refer to this dataset:
+
+```
+@data{DVN/T9W75F_2022,
+author = {PACHOT, Arnault},
+publisher = {Harvard Dataverse},
+title = {{Product Space Networks (6 digits)}},
+year = {2022},
+version = {V1},
+doi = {10.7910/DVN/T9W75F},
+url = {https://doi.org/10.7910/DVN/T9W75F}
+}
+```
+
+## References
+
+Hidalgo, C. A., Klinger, B., Barabasi, A.-L., & Hausmann, R. (2007). The Product Space Conditions the Development of Nations. Science, 317(5837), 482‑487. https://doi.org/10.1126/science.1144581
+
+Bahar, D., Hausmann, R., & Hidalgo, C. A. (2014). Neighbors and the evolution of the comparative advantage of nations : Evidence of international knowledge diffusion? Journal of International Economics, 92(1), 111‑123. https://doi.org/10.1016/j.jinteco.2013.11.001
+
+Hausmann, R., Hidalgo, C. A., Bustos, S., Coscia, M., Simoes, A., & Yildirim, M. A. (2013). The Atlas of Economic Complexity : Mapping Paths to Prosperity (2nd éd.). MIT Press. https://mitpress.mit.edu/index.php?q=books/atlas-economic-complexity
+
+Hausmann, R., Rodrik, D., & Velasco, A. (2005). Growth Diagnostics.
+
+Balassa, B. (1965). Trade Liberalisation and « Revealed » Comparative Advantage. The Manchester School, 33(2), 99‑123. https://doi.org/10.1111/j.1467-9957.1965.tb00050.x
+
+
 
