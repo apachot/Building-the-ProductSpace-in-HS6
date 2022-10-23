@@ -47,7 +47,7 @@ For our research work and in particular the Atlas of Productive Synergies (https
 
 Download available on https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T9W75F
 
-You can refer to this dataset:
+If you find our work useful in your research, please consider citing:
 
 ```
 @data{DVN/T9W75F_2022,
